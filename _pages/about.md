@@ -10,6 +10,6 @@ redirect_from:
 
 ### News 最新情報
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
   <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 {% endfor %}
