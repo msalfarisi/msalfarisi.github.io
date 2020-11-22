@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-## News 最新情報
+### News 最新情報
 
 {% for post in site.posts %}
-  <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 {% endfor %}
