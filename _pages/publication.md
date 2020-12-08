@@ -26,11 +26,21 @@ author_profile: true
 8. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," [_J. Microelectromech. Syst._ **29** (3), pp. 418–426 (2020)](https://doi.org/10.1109/JMEMS.2020.2984229).
 9. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
 
-#### <span style="color:grey">Submitted drafts</span>
+### <span style="color:grey">Submitted drafts</span>
 1. <span style="color:grey">Y. Sato, A. Kobayashi, M. S. Al Farisi, T. Wanxin, K. Sugiyasu, M. Matsumoto: submitted (2019).</span>
 2. <span style="color:grey">M. S. Al Farisi, T. Tsukamoto, S. Tanaka: submitted (2020).</span>
 
 ## 学会発表 Conference Presentations
 
 ### 国際学会 International Conferences
+
+1. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Wafer-level vacuum packaging for hetero-integration by thermo-compression bonding using planarized-electroplated gold bumps," In [_Nano/Micro Engineered and Molecular Systems (NEMS), 2016 11th IEEE Int. Conf._, pp. 573–577 (2016)](https://doi.org/10.1109/NEMS.2016.7758317).
+2. **M. S. Al Farisi**, H. Hirano, S. Tanaka, H. Miura: "Grain refining of metal surface by mechanical cutting for low-temperature wafer-level vacuum bonding," In _2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture_, Abstracts 2 p. 6 (2017).
+3. **M. S. Al Farisi**, K. Tanaka, H. Hirano, S. Tanaka: "250°C wafer-level vacuum sealing using electroplated copper bonding frame planarized by fly-cutting," In [_Solid-State Sensors Actuators and Microsystems (TRANSDUCERS), 2017 19th Int. Conf._, pp. 1191–1194 (2017)](https://doi.org/10.1109/TRANSDUCERS.2017.7994267).
+4. **M. S. Al Farisi**, S. Hertel, M. Wiemer, T. Otto: “Investigation of aluminum patterned electrodeposition process from AlCl3-\[EMIm\]Cl ionic liquid for microsystems application”, In [_2018 Int. Conf. Electron. Packaging iMAPS All Asia Conf. (ICEP-IAAC)_, pp. 415–418 (2018)](https://doi.org/10.23919/ICEP.2018.8374336).
+5. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Sealed cavity pressure evaluation from 1 Pa to over 10 kPa using thin diaphragm for MEMS vacuum packaging", In [_2019 IEEE 32nd Int. Conf. Micro Electro Mechanical Syst. (MEMS)_, pp. 1045–1048 (2019)](https://doi.org/10.1109/MEMSYS.2019.8870823).
+6. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Roll/Pitch Rate Integrating MEMS Gyroscope Using Dynamically Balanced Dual-Mass Resonator", In [_2020 IEEE Int. Symp. Inertial Sensors and Systems (INERTIAL)_, pp. 1–4 (2020)](https://doi.org/10.1109/INERTIAL48129.2020.9090078).
+7. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid" _In Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020_, p. G05-1792 (2020).
+
+### 国内学会 Domestic Conferences
 
