@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [**my Google Scholar profile**](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ).
 
 ## 学術論文 Journal Articles
 
