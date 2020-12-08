@@ -53,23 +53,23 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)
   日本機械学会 正員
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[//]: # Publications
+[//]: # ======
+[//]: #   <ul>{% for post in site.publications %}
+[//]: #     {% include archive-single-cv.html %}
+[//]: #   {% endfor %}</ul>
   
-<> Talks
-<> ======
-<>  <ul>{% for post in site.talks %}
-<>    {% include archive-single-talk-cv.html %}
-<>  {% endfor %}</ul>
+[//]: #  Talks
+[//]: #  ======
+[//]: #   <ul>{% for post in site.talks %}
+[//]: #     {% include archive-single-talk-cv.html %}
+[//]: #   {% endfor %}</ul>
   
-<>Teaching
-<> ======
-<>  <ul>{% for post in site.teaching %}
-<>    {% include archive-single-cv.html %}
-<>  {% endfor %}</ul>
+[//]: # Teaching
+[//]: #  ======
+[//]: #   <ul>{% for post in site.teaching %}
+[//]: #     {% include archive-single-cv.html %}
+[//]: #   {% endfor %}</ul>
   
 学術論文査読 Review activity
 ======
