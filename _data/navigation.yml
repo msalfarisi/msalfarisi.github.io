@@ -28,6 +28,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Links"
     url: /links/
     
