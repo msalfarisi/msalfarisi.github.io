@@ -6,9 +6,6 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
 #  - title: "Portfolio"
 #    url: /portfolio/
         
@@ -30,7 +27,10 @@ main:
   - title: "Publication"
     url: /publication/
     
+  - title: "Teaching"
+    url: /teaching/    
+
   - title: "Links"
     url: /links/
     
-    
+
