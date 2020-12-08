@@ -14,9 +14,13 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 学歴 Education
 ======
 * **Doctoral (Dr.Eng.) / Apr. 2018 – Mar. 2021** (_expected_)
+
   Department of Robotics, Graduate School of Engineering, Tohoku University, Japan
+  
   東北大学　大学院工学研究科　ロボティクス専攻　博士後期課程
+  
   Funded by DIARE of Tohoku University and JSPS fellowship
+  
 * **Integrated doctoral program (minor) / Apr. 2016 – Mar. 2021** (_expected_)
   Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), Leading Graduate School, Tohoku University, Japan
   東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム
@@ -53,24 +57,6 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)
   日本機械学会 正員
 
-[//]: # Publications
-[//]: # ======
-[//]: #   <ul>{% for post in site.publications %}
-[//]: #     {% include archive-single-cv.html %}
-[//]: #   {% endfor %}</ul>
-  
-[//]: #  Talks
-[//]: #  ======
-[//]: #   <ul>{% for post in site.talks %}
-[//]: #     {% include archive-single-talk-cv.html %}
-[//]: #   {% endfor %}</ul>
-  
-[//]: # Teaching
-[//]: #  ======
-[//]: #   <ul>{% for post in site.teaching %}
-[//]: #     {% include archive-single-cv.html %}
-[//]: #   {% endfor %}</ul>
-  
 学術論文査読 Review activity
 ======
 * Microsystem Technologies (Springer)
