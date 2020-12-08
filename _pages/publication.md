@@ -44,3 +44,53 @@ author_profile: true
 
 ### 国内学会 Domestic Conferences
 
+1. R. Kaneko, **M. S. Al Farisi**, S. Yamada, M. Kuri: “Evaluation of the Disaster Mitigation Action Card Game for International Students in Japan”, In [_2017 Tohoku Natural Disaster Sci. Conf._, pp. 112–113 (2017)](http://nds-tohoku.in.arena.ne.jp/abstract/Abstract2017.pdf).
+  * Conference title in Japanese: 平成29年度東北地域災害科学研究集会.
+2. H. Tetsuka, Y. Kumagai, N. Araya, T. Seki, **M. S. Al Farisi**, K. Miyanabe, M. Kuri: “Education for Disaster Mitigation by Utilizing Liquefaction Experiment”, In [_Japan Geoscience Union (JpGU) Meeting 2018_, O05-01 (2018)](https://confit.atlas.jp/guide/event-img/jpgu2018/O05-01/public/pdf?type=in&lang=en).
+  * In Japanese: 手塚寛, 熊谷裕太, 新谷直己, 関亜美, **M. S. Al Farisi**, 宮鍋慶介, 久利美和, "液状化実験を活用した防災教育", [日本地球惑星科学連合2018年大会, O05-01](https://confit.atlas.jp/guide/event/jpgu2018/subject/O05-01/advanced).
+3. H. Tetsuka, **M. S. Al Farisi**, T. Seki, Y. Kumagai, N. Araya, K. Miyanabe, M. Kuri: "Investigation of effective education for disaster mitigation by utilizing liquefaction experiment", In [_2018 Tohoku Natural Disaster Sci. Conf._, pp. 5–6 (2018)](http://nds-tohoku.in.arena.ne.jp/wp/wp-content/uploads/2018/12/H30abstract.pdf).
+  * In Japanese: 手塚寛, **M. S. Al Farisi**, 関亜美, 熊谷裕太, 新谷直己, 宮鍋慶介, 久利美和, "液状化実験を活用した効果的な防災教育の検討"平成30年度東北地域災害科学研究集会 pp. 5–6.
+4. T. Seki, **M. S. Al Farisi**, H. Tetsuka, S. Ishibashi, Y. Kumagai, N. Araya, M. Kuri: "Support activities aimed at dissemination of voluntary and sustainable education for disaster mitigation: an example of the Disaster Mitigation Action Card Game", In [_2018 Tohoku Natural Disaster Sci. Conf._, pp. 14–15 (2018)](http://nds-tohoku.in.arena.ne.jp/wp/wp-content/uploads/2018/12/H30abstract.pdf).
+  * In Japanese: 関亜美, **M. S. Al Farisi**, 手塚寛, 石橋信治, 熊谷裕太, 新谷直己, 久利美和, "自主的・持続的な防災教育活動の普及を目指した実施支援 －減災アクションカードゲームを例にー" 平成30年度東北地域災害科学研究集会 pp. 14–15.
+5. Y. Sato, A. Kobayashi, **M. S. Al Farisi**, T. Wanxin, K. Sugiyasu, M. Matsumoto: "Investigation on Relief Supplies for Home Evacuees after the Great East Japan Earthquake —Case of Iwaki City, Fukushima Prefecture—", In _the Great East Japan Earthquake Workshop Series of the Institute of Social Safety Science_, p. A-6 (2019).
+  * In Japanese: 佐藤悠司, 小林陽成, **M. S. Al Farisi**, 唐万新, 杉安和也, 松本行真, "東日本大震災における在宅避難者への 物資支援に関する調査と考察 —福島県いわき市を対象として—", 地域安全学会東日本大震災連続ワークショップ 2019, p. A-6.
+6. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Fabrication Method of Micromachined Quartz Resonator Using Temporal Au Supporting Structures", In [_the 10th Symp. Micro-Nano Science and Technology_, p. 19pm5-PN3-42 (2019)](https://doi.org/10.1299/jsmemnm.2019.10.19pm5PN342).
+  * Conference title in Japanese: 第10回マイクロ・ナノ工学シンポジウム.
+7. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Dynamically Balanced Out-of-Plane Resonator for Roll/Pitch Rate Integrating Gyroscope", In _the 36th Sensor Symp. Sensors, Micromachines and Applied Systems_, p. 20am2-LN2-77 (2019).
+  * Conference title in Japanese: 第36回「センサ・マイクロマシンと応用システム」シンポジウム.
+8. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Investigation of Mechanical and Electrical Properties of Electroplated Aluminum Film from AlCl3-\[EMIm\]Cl Ionic Liquid", In _the 36th Sensor Symp. Sensors, Micromachines and Applied Systems_, p. 20am2-LN2-73 (2019).
+  * Conference title in Japanese: 第36回「センサ・マイクロマシンと応用システム」シンポジウム.
+9. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Out-of-plane resonator for roll/pitch rate integrated gyroscope with dynamically balanced dual-mass", In [_the 55th Annual Meeting of the Japan Society of Mechanical Engineers Tohoku Branch_, p. 182 (2020)](https://doi.org/10.1299/jsmeth.2020.55.182_paper).
+  * Conference title in Japanese: 日本機械学会東北支部 第55期総会・講演会.
+10. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Electromagnetically Actuated Quartz Glass Ring Resonator for Mode Matched Gyroscope", _In the IEEJ Micromachine and Sensor System Workshop_, p. MSS-20-022 (2020).
+  * Conference title in Japanese: 令和2年度電気学会 マイクロマシン・センサシステム研究会
+11. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Wafer-level thermocompression bonding using electroplated Al thin film", In _the 11th Symp. Micro-Nano Science and Technology_, p. 27A2-MN1-4 (2020).
+  * Conference title in Japanese: 第11回マイクロ・ナノ工学シンポジウム.
+
+## 招待講演 Invited Talks
+
+1. **M. S. Al Farisi**: "Wafer-Level Vacuum Packaging Using Electroplated-Planarized Metal Bonding," In _Nanotechnology Platform Student Training Program_, Tohoku University (2017).
+
+## 受賞 Awards
+
+1. Best Poster Award, 2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture (21 – 24 February 2017), Beijing, China.
+2. Ofunato Trading Hall Award, Disaster Prevention & Mitigation Contest (25 February 2017), Sendai, Japan.  
+   大船渡伝承館賞, 被災地と共に考える 防災・減災コンテスト2016年度.
+3. Japan Oil, Gas and Metals National Corporation (JOGMEC) Award, Academic City (Sendai City, Miyagi Prefecture) Science Day 2017 (16, 21 July 2017), Sendai, Japan.  
+   JOGMEC賞, 学都「仙台・宮城」サイエンス・デイ2017.
+4. Outstanding Technical Paper Award, 2018 International Conference on Electronics Packaging and iMAPS All Asia Conference (ICEP-IAAC) (17 – 21 April 2018), Kuwana, Japan.
+
+## 研究資金 Research Grants
+
+1. Sato Yo International Scholarship Foundation Travel Grant, April 2016 – March 2018 (PI)  
+Project title: Wafer-level vacuum thermo-compression bonding using fly-cut gold  
+Budget: JPY 300,000,-  
+公益財団法人　佐藤陽国際奨学財団　学会出席補助金制度（研究代表者）  
+課題名：切削平坦化した金バンプを用いたウェハレベル真空封止接合法の開発  
+研究期間：2016年4月〜2018年3月　　総額：300千円
+2. Tohoku University Leading Graduate School, Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), April 2016 – March 2021 (PI)  
+Project title: Wafer-level vacuum thermo-compression bonding using fly-cut gold.  
+Budget: JPY 1,190,000,-  
+国立大学法人　東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム　研究活動費（研究代表者）  
+課題名：切削平坦化した金バンプを用いたウェハレベル真空封止接合法の開発  
+研究期間：2016年4月〜2021年3月　　総額：1,190千円
