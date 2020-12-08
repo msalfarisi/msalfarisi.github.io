@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Vitae"
+title: "経歴 Vitae"
 permalink: /vitae/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
-学歴 Education
-======
+## 学歴 Education
+
 * **Doctoral (Dr.Eng.) / Apr. 2018 – Mar. 2021** (_expected_)  
   Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　博士後期課程  
@@ -30,8 +30,8 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
   東北大学　工学部　機械知能・航空工学科  
   Funded by Tohoku University Indonesian Global Leadership Awards (Oct. 2012 – Mar. 2014), Tohoku University President Fellowship (Oct. 2012 – Mar. 2016) and JEES Mitsubishi Corp. International Scholarship (Apr. 2014 – Mar. 2016)
 
-職歴 Appointment
-======
+## 職歴 Appointment
+
 * **Research fellow 学振特別研究員 (DC2) / Apr. 2019 – present**  
   Young research fellow (DC2) of the Japan Society for the Promotion of Science (JSPS) at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　日本学術振興会特別研究員（DC2）
@@ -47,12 +47,12 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **Visiting researcher 客員研究員 / Feb. 2017 – Jun. 2017**  
   Department of System Packaging, Fraunhofer Institute for Electronic Nano Systems (ENAS), Germany  
   
-所属学会 Academic Society
-======
+## 所属学会 Academic Society
+
 * Institute of Electrical and Electronics Engineers (IEEE), Student Member (2017〜)  
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)  
   日本機械学会 正員
 
-学術論文査読 Review activity
-======
+## 学術論文査読 Review activity
+
 * Microsystem Technologies (Springer)  
