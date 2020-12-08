@@ -25,8 +25,8 @@ author_profile: true
 8. M. S. Al Farisi, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," J. Microelectromech. Syst. 29 (3), pp. 418–426 (2020).
 9. M. S. Al Farisi, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," Sens. Act. A Phys. 316, p. 112384 (2020).
 
-<span style="color:grey">
-  _Submitted drafts
-1. Y. Sato, A. Kobayashi, M. S. Al Farisi, T. Wanxin, K. Sugiyasu, M. Matsumoto: submitted (2019).
-2. M. S. Al Farisi, T. Tsukamoto, S. Tanaka: submitted (2020).
-</span>
+<span style="color:grey">Submitted drafts</span>
+========
+1. <span style="color:grey">Y. Sato, A. Kobayashi, M. S. Al Farisi, T. Wanxin, K. Sugiyasu, M. Matsumoto: submitted (2019).</span>
+2. <span style="color:grey">M. S. Al Farisi, T. Tsukamoto, S. Tanaka: submitted (2020).</span>
+
