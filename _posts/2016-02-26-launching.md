@@ -1,7 +1,7 @@
 ---
 title: 'Website is launched'
 date: 2016-02-26
-permalink: /posts/2016/02/web-launch/
+permalink: /news/2016/02/web-launch/
 tags:
   - news
 ---
