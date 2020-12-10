@@ -16,8 +16,8 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 
 ## News 最新情報
 
-{% for post in site.posts limit:5 %}
-  <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% for post in site.posts limit:7 %}
+  <li><span style="color:#6d6d6d;">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}  
 
 #### [Older updates](/news/)
