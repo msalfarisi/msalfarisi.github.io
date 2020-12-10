@@ -20,7 +20,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
   <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}  
 
-[Older updates](/news/)
+#### [Older updates](/news/)
 
 ## Calendar 予定表
 
