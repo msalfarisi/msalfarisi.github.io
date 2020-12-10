@@ -190,6 +190,9 @@ collections:
   blogs:
     output: true
     permalink: /:collection/:path/
+  study:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -258,6 +261,15 @@ defaults:
       comments: true
       share: true
       related: true
+  # _study
+  - scope:
+      path: ""
+      type: study
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
