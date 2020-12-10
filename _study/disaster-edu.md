@@ -1,5 +1,5 @@
 ---
-title: "防災教育 Education for disaster mitigation"
+title: "Education for disaster mitigation"
 excerpt: "Improving disaster mitigation knowledge of general people<br/>
           子供からお年寄りまで一般人向け防災教育<br/>
           <img src='/images/500x300.png'>"
