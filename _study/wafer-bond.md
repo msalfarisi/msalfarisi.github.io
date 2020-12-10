@@ -1,6 +1,6 @@
 ---
-title: "Heterogeneous device integration and hermetic packaging<br/>
-        ヘテロデバイス集積化・真空封止パッケージング "
+title: "Heterogeneous integration and packaging<br/>
+        ヘテロ集積化・パッケージング"
 excerpt: "Wafer-level hermetic bonding for heterogeneous device integration and packaging using planarized metal frames<br/>
           平坦化した金属フレームを用いてヘテロデバイス集積化・真空封止接合・パッケージング<br/>
           <img src='/images/500x300.png'>"
