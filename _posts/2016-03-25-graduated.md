@@ -1,7 +1,7 @@
 ---
 title: 'Graduated from Tohoku University (Undergraduate)'
 date: 2016-03-25
-permalink: /posts/2016/03/graduated/
+permalink: /news/2016/03/graduated/
 tags:
   - news
 ---
