@@ -23,6 +23,26 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2018/11/22</td>
+    <td><a href="/publication/">Our works (2)</a> were presented (oral) at <a href="http://nds-tohoku.in.arena.ne.jp/申込要領一覧/プログラム（h30年度）/">Tohoku Natural Disaster Science Conference</a>, 22-23 December 2018 in Akita, Japan. The abstract is available <a href="http://nds-tohoku.in.arena.ne.jp/wp/wp-content/uploads/2018/12/H30abstract.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/11/22</td>
+    <td><a href="/publication/">Our paper</a> on Al patterned electroplating is published in <a href="https://doi.org/10.3390/mi9110589">Micromachines</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/09/21</td>
+    <td>Left the Automotive & Industrial Systems Company, <a href="https://www.panasonic.com/global/home.html">Panasonic Corporation</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/09/02</td>
+    <td>Joined the Automotive & Industrial Systems Company, <a href="https://www.panasonic.com/global/home.html">Panasonic Corporation</a> as an intern.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/07/05</td>
+    <td><a href="/publication/">Our paper</a> on wafer-level packaging using electroplated-planarized Cu is published in <a href="https://doi.org/10.1016/j.sna.2018.06.021">Sensors and Actuators A: Physical</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2018/06/29</td>
     <td>Started as a graduate student researcher (博士研究教育院生) of the <a href="http://www.iiare.tohoku.ac.jp/">Division for Interdisciplinary Advanced Research and Education (DIARE) of Tohoku University (東北大学 学際高等研究教育院)</a>. *Officially starts from April 2018.</td>
   </tr>
