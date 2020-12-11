@@ -25,24 +25,24 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
-    <th style="color:#6d6d6d;">2016/04/06</th>
-    <th style="color:#6d6d6d;">»</th>
-    <th>Started as a scholar of Sato Yo International Scholarship Foundation.</th>
+    <td style="color:#6d6d6d;">2016/04/06</td>
+    <td style="color:#6d6d6d;">»</td>
+    <td>Started as a scholar of Sato Yo International Scholarship Foundation.</td>
   </tr>
   <tr>
-    <th style="color:#6d6d6d;">2016/04/06</th>
-    <th style="color:#6d6d6d;">»</th>
-    <th>Enrolled to Tohoku University, Department of Robotics, Graduate School of Engineering, and Inter-Graduate School Doctoral Degree Program on Science for Global Safety, Leading Graduate School.</th>
+    <td style="color:#6d6d6d;">2016/04/06</td>
+    <td style="color:#6d6d6d;">»</td>
+    <td>Enrolled to Tohoku University, Department of Robotics, Graduate School of Engineering, and Inter-Graduate School Doctoral Degree Program on Science for Global Safety, Leading Graduate School.</td>
   </tr>
   <tr>
-    <th style="color:#6d6d6d;">2016/03/25</th>
-    <th style="color:#6d6d6d;">»</th>
-    <th>Graduated from Tohoku University, Bachelor of Engineering in Mechanical Engineering.</th>
+    <td style="color:#6d6d6d;">2016/03/25</td>
+    <td style="color:#6d6d6d;">»</td>
+    <td>Graduated from Tohoku University, Bachelor of Engineering in Mechanical Engineering.</td>
   </tr>
   <tr>
-    <th style="color:#6d6d6d;">2016/02/26</th>
-    <th style="color:#6d6d6d;">»</th>
-    <th>Homepage of Muhammad Salman Al Farisi is started.</th>
+    <td style="color:#6d6d6d;">2016/02/26</td>
+    <td style="color:#6d6d6d;">»</td>
+    <td>Homepage of Muhammad Salman Al Farisi is started.</td>
   </tr>
 </table> 
 </div>
