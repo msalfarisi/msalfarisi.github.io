@@ -20,10 +20,36 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
   <li><span style="color:#6d6d6d;">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 {% endfor %}  
 
-#### [Older updates](/news/)
-
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
+  <tr>
+    <td style="color:#6d6d6d;">2018/06/29</td>
+    <td>Started as a graduate student researcher (博士研究教育院生) of the <a href="http://www.iiare.tohoku.ac.jp/">Division for Interdisciplinary Advanced Research and Education (DIARE) of Tohoku University (東北大学 学際高等研究教育院)</a>. *Officially starts from April 2018.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/06/07</td>
+    <td><a href="/publication/">Our conference proceeding</a> on Al electroplating is available online in <a href="https://ieeexplore.ieee.org/document/8374336/">Proceedings of ICEP-IAAC 2018</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/05/20</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at <a href="http://www.jpgu.org/meeting_2018/"> Japan Geoscience Union (JpGU) Meeting</a>, 20-24 May 2018 in Chiba, Japan. The abstract is available <a href="https://confit.atlas.jp/guide/event-img/jpgu2018/O05-01/public/pdf?type=in&lang=en">here</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/05/18</td>
+    <td><a href="/publication/">Our paper</a> on the implementation of the Disaster Mitigation Action Card game is published in <a href="http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume54/54-49.pdf">Tohoku Journal of Natural Disaster Science</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/04/20</td>
+    <td>Presented (oral) at <a href="http://jiep.or.jp/icep/index.html">ICEP-IAAC 2018</a>, 17-21 April 2018 in Kuwana, Japan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/04/04</td>
+    <td>Enrolled to <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, <a href="https://www.mech.tohoku.ac.jp/">Department of Robotics</a>, <a href="https://www.eng.tohoku.ac.jp/">Graduate School of Engineering</a> (doctoral course).</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/03/27</td>
+    <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Master of Engineering in Robotics.</td>
+  </tr>
   <tr>
     <td style="color:#6d6d6d;">2018/01/07</td>
     <td><a href="/publication/">Our work</a> was presented (oral) at <a href="http://nds-tohoku.in.arena.ne.jp/申込要領一覧/プログラム（h29年度）/">Tohoku Natural Disaster Science Conference</a>, 6-7 January 2018 in Hachinohe, Japan. The abstract is available <a href="http://nds-tohoku.in.arena.ne.jp/abstract/Abstract2017.pdf">here</a>.</td>
@@ -98,6 +124,8 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
   </tr>
 </table> 
 </div>
+
+#### [Older updates](/news/)
 
 ## Calendar 予定表
 
