@@ -23,16 +23,28 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 #### [Older updates](/news/)
 
 <div style="overflow-y: scroll; height:400px;">
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
-Test<br>
+ <table style="width:100%">
+  <tr>
+    <th style="color:#6d6d6d;">2016/04/06</th>
+    <th style="color:#6d6d6d;">»</th>
+    <th>Started as a scholar of Sato Yo International Scholarship Foundation.</th>
+  </tr>
+  <tr>
+    <th style="color:#6d6d6d;">2016/04/06</th>
+    <th style="color:#6d6d6d;">»</th>
+    <th>Enrolled to Tohoku University, Department of Robotics, Graduate School of Engineering, and Inter-Graduate School Doctoral Degree Program on Science for Global Safety, Leading Graduate School.</th>
+  </tr>
+  <tr>
+    <th style="color:#6d6d6d;">2016/03/25</th>
+    <th style="color:#6d6d6d;">»</th>
+    <th>Graduated from Tohoku University, Bachelor of Engineering in Mechanical Engineering.</th>
+  </tr>
+  <tr>
+    <th style="color:#6d6d6d;">2016/02/26</th>
+    <th style="color:#6d6d6d;">»</th>
+    <th>Homepage of Muhammad Salman Al Farisi is started.</th>
+  </tr>
+</table> 
 </div>
 
 ## Calendar 予定表
