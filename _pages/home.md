@@ -25,23 +25,35 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
-    <td style="color:#6d6d6d;">2016/04/06</td>
-    <td style="color:#6d6d6d;">»</td>
-    <td>Started as a scholar of Sato Yo International Scholarship Foundation.</td>
+    <td style="color:#6d6d6d;">2016/11/30</td>
+    <td><a href="/publication/">Our paper</a> on wafer-level packaging using electroplated-planarized Au is published in <a href="http://dx.doi.org/10.1088/1361-6439/27/1/015029">Journal of Micromechanics and Microengineering</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2016/09/07</td>
+    <td>Attended TFC ELyT School 2016: Comprehensive Research on Materials, Systems and Energy for a Sustainable Future of the Earth in Sendai, Japan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2016/08/08</td>
+    <td>Attended Next Generation Automobiles, Miyagi Area Summer Camp 2016 in Osaki, Japan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2016/04/20</td>
+    <td>Presented (oral) at <a href="http://ieee-nems.org/2016/">IEEE NEMS 2016</a>, 17-20 April 2016 in Sendai and Matsushima City, Japan.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2016/04/06</td>
-    <td style="color:#6d6d6d;">»</td>
-    <td>Enrolled to Tohoku University, Department of Robotics, Graduate School of Engineering, and Inter-Graduate School Doctoral Degree Program on Science for Global Safety, Leading Graduate School.</td>
+    <td>Started as a scholar of <a href="https://sisf.or.jp/ja/">Sato Yo International Scholarship Foundation</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2016/04/06</td>
+    <td>Enrolled to <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, <a href="https://www.mech.tohoku.ac.jp/">Department of Robotics</a>, <a href="https://www.eng.tohoku.ac.jp/">Graduate School of Engineering</a>, and <a href="http://lgs.tohoku.ac.jp/gsafety/">Inter-Graduate School Doctoral Degree Program on Science for Global Safety, Leading Graduate School</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2016/03/25</td>
-    <td style="color:#6d6d6d;">»</td>
-    <td>Graduated from Tohoku University, Bachelor of Engineering in Mechanical Engineering.</td>
+    <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Bachelor of Engineering in Mechanical Engineering.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2016/02/26</td>
-    <td style="color:#6d6d6d;">»</td>
     <td>Homepage of Muhammad Salman Al Farisi is started.</td>
   </tr>
 </table> 
