@@ -25,6 +25,46 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2018/01/07</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at <a href="http://nds-tohoku.in.arena.ne.jp/申込要領一覧/プログラム（h29年度）/">Tohoku Natural Disaster Science Conference</a>, 6-7 January 2018 in Hachinohe, Japan. The abstract is available <a href="http://nds-tohoku.in.arena.ne.jp/abstract/Abstract2017.pdf">here</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/08/01</td>
+    <td><a href="/publication/">Our conference proceeding</a> on wafer-level packaging using electroplated-planarized Cu is available online in <a href="http://ieeexplore.ieee.org/abstract/document/7994267/">Proceedings of Transducers 2017</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/07/21</td>
+    <td><a href="http://www.science-day.com/program/?ID=e2017-499">Our booth in Science Day 2017</a> (Academic City: Sendai City, Miyagi Prefecture) on 16 July 2017, featuring the Disaster Mitigation Action Card Game , has been honored with the Japan Oil, Gas and Metals National Corporation (JOGMEC) Award.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/07/10</td>
+    <td>Presented (oral, invited) at the Nanotechnology Platform Student Training Program, Tohoku University (10-14 July 2017).</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/06/22</td>
+    <td>Presented (poster) at the <a href="http://www.transducers2017.org/">19th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 18-22 June 2017 in Kaohsiung, Taiwan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/06/15</td>
+    <td>Left the Department of System Packaging at <a href="http://www.enas.fraunhofer.de/en.html">Fraunhofer Institute for Electronic Nano Systems (ENAS)</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/02/25</td>
+    <td>Disaster Mitigation Action Card (DMAC) Game has been honored with Ofunato Trading Hall Award (大船渡伝承館賞) at the Disaster Prevention & Mitigation Contest (被災地と共に考える 防災・減災コンテスト) held by the <a href="https://ofunato-tunami-denshokan.jimdo.com/">Ofunato Trading Hall (大船渡伝承館)</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/02/24</td>
+    <td>Presented (oral and poster) at the 2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture, 21-24 February 2017 in Beijing, China. Our paper has been honored with the Best Poster Award.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2017/01/31</td>
+    <td>Joined the Department of System Packaging at <a href="http://www.enas.fraunhofer.de/en.html">Fraunhofer Institute for Electronic Nano Systems (ENAS)</a> in Germany as a visiting researcher (student).</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2016/12/01</td>
+    <td><a href="/publication/">Our conference proceeding</a> on wafer-level packaging using electroplated-planarized Au is available online in <a href="http://dx.doi.org/10.1109/NEMS.2016.7758317">Proceedings of IEEE NEMS 2016</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2016/11/30</td>
     <td><a href="/publication/">Our paper</a> on wafer-level packaging using electroplated-planarized Au is published in <a href="http://dx.doi.org/10.1088/1361-6439/27/1/015029">Journal of Micromechanics and Microengineering</a>.</td>
   </tr>
