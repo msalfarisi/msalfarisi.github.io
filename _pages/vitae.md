@@ -20,7 +20,6 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **Integrated doctoral program (minor) / Apr. 2016 – Mar. 2021** (_expected_)  
   Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), Leading Graduate School, Tohoku University, Japan  
   東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム  
-  Funded by DIARE of Tohoku University and JSPS fellowship
 * **Master (M.Eng.) / Apr. 2016 – Mar. 2018**  
   Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　博士前期課程  
