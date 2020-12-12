@@ -1,5 +1,5 @@
 ---
-permalink: /link/
+permalink: /links/
 title: "Useful Links"
 author_profile: true
 ---
