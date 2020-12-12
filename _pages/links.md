@@ -4,6 +4,8 @@ title: "Useful Links"
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## GNU tools
 
 * **CAD**: [LibreCAD](https://librecad.org/) (2D), [FreeCAD](http://www.freecadweb.org/) (3D)
