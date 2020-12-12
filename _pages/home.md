@@ -16,14 +16,70 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 
 ## News 最新情報
 
-{% for post in site.posts limit:7 %}
-  <li><span style="color:#6d6d6d;">{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-{% endfor %}  
-
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
-    <td style="color:#6d6d6d;">2018/11/22</td>
+    <td style="color:#6d6d6d;">2020/12/12</td>
+    <td>Homepage migrated to github.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/10/28</td>
+    <td>Presented (virtually, oral) at the <a href="https://www.jsme.or.jp/conference/mnm2020/">11th Symposium on Micro-Nano Science and Technology 日本機械学会 第11回マイクロ・ナノ工学シンポジウム</a>, 26-28 October 2020. The conference was originally scheduled to be hold in Kumamoto City, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/10/20</td>
+    <td><a href="/publication/">Our paper</a> on the material properties of the electrochemically deposited Al has been published in <a href="https://doi.org/10.1016/j.sna.2020.112384">Sensors and Actuators A: Physical</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/10/09</td>
+    <td>Presented (virtually, oral) at the <a href="https://www.electrochem.org/prime2020">Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020</a>, 4-9 October 2020. The conference was originally scheduled to be hold in Hawaii, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/07/07</td>
+    <td><a href="/publication/">Our work</a> was virtually presented (oral) at the <a href="https://www.iee.jp/blog/esoken2020/">2020 IEEJ Micromachine and Sensor System Workshop 令和2年度電気学会 マイクロマシン・センサシステム研究会</a>, 7-8 July 2020. The conference was originally scheduled to be hold in Kusatsu City, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/04/09</td>
+    <td><a href="/publication/">Our paper</a> on the sealed cavity pressure evaluation method for micro-packages: zero-balance method is published in <a href="https://doi.org/10.1109/JMEMS.2020.2984229">Journal of Microelectromechanical Systems</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/03/26</td>
+    <td><a href="/publication/">Our work</a> was virtually presented (oral) at the <a href="https://2020.ieee-inertial.org/">IEEE International Symposium on Inertial Sensors & Systems (INERTIAL) 2020</a>, 23-26 March 2020. The conference was originally scheduled to be hold in Hiroshima, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2020/02/29</td>
+    <td><a href="/publication/">Our paper</a> on the fabrication technique of quartz glass resonator is published in <a href="https://doi.org/10.1016/j.sna.2020.111922">Sensors and Actuators A: Physical</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/11/21</td>
+    <td><a href="/publication/">Our works (3)</a> were presented (posters) at the <a href="/publication/">36th Sensor Symposium on Sensors, Micromachines and Applied Systems 電気学会 第36回「センサ・マイクロマシンと応用システム」シンポジウム</a> and the <a href="/publication/">10th Symposium on Micro-Nano Science and Technology 日本機械学会 第10回マイクロ・ナノ工学シンポジウム</a>, 19-21 November 2019 in Hamamatsu, Japan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/10/17</td>
+    <td><a href="/publication/">Our conference proceeding</a> on sealed cavity pressure evaluation system is available online in <a href="https://ieeexplore.ieee.org/document/8870823">Proceedings of IEEE MEMS 2019</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/08/03</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at the Great East Japan Earthquake Workshop Series of the Institute of Social Safety Science 地域安全学会東日本大震災連続ワークショップ, 2-3 August 2019 in Minamisoma, Japan.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/08/01</td>
+    <td><a href="/publication/">Our papers</a> on <a href="http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume55/55-35.pdf">disaster education using liquefaction experiment</a> and <a href="http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume55/55-36.pdf">dissemination of the Disaster Mitigation Action Card game</a> are published in <a href="http://nds-tohoku.in.arena.ne.jp/%e8%ab%96%e6%96%87%e9%9b%86%e4%b8%80%e8%a6%a7/volume55-jp/">Tohoku Journal of Natural Disaster Science</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/04/20</td>
+    <td><a href="https://ieeexplore.ieee.org/document/8374336/">Our conference paper</a> on Al electroplating presented in the 2018 International Conference on Electronics Packaging and iMAPS All Asia Conference (ICEP-IAAC) has been awarded "Outstanding Technical Paper Award" during the the 2019 International Conference on Electronics Packaging (ICEP) 17-20 April 2019 in Niigata, Japan. <a href="https://www.mech.tohoku.ac.jp/prize190422/">News from Tohoku University Mechanical Engineering Division</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/04/01</td>
+    <td>Started as a <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> DC2 Research Fellow at the Department of Robotics, Graduate School of Engineering, Tohoku University.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2019/01/31</td>
+    <td>Presented (poster) at the <a href="http://www.mems19.org/">32nd IEEE International Conference on Micro Electro Mechanical Systems (MEMS)</a>, 27-31 January 2019 in Seoul, South Korea.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2018/12/23</td>
     <td><a href="/publication/">Our works (2)</a> were presented (oral) at <a href="http://nds-tohoku.in.arena.ne.jp/申込要領一覧/プログラム（h30年度）/">Tohoku Natural Disaster Science Conference</a>, 22-23 December 2018 in Akita, Japan. The abstract is available <a href="http://nds-tohoku.in.arena.ne.jp/wp/wp-content/uploads/2018/12/H30abstract.pdf">here</a>.</td>
   </tr>
   <tr>
@@ -144,8 +200,6 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
   </tr>
 </table> 
 </div>
-
-#### [Older updates](/news/)
 
 ## Calendar 予定表
 
