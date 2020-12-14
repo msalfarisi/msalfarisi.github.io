@@ -3,7 +3,7 @@ title: "Al electroplating for MEMS"
 excerpt: "Aluminum electroplating from ionic liquid and its microsystem application<br/>
           マイクロシステム応用を目指したアルミニウム電気めっき技術<br/>
           <img src='/images/research-alecd.png'>"
-collection: study
+collection: research
 ---
 
 Electroplating or electro-chemical deposition process is an indispensable process for MEMS fabrication. Aluminum is also a metallic material which is commonly used for MEMS application. However, it is impossible to reduce Al ion to metallic deposit in any aqueous solution since it is instantaneously oxidized in aqueous media. Al electroplating process using ionic liquid as a media is a relatively new process, which is currently being studied by materials scientist primarily as anti-corrosion coatings. In our study, we are studying the electroplating method and its microsystem applications.
