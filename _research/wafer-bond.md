@@ -2,8 +2,8 @@
 title: "Heterogeneous integration and packaging"
 excerpt: "Wafer-level hermetic bonding for heterogeneous device integration and packaging using planarized metal frames<br/>
           平坦化した金属フレームを用いてヘテロデバイス集積化・真空封止接合・パッケージング<br/>
-          <img src='/images/500x300.png'>"
-collection: study
+          <img src='/images/research-bond.png'>"
+collection: research
 ---
 
 Micro/nano-device fabrication technology is getting matured and diversified for various applications, and thus, wafer-level integration between heterogeneous components is becoming a promising More-than-Moore approach for advanced device packaging in practical application. We are developing a heterogeneous integration and packaging technology based on electroplated-planarized metal thermo-compression wafer-level bonding for semiconductors. The developed technology allows device integration, vacuum packaging, and electrical interconnection at the same time, and is available for micro-structured wafers, such as MEMS. High vacuum sealing and measurement technology is being developed.
