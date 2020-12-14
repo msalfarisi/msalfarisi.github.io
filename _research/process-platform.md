@@ -1,7 +1,7 @@
 ---
 title: "MEMS platform based on wafer bonding"
 excerpt: "Microsystems process platform enabled by wafer bonding process<br/>
-          ウェハレベル接合によるマイクロシステムプロセスプラットフォーム<br/>
+          ウェハレベル接合によるマイクロシステムプロセスプラットフォーム<br/><br/>
           <img src='/images/research-platform.png' width='70%'>"
 collection: research
 ---
