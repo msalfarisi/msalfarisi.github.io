@@ -207,7 +207,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 
 ## Access アクセス
 
- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25064.06210277754!2d140.852754!3d38.256126!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDE1JzE4LjciTiAxNDDCsDUwJzQzLjgiRQ!5e0!3m2!1sen!2sus!4v1606090893838!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25064.06210277754!2d140.852754!3d38.256126!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDE1JzE4LjciTiAxNDDCsDUwJzQzLjgiRQ!5e0!3m2!1sen!2sus!4v1606090893838!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
 
 Tohoku University Aobayama Campus<br>
 6-6-01 Aramaki aza Aoba, Aoba-ku, Sendai, Miyagi 980-8579, Japan<br>
@@ -219,6 +219,7 @@ Research Bld. M.A.E. (A15) - Room 513
 
 ## Contact 連絡先
 
-salman(at)mems.mech.tohoku.ac.jp *or*<br>
-salman_fareez(at)yahoo.com<br>
+salman(at)mems.mech.tohoku.ac.jp  
+*or*  
+salman_fareez(at)yahoo.com  
 *Change "(at)" to "@"*
