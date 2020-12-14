@@ -3,7 +3,7 @@ title: "MEMS platform based on wafer bonding"
 excerpt: "Microsystems process platform enabled by wafer bonding process<br/>
           ウェハレベル接合によるマイクロシステムプロセスプラットフォーム<br/>
           <img src='/images/research-platform.png'>"
-collection: study
+collection: research
 ---
 
 Some MEMS devices have to be built of more than 1 substrates. The different substrates are integrated either at the final phase by assembly process or at the initial phase by wafer-level bonding process. Assembly process is relatively easier to achieve, however, it is a labour hungry technique. The latter process gives a significant advantage in term of batch fabrication, and thus, reducing overall device fabrication cost. We are developing MEMS process platforms utilizing the wafer bonding process to enable batch fabrication of the devices. 
