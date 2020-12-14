@@ -2,7 +2,7 @@
 title: "Al electroplating for MEMS"
 excerpt: "Aluminum electroplating from ionic liquid and its microsystem application<br/>
           マイクロシステム応用を目指したアルミニウム電気めっき技術<br/>
-          <img src='/images/research-alecd.png' style="width:100%">"
+          <img src='/images/research-alecd.png'>"
 collection: research
 ---
 
