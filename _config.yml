@@ -190,7 +190,7 @@ collections:
   blogs:
     output: true
     permalink: /:collection/:path/
-  study:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -261,10 +261,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _study
+  # _research
   - scope:
       path: ""
-      type: study
+      type: research
     values:
       layout: single
       author_profile: true
