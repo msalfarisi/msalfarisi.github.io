@@ -24,12 +24,12 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
   Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　博士前期課程  
   Funded by Sato Yo International Scholarship  
-* **Undergraduate (B.Eng.) / Oct. 2012 – Mar. 2016**
+* **Undergraduate (B.Eng.) / Oct. 2012 – Mar. 2016**  
   Department of Mechanical and Aerospace Engineering, School of Engineering, Tohoku University, Japan  
   東北大学　工学部　機械知能・航空工学科  
   Funded by Tohoku University Indonesian Global Leadership Awards (Oct. 2012 – Mar. 2014), Tohoku University President Fellowship (Oct. 2012 – Mar. 2016) and JEES Mitsubishi Corp. International Scholarship (Apr. 2014 – Mar. 2016)
-* **High school / Jul. 2009 – Jun. 2012**
-  MAN Insan Cendekia Serpong, Indonesia
+* **High school / Jul. 2009 – Jun. 2012**  
+  MAN Insan Cendekia Serpong, Indonesia  
   Funded by a scholarship from the Ministry of Religious Affairs, Republic of Indonesia
 
 ## 職歴 Appointment
