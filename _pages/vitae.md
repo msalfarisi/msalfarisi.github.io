@@ -28,6 +28,9 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
   Department of Mechanical and Aerospace Engineering, School of Engineering, Tohoku University, Japan  
   東北大学　工学部　機械知能・航空工学科  
   Funded by Tohoku University Indonesian Global Leadership Awards (Oct. 2012 – Mar. 2014), Tohoku University President Fellowship (Oct. 2012 – Mar. 2016) and JEES Mitsubishi Corp. International Scholarship (Apr. 2014 – Mar. 2016)
+* **High school / Jul. 2009 – Jun. 2012**
+  MAN Insan Cendekia Serpong, Indonesia
+  Funded by a scholarship from the Ministry of Religious Affairs, Republic of Indonesia
 
 ## 職歴 Appointment
 
@@ -40,9 +43,9 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **Research assistant (RA) / Apr. 2016 – present**  
   Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), Leading Graduate School, Tohoku University, Japan  
   東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム  
-* **Intern 夏インターン (3週間) / Sep. 2019**  
+* **Intern 夏インターン / Sep. 2019**  
   Sensing Solution Development Center, Engineering Division, Automotive & Industrial Systems Company, Panasonic Corporation, Japan  
-  パナソニック株式会社　オートモーティブ・インダストリアルシステムズ社開発部　センシング・ソリューション開発センター  
+  パナソニック株式会社　オートモーティブ・インダストリアルシステムズ社開発部　センシング・ソリューション開発センター  (3週間)
 * **Visiting researcher 客員研究員 / Feb. 2017 – Jun. 2017**  
   Department of System Packaging, Fraunhofer Institute for Electronic Nano Systems (ENAS), Germany  
   
