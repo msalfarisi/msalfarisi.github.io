@@ -3,6 +3,7 @@ title: "Heterogeneous integration and packaging"
 excerpt: "Wafer-level hermetic bonding for heterogeneous device integration and packaging using planarized metal frames<br/>
           平坦化した金属フレームを用いてヘテロデバイス集積化・真空封止接合・パッケージング<br/><br/>
           <img src='/images/research-bond.png' width='70%'>"
+permalink: /research/wafer-bond/
 collection: research
 ---
 
