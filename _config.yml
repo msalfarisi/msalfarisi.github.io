@@ -226,7 +226,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: default
+      layout: talk
       author_profile: true
       share: true
       comments: true
