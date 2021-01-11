@@ -18,7 +18,7 @@ Ketika kita kenakan gaya sebesar F pada massa yang kita punya, dengan k sebagai 
 
 $$F = k x$$
 
-ΣF = m a
+$$ΣF = m a$$
 
 m a = k x
 
