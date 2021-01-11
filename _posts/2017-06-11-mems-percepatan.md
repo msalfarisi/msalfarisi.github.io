@@ -49,4 +49,4 @@ Ketua dari tim mahasiswa yang berasal dari Tohoku University ini merupakan salah
 * Esashi, Masayoshi. はじめてのMEMS (Introduction to MEMS). 工業調査会, 2009.
 * http://www.memsjournal.com/2010/12/motion-sensing-in-the-iphone-4-mems-accelerometer.html
 
-Telah diterbitkan di (Rubrik Teknologi Majalah 1000guru edisi Oktober 2017)[http://majalah1000guru.net/2017/10/sensor-percepatan-mems/].
+Telah diterbitkan di [Rubrik Teknologi Majalah 1000guru edisi Oktober 2017](http://majalah1000guru.net/2017/10/sensor-percepatan-mems/).
