@@ -16,7 +16,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.
 
-> *Muhammad bin Abdullah*
+> -- *Muhammad bin Abdullah*
 
 ## News 最新情報
 
