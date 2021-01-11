@@ -6,6 +6,7 @@ tags:
   - 1000guru
   - mems
   - science
+  - id
 ---
 
 Teman-teman tentu mempunyai smartphone atau ponsel pintar, bukan? Pernahkah terpikirkan oleh teman-teman mengapa ketika kita memutar ponsel dengan sudut 90°, orientasi layar pada ponsel akan berubah dari potrait ke landscape ataupun sebaliknya? Kira-kira dari mana ponsel ini mengetahui kalau dia sedang kita putar? Jawabannya adalah karena di dalam ponsel kita tertanam sensor percepatan atau dikenal sebagai akselerometer yang bisa mendeteksi adanya percepatan.
@@ -45,8 +46,8 @@ Sado merupakan kosakata bahasa Jepang yang artinya adalah upacara minum teh trad
 Ketua dari tim mahasiswa yang berasal dari Tohoku University ini merupakan salah satu orang yang telah terlatih dalam menyajikan teh pada upacara minum teh selama bertahun-tahun. Ia merumuskan beberapa parameter yang penting dalam proses pengadukan teh, mulai dari frekuensi pengadukan, arah adukan, hingga temperatur air. Berbagai parameter ini bisa diukur dengan memasangkan akselerometer MEMS dan beberapa jenis MEMS lainnya pada alat pengaduk teh. Kemudian, data yang direkam dari MEMS tersebut dapat digunakan oleh siapapun untuk belajar mengaduk teh dengan baik dan benar. Teman-teman mungkin sekarang jadi tertarik untuk membuat alat tertentu dengan MEMS?
 
 ### Bahan bacaan:
-* Chollet, Franck, Liu, Haobing. A (not so) short introduction to MEMS. http://memscyclopedia.org/
+* Chollet, Franck, Liu, Haobing. A (not so) short introduction to MEMS. [http://memscyclopedia.org/](http://memscyclopedia.org/)
 * Esashi, Masayoshi. はじめてのMEMS (Introduction to MEMS). 工業調査会, 2009.
-* http://www.memsjournal.com/2010/12/motion-sensing-in-the-iphone-4-mems-accelerometer.html
+* [http://www.memsjournal.com/2010/12/motion-sensing-in-the-iphone-4-mems-accelerometer.html](http://www.memsjournal.com/2010/12/motion-sensing-in-the-iphone-4-mems-accelerometer.html)
 
 Telah diterbitkan di [Rubrik Teknologi Majalah 1000guru edisi Oktober 2017](http://majalah1000guru.net/2017/10/sensor-percepatan-mems/).
