@@ -16,7 +16,7 @@ Prinsip kerja dari akselerometer MEMS sangatlah sederhana. Bayangkan sebuah sist
 
 Ketika kita kenakan gaya sebesar F pada massa yang kita punya, dengan k sebagai konstanta pegas, m sebagai besaran massa dan x adalah besarnya perpindahan massa yang dihasilkan, kita akan memiliki 3 persamaan matematis sesuai hukum Hooke dan hukum Newton sebagai berikut:
 
-$F = k x$
+$$F = k x$$
 
 ΣF = m a
 
