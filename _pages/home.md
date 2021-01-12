@@ -12,9 +12,11 @@ redirect_from:
 
 Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS research fellow at Department of Robotics, Graduate School of Engineering, Tohoku University, in Japan.
 
+> When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
+
 アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！東北大学大学院工学研究科ロボティクス専攻博士後期課程学生・日本学術振興会特別研究員です。
 
-> When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
+
 
 ## News 最新情報
 
