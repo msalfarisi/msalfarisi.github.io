@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ).
+You can also find my articles on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
 ## 学術論文 Journal Articles
 
@@ -32,7 +32,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ### 国際学会 International Conferences
 
-7. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid" _In Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020_, p. G05-1792 (2020).
+8. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator" _In Smart Systems Integration Conf. 2021_, _accepted_ (2021).
+7. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid" [_In Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020_, p. G05-1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
 6. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Roll/Pitch Rate Integrating MEMS Gyroscope Using Dynamically Balanced Dual-Mass Resonator", In [_2020 IEEE Int. Symp. Inertial Sensors and Systems (INERTIAL)_, pp. 1–4 (2020)](https://doi.org/10.1109/INERTIAL48129.2020.9090078).
 5. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Sealed cavity pressure evaluation from 1 Pa to over 10 kPa using thin diaphragm for MEMS vacuum packaging", In [_2019 IEEE 32nd Int. Conf. Micro Electro Mechanical Syst. (MEMS)_, pp. 1045–1048 (2019)](https://doi.org/10.1109/MEMSYS.2019.8870823).
 4. **M. S. Al Farisi**, S. Hertel, M. Wiemer, T. Otto: “Investigation of aluminum patterned electrodeposition process from AlCl3-\[EMIm\]Cl ionic liquid for microsystems application”, In [_2018 Int. Conf. Electron. Packaging iMAPS All Asia Conf. (ICEP-IAAC)_, pp. 415–418 (2018)](https://doi.org/10.23919/ICEP.2018.8374336).
