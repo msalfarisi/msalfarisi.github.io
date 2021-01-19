@@ -19,7 +19,9 @@ Ada sebuah definisi sederhana, yaitu, “Mikro-fabrikasi menghasilkan MEMS”. D
 
 Apa perbedaan cara pembuatan MEMS dengan sistem mekanis biasa? Sistem mekanis biasanya dibuat dengan pendekatan bottom-up, yaitu dimulai dari komponen-komponen yang lebih kecil, kemudian disusun sehingga menjadi suatu sistem yang lebih rumit. Sementara dalam pembuatan MEMS dengan teknologi mikro-fabrikasi, pendekatan yang dilakukan adalah pendekatan top-down. Artinya, MEMS dibuat pertama dalam skala besar, kemudian terakhir dipotong-potong menjadi banyak MEMS yang berukuran kecil, ukurannya yang sebenarnya. Untuk lebih ringkasnya, silakan lihat ilustrasi perbedaan proses fabrikasi MEMS dan mesin biasa berikut ini.
 
+<img src='blog-20160831-mems-1.png' width='70%'>
 
+####  Ilustrasi perbandingan proses pembuatan komponen mekanis biasa dengan proses mikrofabrikasi untuk pembuatan MEMS. Pada proses mikrofabrikasi, MEMS dalam jumlah banyak diproduksi dalam waktu bersamaan, dimulai dari skala besar kemudian ‘dipotong-potong’ menjadi ukuran yang lebih kecil. Sedangkan pada proses permesinan yang umum, proses dimulai dari pembuatan masing-masing komponen, kemudian disusun menjadi sesuatu yang siap pakai.
 
 Pada dasarnya, MEMS dan komponen mikroelektronik lainnya sama-sama terbuat dari bahan dasar silikon. Oleh karena itu, proses pembuatan yang sama bisa digunakan untuk keduanya. Namun untuk pembuatan MEMS, teknologi mikro-fabrikasi perlu dikembangkan lebih lanjut agar mampu memproduksi struktur-struktur yang lebih dalam. Sehingga proses yang selama ini belum pernah dipakai untuk pembuatan komponen mikroelektronik juga perlu dikembangkan untuk membuat struktur 3 dimensi yang menyerupai mesin ini. Belakangan ini, MEMS dengan bahan dasar polimer, kaca, berlian dan logam juga mulai dikembangkan.
 
@@ -33,8 +35,9 @@ Sejauh ini, miniaturisasi adalah kunci mengapa teknologi MEMS terus berkembang h
 
 Memperkecil ukuran dan massa dari sebuah sensor, bisa juga memperluas kegunaan dari sensor tersebut. Sebagai hasilnya, MEMS yang lebih murah dan bisa digunakan untuk berbagai aplikasi menjadi sesuatu yang sangat bersaing di pasaran dibandingkan sensor-sensor terdahulu yang ukurannya besar dan harga satuannya lebih mahal. Mari kita ambil akselerometer, sensor percepatan, sebagai contoh. Pada awalnya, dan sampai sekarang, MEMS akselerometer digunakan sebagai sensor kecelakaan, yang bila percepatan di atas ambang batas terdeteksi, maka mobil akan mengeluarkan airbag demi keamanan pengendara. Dan sekarang,MEMS akselerometer sudah banyak digunakan di smartphone, dan bahkan di dalam konsol remote control Nintendo Wii.
 
+<img src='blog-20160831-mems-2.svg' width='70%'>
 
-
+#### Penggunaan akselerometer MEMS dari tahun ke tahun.
 
 Selain itu, manfaat lain yang didapat adalah pada skala mikrometer, ada banyak fenomena yang bisa terjadi, yang biasanya tidak terjadi pada skala makro. Misalnya pada biochip untuk mendeteksi kandungan suatu zat, biasanya medan listrik digunakan untuk memompa reaktan keluar dari chip tersebut. Efek ini dinamakan efek elektro-osmotik yang bekerja dengan adanya gaya pada channel berukuran mikro yang ada pada chip tersebut. Fenomena yang sama sulit direalisasikan pada pipa yang berukuran besar.
 
@@ -50,7 +53,9 @@ Menurut hukum Moore, jumlah transistor yang dapat dibuat dalam satu mikroproseso
 
 Belakangan ini banyak penelitian juga tengah difokuskan pada proses integrasi antara MEMS dengan semikonduktor komponen elektronik lainnya, karena dipercaya bahwa miniaturisasi komponen elektronik berdasarkan hukum Moore ini akan mencapai batasnya dalam waktu dekat. Hasilnya adalah berupa performa dan ketahan jangka panjang yang lebih baik, biaya pembuatan yang semakin murah dan munculnya berbagai manfaat baru yang belum pernah terpikirkan sebelumnya. Garis besar perkembangan kegunaan MEMS bisa dilihat pada ilustrasi berikut.
 
+<img src='blog-20160831-mems-3.svg' width='100%'>
 
+#### Garis besar perkembagan berbagai jenis MEMS yang berpengaruh pada kehidupan kita dari tahun ke tahun.
 
 Begitulah mengenai MEMS. Teknologi MEMS ini tidak hanya membuat berbagai hal menjadi lebih kecil, tapi juga membuat bermacam alat-alat elektronik di keseharian kita menjadi lebih pintar.
 
@@ -59,4 +64,4 @@ Begitulah mengenai MEMS. Teknologi MEMS ini tidak hanya membuat berbagai hal men
 * Esashi, Masayoshi. はじめてのMEMS (Introduction to MEMS). 工業調査会, 2009.
 * https://en.wikipedia.org/wiki/Microelectromechanical_systems
 
-Telah diterbitkan di Rubrik Teknologi Majalah 1000guru edisi Agustus 2016.
+Telah diterbitkan di [Rubrik Teknologi Majalah 1000guru edisi Agustus 2016](http://majalah1000guru.net/2016/08/mengenal-mems/).
