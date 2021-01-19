@@ -13,7 +13,9 @@ Teman-teman tentu mempunyai smartphone atau ponsel pintar, bukan? Pernahkah terp
 
 Pada kasus ponsel yang diputar, akselerometer mendeteksi hilangnya percepatan gravitasi pada satu sumbu serta munculnya percepatan gravitasi di sumbu yang lain, sehingga sistem di layar ponsel bisa menyesuaikan orientasinya. Pada edisi ini kita akan bahas mengenai salah satu jenis akselerometer yang paling banyak digunakan di kehidupan kita, yaitu akselerometer berbasis micro electro-mechanical systems (MEMS). Pada majalah 1000guru edisi Agustus 2016, MEMS telah dibahas sebagai mesin yang sangat kecil dan biasanya berperan sebagai sensor untuk mendeteksi suatu besaran. Dalam artikel kali ini, dibahas mengenai kegunaan MEMS dalam mendeteksi dan mengukur besaran percepatan, atau biasa juga disebut akselerometer MEMS (MEMS accelerometer).
 
-<img src='/images/blog-20170611-accelerometer-1.png' width='80%'>
+<img src='/images/blog-20170611-accelerometer-1.png' width='60%'>
+
+####  Prinsip kerja akselerometer MEMS.
 
 Prinsip kerja dari akselerometer MEMS sangatlah sederhana. Bayangkan sebuah sistem pegas bermassa seperti ditunjukkan pada gambar. Jika kita gerakkan sistem pegas bermassa, akan terjadi perubahan panjang pegas. Menurut hukum Hooke dan hukum Newton, perubahan panjang pegas pada sistem tersebut berbanding lurus dengan besar percepatan yang dikenakan pada sistem yang sama. Oleh karenanya, ketika kita mendeteksi perubahan panjang pegas, kita bisa mendapatkan besaran percepatan yang bekerja pada sistem tersebut. Pada MEMS, sistem pegas bermassa ini disebut juga resonator karena sistem ini dapat bergerak bolak-balik di sekitar suatu titik kesetimbangan.
 
@@ -29,13 +31,17 @@ Pada proses pendeteksian percepatan, pergerakan massa dikonversi menjadi besaran
 
 $$C = \varepsilon_0 \frac{S}{d}$$
 
-<img src='/images/blog-20170611-accelerometer-2.png' width='80%'>
+<img src='/images/blog-20170611-accelerometer-2.png' width='70%'>
+
+####  Konversi besaran mekanis menjadi besaran listrik.
 
 Ketika tidak ada percepatan yang dikenakan pada akselerometer MEMS yang kita miliki, nilai $d_1$ (jarak antara pelat biru dengan pelat bermassa seperti pada gambar) akan sama dengan nilai $d_2$ (jarak antara pelat merah dengan pelat bermassa). Dengan demikian, nilai $C_1$ (kapasitansi antara pelat biru dan dengan pelat bermassa) juga akan sama dengan nilai $C_2$ (kapasitansi antara pelat merah dan dengan pelat bermassa). Sementara itu, ketika ada percepatan yang dikenakan pada akselerometer MEMS, nilai $d_1$ dan $d_2$ akan berbeda, sehingga besar $C_1$ dan $C_2$ juga akan berbeda.
 
 Perpindahan massa diukur secara tidak langsung dengan mengukur perubahan kedua kapasitansi dan perbedaan di antara besar keduanya (selisih nilai antara $C_1$ dan $C_2$). Dengan mengukur perbedaan antara besar kedua kapasitansi, kita bisa mendapatkan bilangan yang lebih besar untuk perpindahan massa yang kecil sehingga sensornya lebih sensitif. Akselerometer MEMS sendiri didesain sedemikian rupa sehingga mampu mendeteksi percepatan dari semua arah. Hal inilah yang membuat strukturnya menjadi semakin rumit.
 
-<img src='/images/blog-20170611-accelerometer-3.png' width='80%'>
+<img src='/images/blog-20170611-accelerometer-3.png' width='80%' align='middle'>
+
+#### Akselerometer MEMS yang digunakan pada iPhone 4. Sumber: http://www.memsjournal.com/2010/12/motion-sensing-in-the-iphone-4-mems-accelerometer.html
 
 Selain digunakan pada ponsel pintar, saat ini akselerometer MEMS juga digunakan pada beberapa perangkat seperti remote control pada Nintendo-Wii, perangkat pengukur aktivitas seismik getaran permukaan bumi, perangkat pengukur aktivitas biologis dalam tubuh manusia, dan juga perangkat pemantauan aktivitas mesin pada proses produksi industri.
 
