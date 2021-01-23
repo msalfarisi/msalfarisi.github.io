@@ -22,7 +22,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 3. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Low-temperature hermetic thermo-compression bonding using electroplated copper sealing frame planarized by fly-cutting for wafer-level MEMS packaging," [_Sens. Act. A Phys._ **279**, pp. 671–679 (2018)](https://doi.org/10.1016/j.sna.2018.06.021).
 2. R. Kaneko, **M. S. Al Farisi**, S. Yamada, M. Kuri: “Evaluation of the Disaster Mitigation Action Card Game for International Students in Japan”, [_Tohoku J. Natural Disaster Sci._ **54**, pp. 279-284 (2018)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume54/54-49.pdf).
   * Journal title in Japanese: 東北地域災害科学研究.
-1. **M. S. Al Farisi**, H. Hirano, J. Frömel, S. Tanaka: "Wafer-level hermetic thermo-compression bonding using electroplated gold sealing frame planarized by fly-cutting," [_J. Micromech. Microeng._ **27** (1), p. 015029 (2017)](http://dx.doi.org/10.1088/1361-6439/27/1/015029).
+1. **M. S. Al Farisi**, H. Hirano, J. Frömel, S. Tanaka: "Wafer-level hermetic thermo-compression bonding using electroplated gold sealing frame planarized by fly-cutting", [_J. Micromech. Microeng._ **27** (1), p. 015029 (2017)](http://dx.doi.org/10.1088/1361-6439/27/1/015029).
 
 ### <span style="color:grey">Submitted drafts</span>
 2. <span style="color:grey">M. S. Al Farisi, T. Tsukamoto, S. Tanaka: submitted (2020).</span>
@@ -32,8 +32,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 
 ### 国際学会 International Conferences
 
-8. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator" In _Smart Systems Integration Conf. 2021_, _accepted_ (2021).
-7. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid" In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
+8. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In _Smart Systems Integration Conf. 2021_, _accepted_ (2021).
+7. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid", In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
 6. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Roll/Pitch Rate Integrating MEMS Gyroscope Using Dynamically Balanced Dual-Mass Resonator", In [_2020 IEEE Int. Symp. Inertial Sensors and Systems (INERTIAL)_, pp. 1–4 (2020)](https://doi.org/10.1109/INERTIAL48129.2020.9090078).
 5. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Sealed cavity pressure evaluation from 1 Pa to over 10 kPa using thin diaphragm for MEMS vacuum packaging", In [_2019 IEEE 32nd Int. Conf. Micro Electro Mechanical Syst. (MEMS)_, pp. 1045–1048 (2019)](https://doi.org/10.1109/MEMSYS.2019.8870823).
 4. **M. S. Al Farisi**, S. Hertel, M. Wiemer, T. Otto: “Investigation of aluminum patterned electrodeposition process from AlCl3-\[EMIm\]Cl ionic liquid for microsystems application”, In [_2018 Int. Conf. Electron. Packaging iMAPS All Asia Conf. (ICEP-IAAC)_, pp. 415–418 (2018)](https://doi.org/10.23919/ICEP.2018.8374336).
