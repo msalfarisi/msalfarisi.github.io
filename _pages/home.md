@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2020/01/22</td>
+    <td>Successfully defended a Ph.D. dissertation entitled "Aluminum Electrochemical Deposition and Its Microsystem Applications" in the Department of Robotics, Graduate School of Engineering, Tohoku University.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2020/12/12</td>
     <td>Homepage migrated to github.</td>
   </tr>
