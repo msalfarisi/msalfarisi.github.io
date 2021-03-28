@@ -10,11 +10,11 @@ redirect_from:
 
 ## Welcome ようこそ
 
-Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS research fellow at Department of Robotics, Graduate School of Engineering, Tohoku University, in Japan.
+Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan.
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
 
-アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！東北大学大学院工学研究科ロボティクス専攻博士後期課程学生・日本学術振興会特別研究員です。
+アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学大学院情報科学研究科医用情報科学専攻助教です。
 
 
 
@@ -22,6 +22,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a graduate student & JSPS 
 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
+  <tr>
+    <td style="color:#6d6d6d;">2021/04/01</td>
+    <td>Joined the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University (Japan) as an Assistant Professor.</td>
+  </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/03/25</td>
     <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Doctor of Philosophy (Engineering) in Robotics.</td>
