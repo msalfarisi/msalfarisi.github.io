@@ -13,11 +13,11 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ## 学歴 Education
 
-* **Doctoral (Dr.Eng.) / Apr. 2018 – Mar. 2021** (_expected_)  
+* **Doctoral (Dr.Eng.) / Apr. 2018 – Mar. 2021**  
   Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　博士後期課程  
   Funded by DIARE of Tohoku University and JSPS fellowship
-* **Integrated doctoral program (minor) / Apr. 2016 – Mar. 2021** (_expected_)  
+* **Integrated doctoral program (minor) / Apr. 2016 – Mar. 2021**  
   Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), Leading Graduate School, Tohoku University, Japan  
   東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム  
 * **Master (M.Eng.) / Apr. 2016 – Mar. 2018**  
@@ -34,10 +34,13 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ## 職歴 Appointment
 
-* **Research fellow 学振特別研究員 (DC2) / Apr. 2019 – present**  
+* **Assistant Professor 助教 / Apr. 2021 – present**  
+  at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, Japan  
+  広島市立大学　大学院情報科学研究科　医用情報科学専攻
+* **Research fellow 学振特別研究員 (DC2) / Apr. 2019 – Mar. 2021**  
   Young research fellow (DC2) of the Japan Society for the Promotion of Science (JSPS) at the Department of Robotics, Graduate School of Engineering, Tohoku University, Japan  
   東北大学　大学院工学研究科　ロボティクス専攻　日本学術振興会特別研究員（DC2）
-* **Graduate student researcher 博士研究教育院生 / Apr. 2018 – present**  
+* **Graduate student researcher 博士研究教育院生 / Apr. 2018 – Mar. 2021**  
   Division for Interdisciplinary Advanced Research and Education (DIARE), Tohoku University, Japan  
   東北大学　学位プログラム推進機構　学際高等研究教育院
 * **Research assistant (RA) / Apr. 2016 – present**  
