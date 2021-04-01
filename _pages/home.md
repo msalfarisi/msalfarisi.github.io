@@ -223,19 +223,19 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 
 ## Access アクセス
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d25064.06210277754!2d140.852754!3d38.256126!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDE1JzE4LjciTiAxNDDCsDUwJzQzLjgiRQ!5e0!3m2!1sen!2sus!4v1606090893838!5m2!1sen!2sus" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44285.46315767713!2d132.4418257839965!3d34.413118969793345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355a9840c559d511%3A0x508d3762a4078a25!2z44CSNzMxLTMxNjYgSGlyb3NoaW1hLCBBc2FtaW5hbWkgV2FyZCwgxYx6dWthaGlnYXNoaSwgMy1jaMWNbWXiiJI04oiSMSDmg4XloLHlh6bnkIbjgrvjg7Pjgr_jg7w!5e0!3m2!1sen!2sjp!4v1617319363178!5m2!1sen!2sjp" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
 
-Tohoku University Aobayama Campus<br>
-6-6-01 Aramaki aza Aoba, Aoba-ku, Sendai, Miyagi 980-8579, Japan<br>
-Research Bld. M.A.E. (A15) - Room 513
+Hiroshima City Unviversity<br>
+3-4-1 Ozuka-Higashi, Asaminami-ku, Hiroshima, 731-3194 Japan<br>
+Faculty of Information Sciences Bld. - Room 743
 
-東北大学　青葉山キャンパス<br>
-〒980-8579 宮城県仙台市青葉区荒巻字青葉6-6-01<br>
-機械・知能系共同棟 513 号室
+広島市立大学<br>
+〒731-3194　広島市安佐南区大塚東三丁目4番1号<br>
+情報科学部棟　743室
 
 ## Contact 連絡先
 
-salman(at)mems.mech.tohoku.ac.jp  
+alfarisi(at)hiroshima-cu.ac.jp  
 *or*  
 salman_fareez(at)yahoo.com  
 *Change "(at)" to "@"*
