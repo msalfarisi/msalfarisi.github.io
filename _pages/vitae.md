@@ -43,7 +43,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **Graduate student researcher 博士研究教育院生 / Apr. 2018 – Mar. 2021**  
   Division for Interdisciplinary Advanced Research and Education (DIARE), Tohoku University, Japan  
   東北大学　学位プログラム推進機構　学際高等研究教育院
-* **Research assistant (RA) / Apr. 2016 – present**  
+* **Research assistant (RA) / Apr. 2016 – Mar. 2021**  
   Inter-Graduate School Doctoral Degree Program on Science for Global Safety (G-Safety), Leading Graduate School, Tohoku University, Japan  
   東北大学　リーディング大学院　グローバル安全学リーダー育成プログラム  
 * **Intern 夏インターン / Sep. 2019**  
