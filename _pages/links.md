@@ -17,6 +17,7 @@ author_profile: true
 * **Video editing**: [Kdenlive](https://kdenlive.org/en/)
 
 ## Related:
+* [Biomedical Robotics Lab.](https://mmse.info.hiroshima-cu.ac.jp/) at [Hiroshima City University](https://www.hiroshima-cu.ac.jp/)
 * [S. Tanaka Lab.](http://www.mems.mech.tohoku.ac.jp/) at Tohoku University
 * [Majalah 1000 guru](http://majalah1000guru.net/) (in Indonesian)
 * [Islamic Cultural Center of Sendai](http://iccsendai.org/)
