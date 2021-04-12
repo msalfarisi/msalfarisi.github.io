@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/04/01</td>
-    <td>Joined the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University (Japan) as an Assistant Professor.</td>
+    <td>Joined the Department of Biomedical Information Sciences, Graduate School of Information Sciences, <a href="https://www.hiroshima-cu.ac.jp/">Hiroshima City University</a> (Japan) as an Assistant Professor with the <a href="https://mmse.info.hiroshima-cu.ac.jp/">Medical Robot Laboratory</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/03/25</td>
