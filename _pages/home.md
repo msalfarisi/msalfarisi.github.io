@@ -225,7 +225,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44285.46315767713!2d132.4418257839965!3d34.413118969793345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355a9840c559d511%3A0x508d3762a4078a25!2z44CSNzMxLTMxNjYgSGlyb3NoaW1hLCBBc2FtaW5hbWkgV2FyZCwgxYx6dWthaGlnYXNoaSwgMy1jaMWNbWXiiJI04oiSMSDmg4XloLHlh6bnkIbjgrvjg7Pjgr_jg7w!5e0!3m2!1sen!2sjp!4v1617319363178!5m2!1sen!2sjp" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
 
-Hiroshima City Unviversity<br>
+Hiroshima City University<br>
 3-4-1 Ozuka-Higashi, Asaminami-ku, Hiroshima, 731-3194 Japan<br>
 Faculty of Information Sciences Bld. - Room 743
 
