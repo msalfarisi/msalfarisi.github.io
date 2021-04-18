@@ -231,9 +231,11 @@ Faculty of Information Sciences Bld. - Room 743
 
 広島市立大学<br>
 〒731-3194　広島市安佐南区大塚東三丁目4番1号<br>
-情報科学部棟　743室
+情報科学部棟　743号室
 
 ## Contact 連絡先
+
+**Phone 電話番号**: +81-82-830-1748
 
 alfarisi(at)hiroshima-cu.ac.jp  
 *or*  
