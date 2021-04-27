@@ -1,6 +1,7 @@
 ---
 title: "Installation of useful simulation tools"
 permalink: /tutorial/install-simulation/
+collection: tutorial
 ---
 
 ### FreeCAD
