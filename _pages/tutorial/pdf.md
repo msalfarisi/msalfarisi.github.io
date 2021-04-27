@@ -1,7 +1,6 @@
 ---
 title: "Manipulation of .pdf files"
 permalink: /tutorial/pdf/
-collection: tutorial
 ---
 
 Some useful command for manipulating .pdf files.
