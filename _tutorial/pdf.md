@@ -23,5 +23,5 @@ Sometimes, password has to be made for pdf files. Here, I use pdftk. For install
  
 Then use the following command to add a <password> to the existing <input>.pdf file and output it as <ouput>.pdf:
  
-> $ pdftk <input>.pdf output <output>.pdf userpw <password>
-> 
+> $ pdftk "<input>".pdf output "<output>".pdf userpw "<password>"
+
