@@ -15,6 +15,14 @@ $ sudo apt-get update
 $ sudo apt-get install build-essential
 ```
 
+### Installing from .deb
+
+Other the software repositories, .deb is also commonly used. The installation can be done from the terminal as follows:
+
+```shell
+$ sudo dpkg -i package_file.deb
+```
+
 ### LaTeX
 
 LaTeX has been a very useful tool for me to write papers and reports. Here are the installation steps. LaTeX is usually available directly from the Debian (I used Xubuntu) software repositories and can by installed simply. However, there are variants of the installation packages. I personally would recommend the following for scientists:
