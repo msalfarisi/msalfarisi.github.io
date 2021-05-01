@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2021/04/29</td>
+    <td>Presented (virtually, oral) at the <a href="http://smartsystemsintegration.com/">Smart Systems Integration Conference 2021</a>, 27-29 April 2021. The conference was originally scheduled to be hold in Grenoble, France, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2021/04/01</td>
     <td>Joined the Department of Biomedical Information Sciences, Graduate School of Information Sciences, <a href="https://www.hiroshima-cu.ac.jp/">Hiroshima City University</a> (Japan) as an Assistant Professor with the <a href="https://mmse.info.hiroshima-cu.ac.jp/">Medical Robot Laboratory</a>.</td>
   </tr>
