@@ -234,7 +234,7 @@ Hiroshima City University<br>
 Faculty of Information Sciences Bld. - Room 743
 
 広島市立大学<br>
-〒731-3194　広島市安佐南区大塚東三丁目4番1号<br>
+〒731-3194　広島市安佐南区大塚東3丁目4-1<br>
 情報科学部棟　743号室
 
 ## Contact 連絡先
