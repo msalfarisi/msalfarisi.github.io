@@ -37,3 +37,11 @@ The first will give a good starter pack for the environment. The second will giv
 ```shell
 $ sudo apt-get install texmaker
 ```
+
+### gnuplot
+
+Gnuplot has been a nice tool to form graphs for me. It can be installed by a simple command as follows:
+
+```shell
+$ sudo apt-get install gnuplot
+```
