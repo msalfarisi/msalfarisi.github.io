@@ -6,8 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-## [Microfabrication know-how](https://sites.google.com/view/nmems/)
-
 ## GNU tools
 
 * **CAD**: [LibreCAD](https://librecad.org/) (2D), [FreeCAD](http://www.freecadweb.org/) (3D)
@@ -17,6 +15,8 @@ author_profile: true
 * **Numerical calculation**: [Octave](https://www.gnu.org/software/octave/)
 * **PCB design**: [KiCAD](https://kicad.org/)
 * **Video editing**: [Kdenlive](https://kdenlive.org/en/)
+
+## [Microfabrication know-how](https://sites.google.com/view/nmems/)
 
 ## Related:
 * [Medical Robot Lab.](https://mmse.info.hiroshima-cu.ac.jp/) at [Hiroshima City University](https://www.hiroshima-cu.ac.jp/)
