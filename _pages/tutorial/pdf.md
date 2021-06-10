@@ -32,10 +32,19 @@ Then use the following command to add a password to the existing input.pdf file 
 ```shell 
 $ pdftk <input>.pdf output <output>.pdf userpw <password>
 ```
+
 ### Merging
 
 I use pdftk to merge multiple pdf files. Use the following command to merge existing input1.pdf and input2.pdf files and output it as ouput.pdf:
 
 ```shell 
 $ pdftk <input1>.pdf <input2>.pdf cat output <output>.pdf
+```
+
+### Splitting
+
+Using pdftk to split pdf file as follows:
+
+```shell 
+$ pdftk <input1>.pdf cat <from page number>-<to page number> output <output>.pdf
 ```
