@@ -1,6 +1,6 @@
 ---
 title: 'Ujian kelulusan di Jepang'
-date: 2021-03-29
+date: 2099-03-29
 permalink: /blog/2021/03/ujian-kelulusan/
 tags:
   - id
