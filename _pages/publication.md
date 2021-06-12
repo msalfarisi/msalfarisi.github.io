@@ -11,10 +11,8 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
 <details>
- <summary>学術論文 Journal Articles</summary>
+ <summary><h2>学術論文 Journal Articles</h2></summary>
   
- ## 学術論文 Journal Articles
- 
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," [_J. Microelectromech. Syst._ **29** (3), pp. 418–426 (2020)](https://doi.org/10.1109/JMEMS.2020.2984229).
 0. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Fabrication Method of Micromachined Quartz Glass Resonator Using Sacrificial Supporting Structures," [_Sens. Act. A Phys._ **305**, p. 111922 (2020)](https://doi.org/10.1016/j.sna.2020.111922).
