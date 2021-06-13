@@ -75,6 +75,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
   * In Japanese: 手塚寛, 熊谷裕太, 新谷直己, 関亜美, **M. S. Al Farisi**, 宮鍋慶介, 久利美和, "液状化実験を活用した防災教育", [日本地球惑星科学連合2018年大会, O05-01](https://confit.atlas.jp/guide/event/jpgu2018/subject/O05-01/advanced).
 0. R. Kaneko, **M. S. Al Farisi**, S. Yamada, M. Kuri: “Evaluation of the Disaster Mitigation Action Card Game for International Students in Japan”, In [_2017 Tohoku Natural Disaster Sci. Conf._, pp. 112–113 (2017)](http://nds-tohoku.in.arena.ne.jp/abstract/Abstract2017.pdf).
   * Conference title in Japanese: 平成29年度東北地域災害科学研究集会.
+  
+</details>
+
 
 ## 招待講演 Invited Talks
 
