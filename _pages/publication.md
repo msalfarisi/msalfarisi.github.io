@@ -10,10 +10,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
-<details><summary><strong>学術論文 Journal Articles</strong></summary>
- 
- 
- 
+<details>
+ <summary>
+  <strong>学術論文 Journal Articles</strong>
+ </summary>
+  
  ## 学術論文 Journal Articles
   
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
