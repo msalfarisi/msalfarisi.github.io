@@ -155,9 +155,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-kramdown:
-  parse_block_html: true
-
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -174,6 +171,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  parse_block_html: true
 
 
 # Collections
