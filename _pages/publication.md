@@ -10,9 +10,9 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
-<details><summary>
-  <h2>学術論文 Journal Articles</h2>
-  </summary>
+## 学術論文 Journal Articles
+
+<details>
     
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," [_J. Microelectromech. Syst._ **29** (3), pp. 418–426 (2020)](https://doi.org/10.1109/JMEMS.2020.2984229).
@@ -34,12 +34,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 </details>
 
 
-<details><summary>
-  <h2>学会発表 Conference Presentations</h2>
-  </summary>
- 
+## 学会発表 Conference Presentations
 
 ### 国際学会 International Conferences
+
+<details>
 
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In _Solid-State Sensors Actuators and Microsystems (TRANSDUCERS), 2021 21th Int. Conf._, _accepted_ (2021).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In _Smart Systems Integration Conf. 2021_, _accepted_ (2021).
@@ -51,7 +50,11 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka, H. Miura: "Grain refining of metal surface by mechanical cutting for low-temperature wafer-level vacuum bonding," In _2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture_, Abstracts 2 p. 6 (2017).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Wafer-level vacuum packaging for hetero-integration by thermo-compression bonding using planarized-electroplated gold bumps," In [_Nano/Micro Engineered and Molecular Systems (NEMS), 2016 11th IEEE Int. Conf._, pp. 573–577 (2016)](https://doi.org/10.1109/NEMS.2016.7758317).
 
+</details>
+  
 ### 国内学会 Domestic Conferences
+
+<details>
 
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Wafer-level thermocompression bonding using electroplated Al thin film", In _the 11th Symp. Micro-Nano Science and Technology_, p. 27A2-MN1-4 (2020).
   * Conference title in Japanese: 第11回マイクロ・ナノ工学シンポジウム.
@@ -79,20 +82,19 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 </details>
 
 
-<details><summary>
-  <h2>招待講演 Invited Talks</h2>
-  </summary>
+## 招待講演 Invited Talks
 
+<details>
   
 0. **M. S. Al Farisi**: "Wafer-Level Vacuum Packaging Using Electroplated-Planarized Metal Bonding," In _Nanotechnology Platform Student Training Program_, Tohoku University (2017).
   
 </details>
 
 
-<details><summary>
-  <h2>受賞 Awards</h2>
-  </summary>
+## 受賞 Awards
 
+<details>
+  
 0. Outstanding Technical Paper Award, 2018 International Conference on Electronics Packaging and iMAPS All Asia Conference (ICEP-IAAC) (17 – 21 April 2018), Kuwana, Japan.
 0. Japan Oil, Gas and Metals National Corporation (JOGMEC) Award, Academic City (Sendai City, Miyagi Prefecture) Science Day 2017 (16, 21 July 2017), Sendai, Japan.  
    JOGMEC賞, 学都「仙台・宮城」サイエンス・デイ2017.
@@ -103,9 +105,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 </details>
 
   
-<details><summary>
-  <h2>研究資金 Research Grants</h2>
-  </summary>
+## 研究資金 Research Grants
+
+<details>
 
 0. Japan Society for the Promotion of Science (JSPS) fellowship for young scientist (DC2 scheme), April 2019 – March 2021 (PI)  
 Project title: [Electroplated aluminum thermal actuator with large force output for a micro position control system](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J11122/)  
