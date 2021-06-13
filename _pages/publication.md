@@ -34,7 +34,10 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 </details>
 
 
-## 学会発表 Conference Presentations
+<details><summary>
+  <h2>学会発表 Conference Presentations</h2>
+  </summary>
+ 
 
 ### 国際学会 International Conferences
 
