@@ -12,7 +12,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 
 <details>
  <summary>
-  <strong>学術論文 Journal Articles</strong>
+  学術論文 Journal Articles
  </summary>
   
   <h2>学術論文 Journal Articles</h2>
