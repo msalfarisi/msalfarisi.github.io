@@ -10,7 +10,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
-<details>
+<details><summary><strong>About transliteration</strong></summary>
   
   <h2>学術論文 Journal Articles</h2>
   
