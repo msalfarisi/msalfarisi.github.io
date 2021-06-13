@@ -79,11 +79,19 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 </details>
 
 
-## 招待講演 Invited Talks
+<details><summary>
+  <h2>招待講演 Invited Talks</h2>
+  </summary>
 
+  
 0. **M. S. Al Farisi**: "Wafer-Level Vacuum Packaging Using Electroplated-Planarized Metal Bonding," In _Nanotechnology Platform Student Training Program_, Tohoku University (2017).
+  
+</details>
 
-## 受賞 Awards
+
+<details><summary>
+  <h2>受賞 Awards</h2>
+  </summary>
 
 0. Outstanding Technical Paper Award, 2018 International Conference on Electronics Packaging and iMAPS All Asia Conference (ICEP-IAAC) (17 – 21 April 2018), Kuwana, Japan.
 0. Japan Oil, Gas and Metals National Corporation (JOGMEC) Award, Academic City (Sendai City, Miyagi Prefecture) Science Day 2017 (16, 21 July 2017), Sendai, Japan.  
@@ -92,7 +100,12 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
    大船渡伝承館賞, 被災地と共に考える 防災・減災コンテスト2016年度.
 0. Best Poster Award, 2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture (21 – 24 February 2017), Beijing, China.
 
-## 研究資金 Research Grants
+</details>
+
+  
+<details><summary>
+  <h2>研究資金 Research Grants</h2>
+  </summary>
 
 0. Japan Society for the Promotion of Science (JSPS) fellowship for young scientist (DC2 scheme), April 2019 – March 2021 (PI)  
 Project title: [Electroplated aluminum thermal actuator with large force output for a micro position control system](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19J11122/)  
@@ -119,3 +132,7 @@ Budget: JPY 300,000,-
 公益財団法人　佐藤陽国際奨学財団　学会出席補助金制度（研究代表者）  
 課題名：切削平坦化した金バンプを用いたウェハレベル真空封止接合法の開発  
 研究期間：2016年4月〜2018年3月　　総額：300千円
+  
+</details>
+
+
