@@ -56,7 +56,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 
 <details>
 
-0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Wafer-level thermocompression bonding using electroplated Al thin film", In _the 11th Symp. Micro-Nano Science and Technology_, p. 27A2-MN1-4 (2020).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Wafer-level thermocompression bonding using electroplated Al thin film", In [_the 11th Symp. Micro-Nano Science and Technology_, p. 27A2-MN1-4 (2020)](https://doi.org/10.1299/jsmemnm.2020.11.27A2-MN1-4).
   * Conference title in Japanese: 第11回マイクロ・ナノ工学シンポジウム.
 0. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Electromagnetically Actuated Quartz Glass Ring Resonator for Mode Matched Gyroscope", _In the IEEJ Micromachine and Sensor System Workshop_, p. MSS-20-022 (2020).
   * Conference title in Japanese: 令和2年度電気学会 マイクロマシン・センサシステム研究会
