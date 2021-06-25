@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/06/23</td>
-    <td>Presented (virtually, poster) at the <a href="https://www.transducers2021.org/">The 21th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 20-25 June 2021. The conference was originally scheduled to be hold in Orlando, Florida, USA, however, moved to virtual platform due to COVID-19 pandemic.</td>
+    <td>Presented (virtually, poster) at the <a href="https://www.transducers2021.org/">21th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 20-25 June 2021. The conference was originally scheduled to be hold in Orlando, Florida, USA, however, moved to virtual platform due to COVID-19 pandemic.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/04/29</td>
