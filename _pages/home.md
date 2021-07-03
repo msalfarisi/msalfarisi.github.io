@@ -12,7 +12,7 @@ redirect_from:
 
 アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学大学院情報科学研究科医用情報科学専攻助教です。
 
-Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical system)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a contact for inquiries.
+Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical system)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
 
