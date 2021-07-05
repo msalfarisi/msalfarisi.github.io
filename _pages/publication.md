@@ -42,7 +42,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.co.j
 <details>
 
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In _Solid-State Sensors Actuators and Microsystems (TRANSDUCERS), 2021 21th Int. Conf._, pp. 1138-1141 (2021).
-0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In _Smart Systems Integration Conf. 2021_, _in press_ (2021).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In [_2021 Smart Systems Integration (SSI)_, pp. 1-4 (2021)](https://doi.org/10.1109/SSI52265.2021.9466952).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid", In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
 0. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Roll/Pitch Rate Integrating MEMS Gyroscope Using Dynamically Balanced Dual-Mass Resonator", In [_2020 IEEE Int. Symp. Inertial Sensors and Systems (INERTIAL)_, pp. 1–4 (2020)](https://doi.org/10.1109/INERTIAL48129.2020.9090078).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Sealed cavity pressure evaluation from 1 Pa to over 10 kPa using thin diaphragm for MEMS vacuum packaging", In [_2019 IEEE 32nd Int. Conf. Micro Electro Mechanical Syst. (MEMS)_, pp. 1045–1048 (2019)](https://doi.org/10.1109/MEMSYS.2019.8870823).
