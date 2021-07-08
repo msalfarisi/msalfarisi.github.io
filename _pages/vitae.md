@@ -58,7 +58,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)  
   日本機械学会 正員
 
-## 学術論文査読 Review activity
+## 学術論文査読 Review Activity
 
 * Microsystem Technologies (Springer)  
 * The Journal of Physical Chemistry (ACS) 
