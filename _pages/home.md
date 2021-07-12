@@ -243,9 +243,9 @@ Faculty of Information Sciences Bld. - Room 743
 
 ## Contact 連絡先
 
-**Phone 電話番号**: +81-82-830-1748
-
 alfarisi(at)hiroshima-cu.ac.jp  
 *or*  
 salman_fareez(at)yahoo.com  
 *Change "(at)" to "@"*
+
+**Phone 電話番号**: (+81) 082-830-1748 (ext. 4743)
