@@ -62,10 +62,10 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ### 学術論文編集 Editorial Activity
 
-* Journal of Integrated and Advanced Engineering (JIAE, ASASI), Associate Editor (2021〜)
+* [Journal of Integrated and Advanced Engineering (JIAE, ASASI)](https://asasijournal.id/index.php/jiae/), Associate Editor (2021〜)
 
 ### 学術論文査読 Review Activity
 
-* Microsystem Technologies (Springer)  
-* The Journal of Physical Chemistry (ACS) 
-* Micromachines (MDPI) 
+* [Micromachines (MDPI)](https://www.mdpi.com/journal/micromachines) 
+* [Microsystem Technologies (Springer)](https://www.springer.com/journal/542)  
+* [The Journal of Physical Chemistry (ACS)](https://pubs.acs.org/journal/jpccck)
