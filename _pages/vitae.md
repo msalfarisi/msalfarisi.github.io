@@ -52,13 +52,19 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **Visiting researcher 客員研究員 / Feb. 2017 – Jun. 2017**  
   Department of System Packaging, Fraunhofer Institute for Electronic Nano Systems (ENAS), Germany  
   
-## 所属学会 Academic Society
+## 学会活動 Professional Services
+
+### 所属学会 Academic Society
 
 * Institute of Electrical and Electronics Engineers (IEEE), Student Member (2017〜)  
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)  
   日本機械学会 正員
 
-## 学術論文査読 Review Activity
+### 学術論文編集 Editorial Activity
+
+* Journal of Integrated and Advanced Engineering (JIAE, ASASI), Associate Editor (2021〜)
+
+### 学術論文査読 Review Activity
 
 * Microsystem Technologies (Springer)  
 * The Journal of Physical Chemistry (ACS) 
