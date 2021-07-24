@@ -11,7 +11,7 @@ collection: research
 
 Micro/nano-device fabrication technology is getting matured and diversified for various applications, and thus, wafer-level integration between heterogeneous components is becoming a promising More-than-Moore approach for advanced device packaging in practical application. We are developing a heterogeneous integration and packaging technology based on electroplated-planarized metal thermo-compression wafer-level bonding for semiconductors. The developed technology allows device integration, vacuum packaging, and electrical interconnection at the same time, and is available for micro-structured wafers, such as MEMS. High vacuum sealing and measurement technology is being developed.
 
-近年、微細加工技術は急速に成長し、様々な応用を目指して様々なデバイスが開発されています。その結果、異質なデバイスの性能や特徴をまとめたMore-than-Moore アプローチとして集積化技術が注目されています。一方、多様なデバイスには、高度な性能や信頼性を維持するために、真空封止パッケージングが必要とされます。応募者は、デバイス集積化及び真空封止パッケージングを同時に実現するために、平坦化した金または銅フレームを用いてウェハレベル熱圧接合技術を開発しました。金属は比較的高信頼性を持ちながら、電気的接続も可能とするため、開発した技術に採用されました。また、めっきでの成膜と平坦化技術により、必要に応じてフレームの高さを設計できます。開発した技術では、デバイス集積化・真空封止・電気的接続が同時に実現できました。更に、微小電気機械システム（MEMS）のような段差のある基板も接合・真空封止できました。封止したパッケージ内部の真空度の評価技術や制御方法も開発しました。
+近年、微細加工技術は急速に成長し、様々な応用を目指して様々なデバイスが開発されている。その結果、異質なデバイスの性能や特徴をまとめたMore-than-Moore アプローチとして集積化技術が注目されている。一方、多様なデバイスには、高度な性能や信頼性を維持するために、真空封止パッケージングが必要とされる。我々は、デバイス集積化及び真空封止パッケージングを同時に実現するために、平坦化した金または銅フレームを用いてウェハレベル熱圧接合技術を開発した。金属は比較的高信頼性を持ちながら、電気的接続も可能とするため、開発した技術に採用された。また、電気めっきでの成膜と平坦化技術により、必要に応じてフレームの高さを設計できる。開発した技術では、デバイス集積化・真空封止・電気的接続が同時に実現できた。更に、微小電気機械システム（MEMS）のような段差のある基板も接合・真空封止できた。封止したパッケージ内部の真空度の評価技術や制御方法も開発した。
 
 ### Related publications:
 
