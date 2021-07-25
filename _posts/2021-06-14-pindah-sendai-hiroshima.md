@@ -1,6 +1,6 @@
 ---
 title: 'Pindahan jarak jauh di Jepang: Sendai-Hiroshima'
-date: 2091-06-14
+date: 2021-06-14
 permalink: /blog/2021/06/pindah-sendai-hiroshima/
 tags:
   - id
@@ -39,17 +39,22 @@ Seorang petugas Art datang duluan di pagi hari. Setelah melihat-lihat jumlah bar
 
 Berselang sekitar 2 jam, giliran petugas Sakai datang. Kami lupa menyimpan cinderamata dari petugas Art ketika itu, jadi mungkin petugas Sakai paham bahwa petugas Art sudah datang terlebih dahulu. Setelah melihat-lihat jumlah barang, ia juga memutuskan untuk menggunakan truk berukuran 2 ton untuk barang-barang kami. Setelah saya sampaikan preferensi waktu pindahan kami, iapun menunjukkan estimasi biaya pindahan, 2 kali lipat dari anggaran kami. Kemudian ia langsung menarik lagi estimasinya dan menambahkan diskon karena kami cukup awal dalam meminta estimasi. Saya sampaikan bahwa anggaran kami hanya 60% dari estimasi yang diajukan, setelah diskon. Kemudian ia menawarkan bila tidak semua barang dibawa, mungkin bisa pindahan menggunakan truk yang lebih kecil dan biaya bisa ditekan. Setelahnya ia memohon izin untuk menelepon atasannya di kantor. Setelah berdiskusi dengan atasannya, ia menawarkan ongkos total termasuk pajak sesuai dengan anggaran saya, bila saya setuju untuk meneken kontrak saat itu juga.
 
-Saya meminta waktu untuk berpikir. Sambil menunggu, ia menunjukkan kelebihan perusahaannya dibandingkan Art. Menarik juga, karena ia membawa dokumen lengkap perbandingan perusahaannya dengan perusahaan pesaing. Selain itu, ia juga menyampaikan bila saya menunda keputusan maka ia akan meninggalkan estimasi yang awal setelah diskon, bukan estimasi akhir yang nominalnya di bawah anggaran kami. Karena belum ada kepastian juga dari Art apakah mereka bisa menurunkan harga hingga di bawah anggaran kami, maka kami putuskan untuk meneken kontrak dengan Sakai. Petugas langsung memberikan kardus sebanyak 30 lembar untuk modal kami pindahan.
+Saya meminta waktu untuk berpikir. Sambil menunggu, ia menunjukkan kelebihan perusahaannya dibandingkan Art. Menarik juga, karena ia membawa dokumen lengkap perbandingan perusahaannya dengan perusahaan pesaing. Selain itu, ia juga menyampaikan bila saya menunda keputusan maka ia akan meninggalkan estimasi yang awal setelah diskon, bukan estimasi akhir yang nominalnya di bawah anggaran kami. Karena belum ada kepastian juga dari Art apakah mereka bisa menurunkan harga hingga di bawah anggaran kami, maka kami putuskan untuk meneken kontrak dengan Sakai. Petugas langsung memberikan kardus sebanyak 30 lembar untuk modal kami pindahan. Tidak ada pembayaran uang muka sepeserpun, semua biaya dibayarkan ketika petugas angkut datang di hari-H pindahan.
 
 ### Desember 2020 akhir
 
-Akhir Desember, _alhamdulillah_ ada agen apartemen yang kooperatif untuk mengusahakan WN asing dan bisa menghubungkan dengan perusahaan asuransi sebagai penjamin. Agen ini juga langsung menyanggupi meskipun kami berniat untuk masuk apartemen baru di bulan Maret. Agen ini bagian dari jaringan agen besar _Apamanshop_ kantor cabang _Tokaichi_. Berdasarkan pengalaman kami ini, tidak semua cabang jaringan tersebut memberi pelayanan yang sama untuk kami, hanya cabang ini saja yang menyanggupi sejauh pencarian kami.
+Akhir Desember, _alhamdulillah_ ada agen apartemen yang kooperatif untuk mengusahakan WN asing dan bisa menghubungkan dengan perusahaan asuransi sebagai penjamin. Agen ini juga langsung menyanggupi meskipun kami berniat untuk masuk apartemen baru di bulan Maret. Agen ini bagian dari jaringan agen besar _Apamanshop_ kantor cabang _Tokaichi_. Berdasarkan pengalaman kami ini, tidak semua cabang jaringan tersebut memberi pelayanan yang sama untuk kami. Sejauh pencarian kami, hanya cabang ini saja yang menyanggupi semua permohonan kami.
 
-Dari list SUUMO dan 
+Dari list SUUMO, kami mendapatkan 2 apartemen yang sesuai kriteria yang kami cari dan bisa difasilitasi oleh agen tersebut. Agen juga bersedia untuk melayani kami kunjungan apartemen secara daring via video call, entah karena situasi pandemi atau memang ada fasilitas yang sama di waktu normal. Kamipun melihat-lihat kedua apartemen yang kami sasar tersebut secara daring. Di hari yang sama, kami memutuskan untuk mencoba meneken kontrak dengan salah satunya. Tahapan pertama kami lalui dengan mengisi dokumen yang sepertinya tujuan utamanya adalah untuk evaluasi kemampuan finansial kami. Setelah lulus evaluasi finansial selama kira-kira sepekan, agen mengirimkan dokumen untuk kontrak resmi. Kami isi sambil mendengarkan penjelasan dari agen via video call sekali lagi. Proses penekenan kontrak berakhir setelah saya kirimkan dokumen kontrak via pos dan bayarkan uang muka yang terdiri dari biaya sewa 2 bulan, deposit setara biaya sewa 2 bulan, uang kunci setara biaya sewa 1 bulan, ongkos agen setara biaya sewa 1 bulan dan biaya asuransi setara biaya sewa 1 bulan. Besar sekalli pengeluaran untuk ini. Ini salah satu alasan kami tidak sering pindah tempat tinggal, kecuali memang situasi mengharuskan.
 
-Maret 2021
-1: Sakai angkut dari Sendai
-3: Berangkat ke Hiroshima naik mobil
-4: Tiba di Hiroshima, ambil kunci apartemen, Sakai angkut barang di rumah Hiroshima, kenalan dengan pemilik apartemen
-5: Kembali ke Sendai
-26: Boyongan setelah shalat Jumat
+### Maret 2021
+
+Selanjutnya tinggal tahap akhir eksekusi pindahan. Kami perlu merapikan barang-barang kecil ke dalam kardus yang diterima dari perusahaan pindahan. Barang besar akan diangkut begitu saja. Tanggal **1 Maret 2021**, 3 orang petugas pindahan Sakai datang ke kediaman kami di Sendai sekitar 2 jam lebih awal dari waktu yang dijanjikan. Setelah melunasi biaya pindahan dan memohon izin pada tetangga, mereka mulai proses angkut-mengangkut. Total sekitar 1 jam habis untuk mengangkut seluruh barang kami ke dalam truk 2 ton yang mereka bawa, termasuk 2 unit sepeda. 
+
+**3 Maret 2021**, sekitar pukul 8 pagi saya berangkat mengendarai mobil kami menuju Hiroshima bersama seorang kawan. Tujuan utamanya adalah untuk menyambut barang-barang yang diangkut perusahaan pindahan ketika tiba di rumah baru kami di Hiroshima. Kami putuskan untuk memindahkan mobil dengan dikendarai untuk menghemat biaya, karena biaya pindahan mobil tidak ditanggung oleh kampus, sedangkan kondisinya masih sangat baik. Sepekan sebelum pindahan, kami persiapkan mobil untuk perjalanan jarak jauh dengan servis rutin ditambah penggantian ban. Jarak sekitar 1,400 km kami tempuh dengan bergantian menyetir setiap 2 jam, dengan menginap semalam di Kobe. Kami tiba di Hiroshima di hari berikutnya, **4 Maret 2021** sekitar pukul 12 siang, langsung menuju kantor agen apartemen untuk serah terima kunci dan langsung menuju ke apartemen.
+
+Petugas angkut perusahaan pindahan 2 orang tiba di apartemen baru di Hiroshima sekitar pukul 14, selepas kami makan siang dan rehat sejenak. Setelah menurunkan beberapa barang, salah 1 dari petugas kembali ke kantor cabangnya untuk mengganti truk karena truk 2 ton yang semula digunakan untuk mengangkut barang kami ternyata terlalu besar untuk masuk ke gang di depan apartemen baru kami. Ganti truk yang lebih kecil. Barang-barang langsung diturunkan dan ditata di rumah oleh petugas, sesuai arahan dari saya. Listrik, air dan gas diaktifkan di hari yang sama.
+
+Tidak lama setelah petugas angkut menyelesaikan tugasnya, sekitar pukul 16, bel rumah kami berbunyi. Ternyata nenek pemilik apartemen mendahului mengunjungi kami. Beliau memperkenalkan diri dan memberi saya booklet berisi informasi penting dasar untuk bertahan hidup di Hiroshima. Selanjutnya, karena saya juga sudah menyiapkan oleh-oleh, gantian saya langsung berkunjung balik untuk berkenalan juga dengan kakek pemilik apartemen. Saya dan kawan saya kemudian kembali lagi ke Sendai beberapa hari berikutnya dengan pesawat.
+
+**26 Maret 2021**, selepas shalat Jumat, kami sekeluarga resmi pindah dari Sendai ke Hiroshima, dengan penerbangan langsung Sendai-Hiroshima, bersambung dengan bus-kereta dan taksi, komplit.
