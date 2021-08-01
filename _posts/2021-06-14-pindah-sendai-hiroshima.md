@@ -59,7 +59,7 @@ Tidak lama setelah petugas angkut menyelesaikan tugasnya, sekitar pukul 16, bel 
 
 **24 Maret 2021**, membuang seluruh barang-barang yang tersisa di rumah Sendai yang rencananya tidak akan dibawa ke Hiroshima. Barang-barang langsung diangkut sendiri dengan mobil sewaan ke pusat pembuangan barang. Biaya pengolahan sampah dihitung per 100 kg bobot barang. Di sekitar hari ini juga kami berpamitan pada para tetangga.
 
-**26 Maret 2021**, selepas shalat Jumat, kami sekeluarga resmi pindah dari Sendai ke Hiroshima, dengan penerbangan langsung Sendai-Hiroshima, bersambung dengan bus-kereta dan taksi, komplit.
+**26 Maret 2021**, selepas shalat Jumat, kami sekeluarga resmi pindah dari Sendai ke Hiroshima, dengan penerbangan langsung Sendai-Hiroshima, bersambung dengan bus-kereta dan taksi, komplit. Keesokan harinya kami mengunjungi tetangga-tetangga baru untuk berkenalan.
 
 ## To-do list ketika pindahan
 
