@@ -49,7 +49,7 @@ Dari list SUUMO, kami mendapatkan 2 apartemen yang sesuai kriteria yang kami car
 
 ### Maret 2021
 
-Selanjutnya tinggal tahap akhir eksekusi pindahan. Kami perlu merapikan barang-barang kecil ke dalam kardus yang diterima dari perusahaan pindahan. Barang besar akan diangkut begitu saja. Tanggal **1 Maret 2021**, 3 orang petugas pindahan Sakai datang ke kediaman kami di Sendai sekitar 2 jam lebih awal dari waktu yang dijanjikan. Setelah melunasi biaya pindahan dan memohon izin pada tetangga, mereka mulai proses angkut-mengangkut. Total sekitar 1 jam habis untuk mengangkut seluruh barang kami ke dalam truk 2 ton yang mereka bawa, termasuk 2 unit sepeda. 
+Selanjutnya tinggal tahap akhir eksekusi pindahan. Kami perlu merapikan barang-barang kecil ke dalam kardus yang diterima dari perusahaan pindahan, yang kami kerjakan secara bertahap sejak sebulan sebelum barang-barang akan diangkut. Barang besar akan diangkut begitu saja. Tanggal **1 Maret 2021**, 3 orang petugas pindahan Sakai datang ke kediaman kami di Sendai sekitar 2 jam lebih awal dari waktu yang dijanjikan. Setelah melunasi biaya pindahan dan memohon izin pada tetangga, mereka mulai proses angkut-mengangkut. Total sekitar 1 jam habis untuk mengangkut seluruh barang kami ke dalam truk 2 ton yang mereka bawa, termasuk 2 unit sepeda. 
 
 **3 Maret 2021**, sekitar pukul 8 pagi saya berangkat mengendarai mobil kami menuju Hiroshima bersama seorang kawan. Tujuan utamanya adalah untuk menyambut barang-barang yang diangkut perusahaan pindahan ketika tiba di rumah baru kami di Hiroshima. Kami putuskan untuk memindahkan mobil dengan dikendarai untuk menghemat biaya, karena biaya pindahan mobil tidak ditanggung oleh kampus, sedangkan kondisinya masih sangat baik. Sepekan sebelum pindahan, kami persiapkan mobil untuk perjalanan jarak jauh dengan servis rutin ditambah penggantian ban. Jarak sekitar 1,400 km kami tempuh dengan bergantian menyetir setiap 2 jam, dengan menginap semalam di Kobe. Kami tiba di Hiroshima di hari berikutnya, **4 Maret 2021** sekitar pukul 12 siang, langsung menuju kantor agen apartemen untuk serah terima kunci dan langsung menuju ke apartemen.
 
@@ -57,4 +57,29 @@ Petugas angkut perusahaan pindahan 2 orang tiba di apartemen baru di Hiroshima s
 
 Tidak lama setelah petugas angkut menyelesaikan tugasnya, sekitar pukul 16, bel rumah kami berbunyi. Ternyata nenek pemilik apartemen mendahului mengunjungi kami. Beliau memperkenalkan diri dan memberi saya booklet berisi informasi penting dasar untuk bertahan hidup di Hiroshima. Selanjutnya, karena saya juga sudah menyiapkan oleh-oleh, gantian saya langsung berkunjung balik untuk berkenalan juga dengan kakek pemilik apartemen. Saya dan kawan saya kemudian kembali lagi ke Sendai beberapa hari berikutnya dengan pesawat.
 
+**24 Maret 2021**, membuang seluruh barang-barang yang tersisa di rumah Sendai yang rencananya tidak akan dibawa ke Hiroshima. Barang-barang langsung diangkut sendiri dengan mobil sewaan ke pusat pembuangan barang. Biaya pengolahan sampah dihitung per 100 kg bobot barang. Di sekitar hari ini juga kami berpamitan pada para tetangga.
+
 **26 Maret 2021**, selepas shalat Jumat, kami sekeluarga resmi pindah dari Sendai ke Hiroshima, dengan penerbangan langsung Sendai-Hiroshima, bersambung dengan bus-kereta dan taksi, komplit.
+
+## To-do list ketika pindahan
+
+### 1 bulan sebelum pindahan
+
+* Mengatur pembuangan barang besar yang tidak bisa dibuang di pusat pembuangan barang, seperti kulkas dan mesin cuci.
+* Lapor pemilik atau pengelola kediaman lama.
+
+### 2 pekan sebelum pindahan
+
+* Mendaftar pemberhentian listrik, air dan gas di kediaman lama.
+* Mendaftar pemakaian listrik, air dan gas di kediaman baru.
+* Lapor ke kantor kecamatan 区役所 kediaman lama.
+* Melepaskan tanggungan yang berkaitan dengan tempat tinggal lama, seperti registrasi kendaraan.
+* Mendaftar fitur _forwarding_ pos.
+
+### Setelah pindahan (dalam 2 pekan)
+
+* Lapor ke kantor kecamatan 区役所 kediaman baru.
+* Ke kantor polisi 警察所 atau pusat surat izin mengemudi (SIM) kediaman baru untuk pembaruan SIM.
+* Mengganti alamat kendaraan (terkait perpajakan) di kantor pengurusan kendaraan.
+* Mengganti alamat lain yang perlu diganti, seperti akun bank.
+
