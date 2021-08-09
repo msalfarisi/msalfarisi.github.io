@@ -62,7 +62,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ### 学術論文編集 Editorial Activity
 
-* [Journal of Integrated and Advanced Engineering (JIAE, ASASI)](https://asasijournal.id/index.php/jiae/), Associate Editor (2021〜)
+* **ASASI** [Journal of Integrated and Advanced Engineering (JIAE)](https://asasijournal.id/index.php/jiae/), Associate Editor (2021〜)
 
 ### 学術論文査読 Review Activity
 
