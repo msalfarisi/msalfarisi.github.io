@@ -66,6 +66,6 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ### 学術論文査読 Review Activity
 
-* **MDPI** [Micromachines](https://www.mdpi.com/journal/micromachines) 
-* **Springer** [Microsystem Technologies](https://www.springer.com/journal/542)  
-* **ACS** [The Journal of Physical Chemistry](https://pubs.acs.org/journal/jpccck)
+* **ACS** [The Journal of Physical Chemistry](https://pubs.acs.org/journal/jpccc
+* **MDPI** [Micromachines](https://www.mdpi.com/journal/micromachines), [Processes](https://www.mdpi.com/journal/processes)
+* **Springer** [Microsystem Technologies](https://www.springer.com/journal/542) k)
