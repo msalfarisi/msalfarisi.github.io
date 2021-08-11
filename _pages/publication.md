@@ -41,15 +41,15 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 <details>
 
-0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In _Solid-State Sensors Actuators and Microsystems (TRANSDUCERS), 2021 21th Int. Conf._, pp. 1138-1141 (2021).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In [_2021 21th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 1138-1141 (2021)](https://doi.org/10.1109/Transducers50396.2021.9495544).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In [_2021 Smart Systems Integration (SSI)_, pp. 1-4 (2021)](https://doi.org/10.1109/SSI52265.2021.9466952).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid", In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
 0. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Roll/Pitch Rate Integrating MEMS Gyroscope Using Dynamically Balanced Dual-Mass Resonator", In [_2020 IEEE Int. Symp. Inertial Sensors and Systems (INERTIAL)_, pp. 1–4 (2020)](https://doi.org/10.1109/INERTIAL48129.2020.9090078).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Sealed cavity pressure evaluation from 1 Pa to over 10 kPa using thin diaphragm for MEMS vacuum packaging", In [_2019 IEEE 32nd Int. Conf. Micro Electro Mechanical Syst. (MEMS)_, pp. 1045–1048 (2019)](https://doi.org/10.1109/MEMSYS.2019.8870823).
 0. **M. S. Al Farisi**, S. Hertel, M. Wiemer, T. Otto: “Investigation of aluminum patterned electrodeposition process from AlCl3-\[EMIm\]Cl ionic liquid for microsystems application”, In [_2018 Int. Conf. Electron. Packaging iMAPS All Asia Conf. (ICEP-IAAC)_, pp. 415–418 (2018)](https://doi.org/10.23919/ICEP.2018.8374336).
-0. **M. S. Al Farisi**, K. Tanaka, H. Hirano, S. Tanaka: "250°C wafer-level vacuum sealing using electroplated copper bonding frame planarized by fly-cutting," In [_Solid-State Sensors Actuators and Microsystems (TRANSDUCERS), 2017 19th Int. Conf._, pp. 1191–1194 (2017)](https://doi.org/10.1109/TRANSDUCERS.2017.7994267).
+0. **M. S. Al Farisi**, K. Tanaka, H. Hirano, S. Tanaka: "250°C wafer-level vacuum sealing using electroplated copper bonding frame planarized by fly-cutting," In [_2017 19th Int. Conf. Solid-State Sensors Actuators and Microsystems (TRANSDUCERS)_, pp. 1191–1194 (2017)](https://doi.org/10.1109/TRANSDUCERS.2017.7994267).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka, H. Miura: "Grain refining of metal surface by mechanical cutting for low-temperature wafer-level vacuum bonding," In _2nd USTB-TU Joint Workshop on Advanced Materials and Manufacture_, Abstracts 2 p. 6 (2017).
-0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Wafer-level vacuum packaging for hetero-integration by thermo-compression bonding using planarized-electroplated gold bumps," In [_Nano/Micro Engineered and Molecular Systems (NEMS), 2016 11th IEEE Int. Conf._, pp. 573–577 (2016)](https://doi.org/10.1109/NEMS.2016.7758317).
+0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Wafer-level vacuum packaging for hetero-integration by thermo-compression bonding using planarized-electroplated gold bumps," In [_2016 11th IEEE Int. Conf. Nano/Micro Engineered and Molecular Systems (NEMS)_, pp. 573–577 (2016)](https://doi.org/10.1109/NEMS.2016.7758317).
 
 </details>
   
