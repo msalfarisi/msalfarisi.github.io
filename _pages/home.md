@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
-    <td>Our industrial collaborator: COSMOSWEB Co. Ltd. won a public funding from <a href:"https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
+    <td>Our industrial collaborator: COSMOSWEB Co. Ltd. won a public funding from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/06/23</td>
