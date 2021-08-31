@@ -16,12 +16,16 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
 
-
+ 
 
 ## News 最新情報
 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
+  <tr>
+    <td style="color:#6d6d6d;">2021/08/10</td>
+    <td>Won a public grant from Kakenhi, the Grant-in-Aid for Research Activity Start-up (科研費「研究活動スタート支援」), grant no. 21K20518.</td>
+  </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
     <td>Our industrial collaborator: COSMOSWEB Co. Ltd. won a public grant from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
