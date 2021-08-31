@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
-    <td>Won a public grant from Kakenhi, the Grant-in-Aid for Research Activity Start-up (科研費「研究活動スタート支援」), grant no. 21K20518.</td>
+    <td>Won a public grant from Kakenhi, the Grant-in-Aid for Research Activity Start-up (科研費「研究活動スタート支援」) grant no. 21K20518.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
