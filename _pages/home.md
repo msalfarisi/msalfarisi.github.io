@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/09/29</td>
-    <td>An interview article has been posted in the <a href="http://www.imac.mech.tohoku.ac.jp/outline/voice.html">Student's Voice page of Tohoku University International Mechanical and Aerospace Engineering Course homepage</a>. The interview was conducted in March 2021.</td>
+    <td>An interview article has been posted in the <a href="http://www.imac.mech.tohoku.ac.jp/outline/voice.html">Student's Voice page of Tohoku University International Mechanical and Aerospace Engineering Course (IMAC) homepage</a>. The interview was conducted in March 2021.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/31</td>
