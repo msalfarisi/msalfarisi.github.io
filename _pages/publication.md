@@ -57,6 +57,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ### 国内学会 Domestic Conferences
 
 <details>
+    
 0. Y. Wang, S. Kawashima, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Development of in-tube-center packaged thermal sensor utilizing film buckling", In _the 12th Symp. Micro-Nano Science and Technology_, p. MN3-09P2-3 (2021).
   * In Japanese: 王 洋, 川島 彩奈世, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "フィルムの座屈を利用した管内中央実装型熱式センサの開発", 第12回マイクロ・ナノ工学シンポジウム, p. MN3-09P2-3 (2021).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Micro Electro-Thermal Actuator Using Electroplated Aluminum", In _the 12th Symp. Micro-Nano Science and Technology_, p. MN1-10A3-3 (2021).
