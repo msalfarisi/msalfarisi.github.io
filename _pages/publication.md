@@ -41,6 +41,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 <details>
 
+0. S. Wang, **M. S. Al Farisi**, J. Chen, T. Tsukamoto, S. Tanaka: "Dual-Mass Resonator with Dynamically Balanced Structure for Roll/Pitch Rate Integrating Gyroscope", In _2021 IEEE Sensors_, _accepted_ (2021).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In [_2021 21th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 1138-1141 (2021)](https://doi.org/10.1109/Transducers50396.2021.9495544).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In [_2021 Smart Systems Integration (SSI)_, pp. 1-4 (2021)](https://doi.org/10.1109/SSI52265.2021.9466952).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid", In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
@@ -56,9 +57,18 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ### 国内学会 Domestic Conferences
 
 <details>
-
+0. Y. Wang, S. Kawashima, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Development of in-tube-center packaged thermal sensor utilizing film buckling", In _the 12th Symp. Micro-Nano Science and Technology_, p. MN3-09P2-3 (2021).
+  * In Japanese: 王 洋, 川島 彩奈世, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "フィルムの座屈を利用した管内中央実装型熱式センサの開発", 第12回マイクロ・ナノ工学シンポジウム, p. MN3-09P2-3 (2021).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Micro Electro-Thermal Actuator Using Electroplated Aluminum", In _the 12th Symp. Micro-Nano Science and Technology_, p. MN1-10A3-3 (2021).
+  * In Japanese: **M. S. Al Farisi**, 塚本 貴城, 田中 秀治, "電気めっきアルミニウムを用いたマイクロ熱アクチュエータ", 第12回マイクロ・ナノ工学シンポジウム, p. MN1-10A3-3 (2021).
+0. T. Tsukada, R. Takigawa, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Optimization of Breathing Measurement Sensor System in Tracheal Intubation Tube", In _the 12th Symp. Micro-Nano Science and Technology_, p. MN1-10P2-13 (2021).
+  * In Japanese: 塚田 剛矢, 瀧川 流成, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "気管挿管チューブでの呼吸計測センサシステムの最適化", 第12回マイクロ・ナノ工学シンポジウム, p. MN1-10P2-13 (2021).
+0. Y. Wang, S. Kawashima, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "In-tube-center packaged MEMS sensor system for health monitoring in elderly", In _the 44th Annual Meeting of the Japan Society of Medical and Biological Engineering, Chugoku-Shikoku Branch_ (2021).
+  * In Japanese: 王 洋, 川島 彩奈世, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "高齢者における健康見守りを目的とした中央実装型MEMSセンサシステムに関する研究", 第44回日本生体医工学会中国四国支部大会 (2021).
+0. T. Tsukada, R. Takigawa, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Numerical analysis of airflow inside tracheal intubation tube using CFD", In _the 44th Annual Meeting of the Japan Society of Medical and Biological Engineering, Chugoku-Shikoku Branch_ (2021).
+  * In Japanese: 塚田 剛矢, 瀧川 流成, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "CFDを用いた気管挿管チューブ内流れの数値解析に関する研究", 第44回日本生体医工学会中国四国支部大会 (2021).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Wafer-level thermocompression bonding using electroplated Al thin film", In [_the 11th Symp. Micro-Nano Science and Technology_, p. 27A2-MN1-4 (2020)](https://doi.org/10.1299/jsmemnm.2020.11.27A2-MN1-4).
-  * Conference title in Japanese: 第11回マイクロ・ナノ工学シンポジウム.
+  * In Japanese: **M. S. Al Farisi**, 塚本 貴城, 田中 秀治, "電気めっきアルミニウム薄膜を用いたウエハレベル熱圧着接合", 第11回マイクロ・ナノ工学シンポジウム, p. 27A2-MN1-4 (2020).
 0. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Electromagnetically Actuated Quartz Glass Ring Resonator for Mode Matched Gyroscope", _In the IEEJ Micromachine and Sensor System Workshop_, p. MSS-20-022 (2020).
   * Conference title in Japanese: 令和2年度電気学会 マイクロマシン・センサシステム研究会
 0. S. Wang, **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Out-of-plane resonator for roll/pitch rate integrated gyroscope with dynamically balanced dual-mass", In [_the 55th Annual Meeting of the Japan Society of Mechanical Engineers Tohoku Branch_, p. 182 (2020)](https://doi.org/10.1299/jsmeth.2020.55.182_paper).
