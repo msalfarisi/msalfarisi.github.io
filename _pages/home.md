@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2020/10/16</td>
+    <td><a href="/publication/">Our paper</a>, a progress review on the biomedical application of MEMS has been published in <a href="https://doi.org/10.35848/1347-4065/ac305d">Japanese Journal of Applied Physics</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2021/09/29</td>
     <td>Featured in the <a href="http://www.imac.mech.tohoku.ac.jp/outline/voice.html">Student's Voice page of Tohoku University International Mechanical and Aerospace Engineering Course (IMAC)</a>. The interview was conducted in March 2021.</td>
   </tr>
