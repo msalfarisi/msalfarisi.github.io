@@ -8,7 +8,7 @@ date: 2021-10-01
 location: "Hiroshima, Japan"
 ---
 
-In this course, students will experience hands-on training in programming II, a continuation of programming I which is taught in spring semester. From 2021, the programming language changes to **Python**. All exercises are performed using **Google Colaboratory** platform. The followings are the [material](http://rsw.office.hiroshima-cu.ac.jp/OpenSyllabus/2021_20411399.html).
+In this course, students will experience hands-on training in programming II, a continuation of programming I which is taught in spring semester. From 2021, the programming language changes to **Python**. All exercises are performed using **Google Colaboratory** platform. The followings are the weekly [material](http://rsw.office.hiroshima-cu.ac.jp/OpenSyllabus/2021_20411399.html).
 
 1. Review of programming I (basic)
 2. Review of programming I (application)
