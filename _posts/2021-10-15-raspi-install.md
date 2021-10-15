@@ -25,6 +25,8 @@ sudo dpkg -i imager_1.6.2_amd64.deb
 
 <img src='/images/blog-20211015-raspi-imager.png' width='60%'>
 
+<img src='/images/blog-20211015-raspi-imager0.png' width='60%'>
+
 4. Choose the microSD card (**CHOOSE STORAGE** button) and select the intended SD card.
 
 5. Click **WRITE** and the installation procedure will start. This process takes several minutes since _Raspberry Pi Imager_ downloads _Raspberry Pi OS_ and burns it to our microSD card.
