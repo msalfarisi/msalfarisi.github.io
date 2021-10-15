@@ -23,6 +23,8 @@ sudo dpkg -i imager_1.6.2_amd64.deb
 
 3. Choose the operating system (**CHOOSE OS** button) and select **Raspberry Pi OS (32-bit)** from the menu.
 
+<img src='/images/blog-20211015-raspi-imager.png' width='60%'>
+
 4. Choose the microSD card (**CHOOSE STORAGE** button) and select the intended SD card.
 
 5. Click **WRITE** and the installation procedure will start. This process takes several minutes since _Raspberry Pi Imager_ downloads _Raspberry Pi OS_ and burns it to our microSD card.
@@ -44,9 +46,13 @@ sudo apt-get install putty
 
 2. Run PuTTY and enter **raspberrypi** or **raspberrypi.local** as the host name address.
 
+<img src='/images/blog-20211015-raspi-putty.png' width='60%'>
+
 3. Accept if there is any security warning. It is a local connection, and thus there should not be any problem.
 
 4. It will ask for the username and password. The default initial ones are **pi** as username and **raspberry** as password.
+
+<img src='/images/blog-20211015-raspi-putty0.png' width='60%'>
 
 Now we are connected through the terminal. To access the GUI, we need to enable VNC as follows.
 
@@ -60,7 +66,11 @@ sudo raspi-config
 
 2. Select the **Interface Options**.
 
+<img src='/images/blog-20211015-raspi-putty1.png' width='60%'>
+
 3. Select **VNC** and **Yes** to enable it. Then finish the configuration.
+
+<img src='/images/blog-20211015-raspi-putty2.png' width='60%'>
 
 4. On the PC, download and install [VNC viewer](https://www.realvnc.com/en/connect/download/viewer/):
 
@@ -69,8 +79,12 @@ sudo dpkg -i VNC-Viewer-6.21.406-Linux-x64.deb
 ```
 5. On the dasboard, launch the **raspberrypi** or **raspberrypi.local**.
 
+<img src='/images/blog-20211015-raspi-vnc.png' width='60%'>
+
 6. Accept if there is any security warning. It is a local connection, and thus there should not be any problem.
 
 7. It will ask for the username and password. The default initial ones are **pi** as username and **raspberry** as password.
+
+<img src='/images/blog-20211015-raspi-vnc0.png' width='60%'>
 
 Now our Raspberry Pi desktop will appear in a window on our PC. We will be able to control everything from here.
