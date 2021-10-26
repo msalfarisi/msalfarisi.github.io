@@ -32,11 +32,11 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/31</td>
-    <td>Won a public grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: Grant-in-Aid for Research Activity Start-up (科研費「研究活動スタート支援」) grant no. 21K20518.</td>
+    <td>Acquired a public grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K20518/">Grant-in-Aid for Research Activity Start-up (科研費「研究活動スタート支援」) grant no. 21K20518</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
-    <td>Our industrial collaborator won a public grant from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
+    <td>Our industrial collaborator aqcuired a public grant from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/06/23</td>
