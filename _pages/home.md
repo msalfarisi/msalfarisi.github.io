@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2021/11/02</td>
-    <td><a href="/publication/">Our work</a> was virtually presented (poster) at the <a href="https://2020.ieee-inertial.org/">IEEE Sensors 2021</a>, 31 October - 4 November 2021. The conference was originally scheduled to be hold in Sydney, Australia, however, moved to virtual platform due to COVID-19 pandemic.</td>
+    <td><a href="/publication/">Our work</a> was virtually presented (poster) at the <a href="https://2021.ieee-sensorsconference.org/">IEEE Sensors 2021</a>, 31 October - 4 November 2021. The conference was originally scheduled to be hold in Sydney, Australia, however, moved to virtual platform due to COVID-19 pandemic.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2020/10/16</td>
