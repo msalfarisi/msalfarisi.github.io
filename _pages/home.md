@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2021/11/11</td>
+    <td><a href="/publication/">Our works</a> (3) were virtually presented (2 real-time, 1 on-demand) at the <a href="https://www.jsme.or.jp/conference/mnm2021/">12th Symposium on Micro-Nano Science and Technology 日本機械学会 第12回マイクロ・ナノ工学シンポジウム</a>, 9-11 November 2021. The conference was originally scheduled to be hold in Himeji, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2021/11/06</td>
     <td>Chaired a session (Sensor & signal processing センサ・信号処理) at the <a href="http://www.medimg.info.hiroshima-cu.ac.jp/jsmbe-chusi-2021/">44th Annual Meeting of the Japan Society of Medical and Biological Engineering, Chugoku-Shikoku Branch 第44回日本生体医工学会中国四国支部大会</a>, 6 November 2021. <a href="/publication/">Our works</a> (2) were also virtually presented (oral). The conference was originally scheduled to be hold in Hiroshima, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
   </tr>
