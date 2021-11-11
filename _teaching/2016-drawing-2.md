@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-drawing-2
 venue: "Tohoku University, Department of Bioengineering and Robotics"
-date: 2016, 2017
+date: 2016-2017
 location: "Sendai, Japan"
 ---
 
