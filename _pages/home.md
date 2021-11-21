@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome ようこそ
 
-アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学大学院情報科学研究科医用情報科学専攻助教です。
+アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学 大学院情報科学研究科 医用情報科学専攻 助教です。
 
 Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical system)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
 
