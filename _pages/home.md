@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2021/11/24</td>
+    <td>Acquired a private grant from <a href="https://hirose-isf.or.jp/">Hirose Foundation</a> 公益財団法人ヒロセ財団 研究助成.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2021/11/11</td>
     <td><a href="/publication/">Our works</a> (3) were virtually presented (2 real-time, 1 on-demand) at the <a href="https://www.jsme.or.jp/conference/mnm2021/">12th Symposium on Micro-Nano Science and Technology 日本機械学会 第12回マイクロ・ナノ工学シンポジウム</a>, 9-11 November 2021. The conference was originally scheduled to be hold in Himeji, Japan, however, moved to virtual platform due to COVID-19 pandemic.</td>
   </tr>
@@ -48,7 +52,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/08/10</td>
-    <td>Our industrial collaborator aqcuired a public grant from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
+    <td>Our industrial collaborator aqcuired a public grant from <a href="https://www.joho-miyagi.or.jp/">Miyagi Organization for Industry Promotion (公益財団法人 みやぎ産業振興機構 みやぎ中小企業チャレンジ応援基金事業)</a> for our collaborative work.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/06/23</td>
