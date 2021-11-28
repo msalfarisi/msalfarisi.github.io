@@ -56,14 +56,16 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ### 所属学会 Academic Society
 
-* Institute of Electrical and Electronics Engineers (IEEE), Student Member (2017〜)  
+* Institute of Electrical and Electronics Engineers (IEEE), Student Member (2017〜2021) Member (2021〜)  
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)  
   日本機械学会 正員
+* The Institute of Electrical Engineers of Japan (IEEJ), Member (2021〜)
+  電気学会 正員
 
 ### 学術論文編集 Editorial Activity
 
 * **ASASI** [Journal of Integrated and Advanced Engineering (JIAE)](https://asasijournal.id/index.php/jiae/), Associate Editor (2021〜)
-* **Frontiers** in [Mechanical Engineering](https://www.frontiersin.org/journals/mechanical-engineering), [Micro- and Nanoelectromechanical Systems](https://www.frontiersin.org/journals/mechanical-engineering/sections/micro--and-nanoelectromechanical-systems) section, Review Editor (2021~)
+* **Frontiers** in [Mechanical Engineering](https://www.frontiersin.org/journals/mechanical-engineering), [Micro- and Nanoelectromechanical Systems](https://www.frontiersin.org/journals/mechanical-engineering/sections/micro--and-nanoelectromechanical-systems) section, Review Editor (2021〜)
 
 ### 学術論文査読 Review Activity
 
