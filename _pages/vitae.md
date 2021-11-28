@@ -59,7 +59,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * Institute of Electrical and Electronics Engineers (IEEE), Student Member (2017〜2021) Member (2021〜)  
 * Japan Society of Mechanical Engineers (JSME), Member (2019〜)  
   日本機械学会 正員
-* The Institute of Electrical Engineers of Japan (IEEJ), Member (2021〜)
+* The Institute of Electrical Engineers of Japan (IEEJ), Member (2021〜)  
   電気学会 正員
 
 ### 学術論文編集 Editorial Activity
