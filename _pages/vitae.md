@@ -65,7 +65,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 ### 学術論文編集 Editorial Activity
 
 * **ASASI** [Journal of Integrated and Advanced Engineering (JIAE)](https://asasijournal.id/index.php/jiae/), Associate Editor (2021〜)
-* **Frontiers** in [Mechanical Engineering](https://www.frontiersin.org/journals/mechanical-engineering), [Micro- and Nanoelectromechanical Systems](https://www.frontiersin.org/journals/mechanical-engineering/sections/micro--and-nanoelectromechanical-systems) section, Review Editor (2021〜)
+* **Frontiers** in [Mechanical Engineering](https://www.frontiersin.org/journals/mechanical-engineering): [Micro- and Nanoelectromechanical Systems](https://www.frontiersin.org/journals/mechanical-engineering/sections/micro--and-nanoelectromechanical-systems) section, Review Editor (2021〜)
 
 ### 学術論文査読 Review Activity
 
