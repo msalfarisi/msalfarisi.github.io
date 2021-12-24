@@ -41,7 +41,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 <details>
 
-0. S. Wang, **M. S. Al Farisi**, J. Chen, T. Tsukamoto, S. Tanaka: "Dual-Mass Resonator with Dynamically Balanced Structure for Roll/Pitch Rate Integrating Gyroscope", In _2021 IEEE Sensors_, _accepted_ (2021).
+0. S. Wang, **M. S. Al Farisi**, J. Chen, T. Tsukamoto, S. Tanaka: "Dual-Mass Resonator with Dynamically Balanced Structure for Roll/Pitch Rate Integrating Gyroscope", In [_2021 IEEE Sensors_, pp. 1-4 (2021)](https://doi.org/10.1109/SENSORS47087.2021.9639685).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In [_2021 21th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 1138-1141 (2021)](https://doi.org/10.1109/Transducers50396.2021.9495544).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In [_2021 Smart Systems Integration (SSI)_, pp. 1-4 (2021)](https://doi.org/10.1109/SSI52265.2021.9466952).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Influence of Additive Inclusion on Hardness of Electroplated Al Film with Nanometer-Level Flatness from Chloroaluminate Ionic Liquid", In [_Pacific Rim Meeting on Electrochemical & Solid State Science (PRiME) 2020 Meet. Abstr._ **MA2020-02**, p. 1792 (2020)](https://doi.org/10.1149/MA2020-02251792mtgabs).
