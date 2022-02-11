@@ -10,7 +10,7 @@ author_profile: true
 
 You can also find statistics regarding my publications on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
-[学術論文 Journal Articles](/publication/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](publication/invited/) | [受賞 Awards ](/publication/award/)| [研究資金 Research Grants](/publication/grant/)
+[学術論文 Journal Articles](/publication/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](publication/invited/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国際学会 International Conferences
 
 
