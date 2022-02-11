@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "業績 Publication"
-permalink: /publication/conference-dom
+permalink: /publication/conference-dom/
 author_profile: true
 ---
 
