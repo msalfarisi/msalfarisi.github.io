@@ -14,7 +14,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 <details>
     
-0. M. Shikida, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe: "Advancements in MEMS technology for medical applications: microneedles and miniaturized sensors," [_Jpn. J. Appl. Phys._ **61**, p. SA0803 (2021)](https://doi.org/10.35848/1347-4065/ac305d).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Mechanical hardening of electrochemically deposited aluminum from chloroaluminate ionic liquid," _Scr. Mater._, _accepted_ (2022).
+0. M. Shikida, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe: "Advancements in MEMS technology for medical applications: microneedles and miniaturized sensors," [_Jpn. J. Appl. Phys._ **61**, p. SA0803 (2022)](https://doi.org/10.35848/1347-4065/ac305d).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," [_J. Microelectromech. Syst._ **29** (3), pp. 418–426 (2020)](https://doi.org/10.1109/JMEMS.2020.2984229).
 0. M. J. Khan, T. Tsukamoto, **M. S. Al Farisi**, S. Tanaka: "Fabrication Method of Micromachined Quartz Glass Resonator Using Sacrificial Supporting Structures," [_Sens. Act. A Phys._ **305**, p. 111922 (2020)](https://doi.org/10.1016/j.sna.2020.111922).
@@ -29,7 +30,6 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 0. **M. S. Al Farisi**, H. Hirano, J. Frömel, S. Tanaka: "Wafer-level hermetic thermo-compression bonding using electroplated gold sealing frame planarized by fly-cutting", [_J. Micromech. Microeng._ **27** (1), p. 015029 (2017)](http://dx.doi.org/10.1088/1361-6439/27/1/015029).
 
 ### <span style="color:grey">Submitted drafts</span>
-0. <span style="color:grey">M. S. Al Farisi, T. Tsukamoto, S. Tanaka: submitted (2020).</span>
 0. <span style="color:grey">Y. Sato, A. Kobayashi, M. S. Al Farisi, T. Wanxin, K. Sugiyasu, M. Matsumoto: submitted (2019).</span>
 
 </details>
