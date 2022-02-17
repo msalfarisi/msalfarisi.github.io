@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/02/16</td>
+    <td><a href="/publication/">Our paper</a> on the enhanced properties of the electrochemically deposited Al has been published in <a href="https://doi.org/10.1016/j.scriptamat.2022.114599">Scripta Materialia</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2021/11/24</td>
     <td>Acquired a private research grant from <a href="https://hirose-isf.or.jp/">Hirose Foundation</a> 公益財団法人ヒロセ財団 研究助成.</td>
   </tr>
