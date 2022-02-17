@@ -28,7 +28,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/11/24</td>
-    <td>Acquired a private research grant from <a href="https://hirose-isf.or.jp/">Hirose Foundation</a> 公益財団法人ヒロセ財団 研究助成.</td>
+    <td>Acquired a private research grant from <a href="https://hirose-isf.or.jp/">Hirose Foundation 公益財団法人ヒロセ財団 研究助成</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/11/11</td>
