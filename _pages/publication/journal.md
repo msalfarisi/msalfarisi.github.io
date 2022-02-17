@@ -13,7 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 学術論文 Journal Articles
 
-0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Mechanical hardening of electrochemically deposited aluminum from chloroaluminate ionic liquid," _Scr. Mater._, _accepted_ (2022).
+0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Mechanical hardening of electrochemically deposited aluminum from chloroaluminate ionic liquid," [_Scr. Mater._ **213**, p. 114599 (2022)](https://doi.org/10.1016/j.scriptamat.2022.114599).
 0. M. Shikida, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe: "Advancements in MEMS technology for medical applications: microneedles and miniaturized sensors," [_Jpn. J. Appl. Phys._ **61**, p. SA0803 (2022)](https://doi.org/10.35848/1347-4065/ac305d).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Tailoring material properties of electrochemically deposited Al film from chloroaluminate ionic liquid for microsystem technology using pulsed deposition," [_Sens. Act. A Phys._ **316**, p. 112384 (2020)](https://doi.org/10.1016/j.sna.2020.112384).
 0. **M. S. Al Farisi**, H. Hirano, S. Tanaka: "Zero-Balance Method for Evaluation of Sealed Cavity Pressure Down to Single Digit Pa Using Thin Silicon Diaphragm," [_J. Microelectromech. Syst._ **29** (3), pp. 418–426 (2020)](https://doi.org/10.1109/JMEMS.2020.2984229).
