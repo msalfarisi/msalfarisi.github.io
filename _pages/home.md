@@ -76,7 +76,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2021/03/25</td>
-    <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Doctor of Philosophy (Engineering) in Robotics.</td>
+    <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Doctor of Philosophy (Engineering) in Robotics. <a href="https://tohoku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=137175&item_no=1&page_id=33&block_id=46">Summary of Ph.D. Thesis</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2020/01/22</td>
