@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/03/25</td>
+    <td>Gave an <a href="/publication/">invited lecture</a> for students in Engineering Physics Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/02/16</td>
     <td><a href="/publication/">Our paper</a> on the enhanced properties of the electrochemically deposited Al has been published in <a href="https://doi.org/10.1016/j.scriptamat.2022.114599">Scripta Materialia</a>.</td>
   </tr>
