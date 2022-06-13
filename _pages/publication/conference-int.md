@@ -14,6 +14,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 国際学会 International Conferences
 
 
+0. T. Tsukada, Y. Hasegawa, **M. S. Al Farisi**, S. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Wireless MEMS Thermal Flow Sensor System Integrated On Medical Mask For Emergency Medical Treatment", In _10th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2022)_, p. A0110 (2022).
 0. S. Wang, **M. S. Al Farisi**, J. Chen, T. Tsukamoto, S. Tanaka: "Dual-Mass Resonator with Dynamically Balanced Structure for Roll/Pitch Rate Integrating Gyroscope", In [_2021 IEEE Sensors_, pp. 1–4 (2021)](https://doi.org/10.1109/SENSORS47087.2021.9639685).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Fully CMOS-compatible wafer bonding based on press marking using thick electroplated aluminum", In [_2021 21th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 1138–1141 (2021)](https://doi.org/10.1109/Transducers50396.2021.9495544).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electrochemically Deposited Aluminum for MEMS Thermal Actuator", In [_2021 Smart Systems Integration (SSI)_, pp. 90–93 (2021)](https://doi.org/10.1109/SSI52265.2021.9466952).
