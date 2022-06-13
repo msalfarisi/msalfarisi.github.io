@@ -23,6 +23,14 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/06/03</td>
+    <td><a href="/publication/">Our paper</a> on the relief supply after the Great East Japan Earthquake (2011) has been published in <a href="https://isss.jp.net/isss-site/wp-content/uploads/2022/06/06-2019-1.pdf">地域安全学会東日本大震災特別論文集 (Special Collection of the Great East Japan Earthquake, the Institute of Social Safety Science)</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2021/06/01</td>
+    <td><a href="/publication/">Our work</a> was virtually presented (oral) at the <a href="https://apcot2022.casconf.cn/">10th Asia-Pacific Conference of Transducers and Micro-Nano Technology (APCOT 2022)</a>, 30 May-1 June 2022. The conference was originally scheduled to be hold in Shanghai, China, however, moved to virtual platform due to COVID-19 pandemic.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/03/25</td>
     <td>Gave an <a href="/publication/">invited lecture</a> for students in Engineering Physics Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
   </tr>
