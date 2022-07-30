@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/07/30</td>
+    <td><a href="/publication/">Our paper</a> on the wafer-level bonding using electroplated Al has been published in <a href="https://doi.org/10.3390/mi13081221">Micromachines</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/06/03</td>
     <td><a href="/publication/">Our paper</a> on the relief supply after the Great East Japan Earthquake (2011) has been published in <a href="https://isss.jp.net/isss-site/wp-content/uploads/2022/06/06-2019-1.pdf">地域安全学会東日本大震災特別論文集 (Special Collection of the Great East Japan Earthquake, the Institute of Social Safety Science)</a>.</td>
   </tr>
