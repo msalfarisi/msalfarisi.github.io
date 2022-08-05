@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2022/08/05</td>
-    <td>Conducted a　3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00033950/">情報科学部公開講座「高校生による情報科学自由研究」</a> theme 10: "Breath measurement using DIY sensor" <a href="https://www.hiroshima-cu.ac.jp/uploads/2022/06/ba0cbfa768f4bb06628f1bcf6f75ca4c-20220606071801922.pdf">自作センサで呼吸を測ろう.</td>
+    <td>Conducted a　3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00033950/">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 10: "Breath measurement using DIY sensor" <a href="https://www.hiroshima-cu.ac.jp/uploads/2022/06/ba0cbfa768f4bb06628f1bcf6f75ca4c-20220606071801922.pdf">自作センサで呼吸を測ろう.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2022/07/30</td>
