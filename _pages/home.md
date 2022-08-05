@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/08/05</td>
+    <td>Conducted a　3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00033950/">情報科学部公開講座「高校生による情報科学自由研究」</a> theme 10: "Breath measurement using DIY sensor" <a href="https://www.hiroshima-cu.ac.jp/uploads/2022/06/ba0cbfa768f4bb06628f1bcf6f75ca4c-20220606071801922.pdf">自作センサで呼吸を測ろう.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/07/30</td>
     <td><a href="/publication/">Our paper</a> on the wafer-level bonding using electroplated Al has been published in <a href="https://doi.org/10.3390/mi13081221">Micromachines</a>.</td>
   </tr>
@@ -91,7 +95,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
     <td>Graduated from <a href="https://www.tohoku.ac.jp/">Tohoku University</a>, Doctor of Philosophy (Engineering) in Robotics. <a href="https://tohoku.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=137175&item_no=1&page_id=33&block_id=46">Summary of Ph.D. Thesis</a>.</td>
   </tr>
   <tr>
-    <td style="color:#6d6d6d;">2020/01/22</td>
+    <td style="color:#6d6d6d;">2021/01/22</td>
     <td>Successfully defended a Ph.D. dissertation entitled "Aluminum Electrochemical Deposition and Its Microsystem Applications" in the Department of Robotics, Graduate School of Engineering, Tohoku University.</td>
   </tr>
   <tr>
