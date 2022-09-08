@@ -14,7 +14,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 書籍 Book (Chapters)
 
 0. 式田 光宏, 長谷川 義大, **M. S. Al Farisi**, 川部 勤, 松島 充代子: "ポリイミドフィルム上へのMEMSセンサの作製", [ポリイミドの高機能設計と応用技術](https://www.gijutu.co.jp/doc/b_2165.htm), 第3章 第８節, pp. 273-281 (2022), ISBN: 978-4-86104-887-6.
- * M. Shikida, Y. Hasegawa, **M. S. Al Farisi**, T. Kawabe, M. Matsushima: "Fabrication of MEMS sensors on polyimide film," Design for high performance polyimide and its technological applications, Ch. 3 Sec. 8, pp. 273-281 (2022), ISBN: 978-4-86104-887-6.
+ * M. Shikida, Y. Hasegawa, **M. S. Al Farisi**, T. Kawabe, M. Matsushima: "Fabrication of MEMS sensors on polyimide film," Design of high performance polyimide and its technological applications, Ch. 3 Sec. 8, pp. 273-281 (2022), ISBN: 978-4-86104-887-6.
 0. **M. S. Al Farisi**, 手塚寛, 関亜美: "減災アクションカードゲームを活用した判断力・実践力を涵養する防災教育", 東北大学グローバル安全学トップリーダー育成プログラム学生自主企画活動報告書, 第2章, pp. 14-58 (2019), ISBN: 978-4-916105-15-8.
 0. 小林陽成, 佐藤悠司, **M. S. Al Farisi**, 唐万新, 山本知生, 情野瑛: "災害時の救援物資にかかる課題の調査・議論と対策の検討", 東北大学グローバル安全学トップリーダー育成プログラム学生自主企画活動報告書, 第4章, pp. 88-130 (2019), ISBN: 978-4-916105-15-8.
 0. 熊谷裕太, 新谷直己, 手塚寛, 関亜美, **M. S. Al Farisi**, 宮鍋慶介: "自助のための基盤作りを目指す防災教育活動", 東北大学グローバル安全学トップリーダー育成プログラム学生自主企画活動報告書, 第3章, pp. 80-131 (2018), ISBN: 978-4-916105-15-8.
