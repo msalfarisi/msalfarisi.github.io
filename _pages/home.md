@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/08/31</td>
+    <td><a href="/publication/book/">Our book chapter</a> on the utilization of polyimide for MEMS ポリイミドフィルム上へのMEMSセンサの作製 has been published in <a href="https://www.gijutu.co.jp/doc/b_2165.htm"> ポリイミドの高機能設計と応用技術 (Design of high performance polyimide and its technological applications)</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/08/05</td>
     <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00033950/">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 10: "Breath measurement using DIY sensor" <a href="https://www.hiroshima-cu.ac.jp/uploads/2022/06/ba0cbfa768f4bb06628f1bcf6f75ca4c-20220606071801922.pdf">自作センサで呼吸を測ろう</a>.</td>
   </tr>
