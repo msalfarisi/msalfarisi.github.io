@@ -31,4 +31,3 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
   * Journal title in Japanese: 東北地域災害科学研究.
 0. **M. S. Al Farisi**, H. Hirano, J. Frömel, S. Tanaka: "Wafer-level hermetic thermo-compression bonding using electroplated gold sealing frame planarized by fly-cutting", [_J. Micromech. Microeng._ **27** (1), p. 015029 (2017)](http://dx.doi.org/10.1088/1361-6439/27/1/015029).
 
-
