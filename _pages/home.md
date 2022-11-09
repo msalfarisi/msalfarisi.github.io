@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/09/29</td>
+    <td>Delivered an <a href="/publication/">invited lecture</a> for students in Biomedical Engineering Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/08/31</td>
     <td><a href="/publication/book/">Our book chapter</a> on the utilization of polyimide for MEMS ポリイミドフィルム上へのMEMSセンサの作製 has been published in <a href="https://www.gijutu.co.jp/doc/b_2165.htm"> ポリイミドの高機能設計と応用技術 (Design of high performance polyimide and its technological applications)</a>.</td>
   </tr>
@@ -44,7 +48,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2022/03/25</td>
-    <td>Gave an <a href="/publication/">invited lecture</a> for students in Engineering Physics Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
+    <td>Delivered an <a href="/publication/">invited lecture</a> for students in Engineering Physics Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2022/02/16</td>
