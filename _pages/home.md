@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/11/14</td>
+    <td><a href="/publication/">Our work</a> was presented (poster) at the <a href="/publication/">39th Sensor Symposium on Sensors, Micromachines and Applied Systems 電気学会 第39回「センサ・マイクロマシンと応用システム」シンポジウム</a>, 14-17 November 2022 in Tokushima, Japan.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/09/29</td>
     <td>Delivered an <a href="/publication/">invited lecture</a> for students in Biomedical Engineering Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
   </tr>
