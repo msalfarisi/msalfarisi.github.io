@@ -13,6 +13,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](/publication/conference-int/) | [招待講演 Invited Talks](publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国内学会 Domestic Conferences
 
+0. T. Tsukada, Y. Hasegawa, **M. S. Al Farisi**, S. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development Of Medical Wireless MEMS Sensor System For Vital Sign Measurement", In _the 39th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 14P5-P-19 (2022).
+  * In Japanese: 塚田 剛矢, 長谷川 義大, **M. S. Al Farisi**, 長谷川 信, 松島 充代子, 川部 勤, 式田 光宏, "バイタルサイン計測が可能な医療用ワイヤレス MEMS センサシステムの開発", 第39回「センサ・マイクロマシンと応用システム」シンポジウム, p. 14P5-P-19 (2022).
 0. Y. Wang, S. Kawashima, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Development of in-tube-center packaged thermal sensor utilizing film buckling", In _the 12th Symp. Micro-Nano Science and Technology_, p. 09P2-MN3-3 (2021).
   * In Japanese: 王 洋, 川島 彩奈世, 長谷川 義大, **M. S. Al Farisi**, 松島 充代子, 川部 勤, 式田 光宏, "フィルムの座屈を利用した管内中央実装型熱式センサの開発", 第12回マイクロ・ナノ工学シンポジウム, p. 09P2-MN3-3 (2021).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Micro Electro-Thermal Actuator Using Electroplated Aluminum", In _the 12th Symp. Micro-Nano Science and Technology_, p. 10A3-MN1-3 (2021).
