@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/01/01</td>
+    <td><a href="/publication/">Our paper</a> on the airflow analysis in the intubation tube has been published in <a href="https://doi.org/10.1541/ieejsmas.143.6">IEEJ Transactions on Sensors and Micromachines</a>, or 電気学会論文誌Ｅ（センサ・マイクロマシン部門誌）.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2022/12/24</td>
     <td><a href="/publication/">Our paper</a> on the copper on polyimide flexible flow sensor has been published in <a href="https://doi.org/10.3390/mi14010042">Micromachines</a>.</td>
   </tr>
