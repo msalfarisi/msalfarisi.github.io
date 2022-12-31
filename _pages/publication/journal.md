@@ -13,6 +13,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 学術論文 Journal Articles
 
+0. T. Tsukada, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Analysis of Airstream Inside the Slip Joint of Tracheal Intubation Tube for Breathing Measurement," [_IEEJ Transactions on Sensors and Micromachines_ **143** (1), pp. 6–12 (2023)](https://doi.org/10.1541/ieejsmas.143.6).
+  * Journal title in Japanese: 電気学会論文誌Ｅ（センサ・マイクロマシン部門誌）.
 0. T. Tsukada, R. Takigawa, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida: "Sensitivity Enhancement of Tube-Integrated MEMS Flow Sensor using Flexible Copper on Polyimide Substrate," [_Micromachines_ **14** (1), p. 42 (2023)](https://doi.org/10.3390/mi14010042).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Electroplated Al Press Marking for Wafer-Level Bonding," [_Micromachines_ **13** (8), p. 1221 (2022)](https://doi.org/10.3390/mi13081221).
 0. **M. S. Al Farisi**, T. Tsukamoto, S. Tanaka: "Mechanical hardening of electrochemically deposited aluminum from chloroaluminate ionic liquid," [_Scr. Mater._ **213**, p. 114599 (2022)](https://doi.org/10.1016/j.scriptamat.2022.114599).
