@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/05/05</td>
+    <td><a href="/publication/">Our paper</a> on the facile in-tube-center packaging for flexible airflow microsensor has been published in <a href="https://doi.org/10.1109/JSEN.2023.3272310">IEEE Sensors Journal</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/03/16</td>
     <td>Delivered an <a href="/publication/">invited lecture</a> for students in Biomedical Engineering Master Program, University of Indonesia.</td>
   </tr>
