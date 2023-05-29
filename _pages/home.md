@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/05/29</td>
+    <td>Acquired a private research grant from <a href="https://www.satake-zaidan.or.jp/">Satake Foundation 公益財団法人サタケ技術振興財団 大学研究助成金</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/05/05</td>
     <td><a href="/publication/">Our paper</a> on the facile in-tube-center packaging for flexible airflow microsensor has been published in <a href="https://doi.org/10.1109/JSEN.2023.3272310">IEEE Sensors Journal</a>.</td>
   </tr>
