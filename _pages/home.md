@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/06/29</td>
+    <td>Presented (oral) at the <a href="https://transducers2023.org/">22th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 25-29 June 2023 in Kyoto, Japan. Also participated in the Future Visions for Transducers session and represented as a panelist in the panel discussion under theme "Future Visions for Transducers Fabrication". Other 2 co-authored works was also presented (poster). </td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/05/29</td>
     <td>Acquired a private research grant from <a href="https://www.satake-zaidan.or.jp/">Satake Foundation 公益財団法人サタケ技術振興財団 大学研究助成金</a>.</td>
   </tr>
