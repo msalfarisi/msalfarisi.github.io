@@ -11,6 +11,13 @@ author_profile: true
 You can also find statistics regarding my publications on my [Google Scholar](https://scholar.google.co.jp/citations?user=30VZQ_sAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57192380817), [Web of Science](https://publons.com/researcher/AAY-5422-2020/) and [ORCID](https://orcid.org/0000-0003-4870-9337).
 
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
+
+[su_tabs]
+[su_tab title="Tab name" disabled="no" anchor="" url="" target="blank" class=""]Tab content[/su_tab]
+[su_tab title="Tab name" disabled="no" anchor="" url="" target="blank" class=""]Tab content[/su_tab]
+[su_tab title="Tab name" disabled="no" anchor="" url="" target="blank" class=""]Tab content[/su_tab]
+[/su_tabs]
+
 ## 学術論文 Journal Articles
 
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Facile In-Tube-Center Packaging of Flexible Airflow Rate Microsensor for Simultaneous Respiration and Heartbeat Measurement," [_IEEE Sens. J._ **23** (12), pp. 12626–12633 (2023)](https://doi.org/10.1109/JSEN.2023.3272310). (Preprint: [TechRxiv:22720810](https://doi.org/10.36227/techrxiv.22720810))
