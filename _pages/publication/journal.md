@@ -13,6 +13,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 学術論文 Journal Articles
 
+0. A. Miyawaki, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pitot Tube Sensor Probe System for Simultaneous Airflow and Pressure Measurement of Expiration Inside Pulmonary Airway," _submitted_.
+0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Calibration Methodology Using Mouth Airflow for Wearable Sensor Toward Quantitative Monitoring of Respiration and Heartbeat," _submitted_.
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Facile In-Tube-Center Packaging of Flexible Airflow Rate Microsensor for Simultaneous Respiration and Heartbeat Measurement," [_IEEE Sens. J._ **23** (12), pp. 12626–12633 (2023)](https://doi.org/10.1109/JSEN.2023.3272310). (Preprint: [TechRxiv:22720810](https://doi.org/10.36227/techrxiv.22720810))
 0. T. Tsukada, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Analysis of Airstream Inside the Slip Joint of Tracheal Intubation Tube for Breathing Measurement," [_IEEJ Trans. Sens. Micromachines_ **143** (1), pp. 6–12 (2023)](https://doi.org/10.1541/ieejsmas.143.6).
   * Journal title in Japanese: 電気学会論文誌Ｅ（センサ・マイクロマシン部門誌）.
