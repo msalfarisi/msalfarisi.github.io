@@ -14,6 +14,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 国際学会 International Conferences
 
 
+0. N. K. Putra, F. A. Dinata, M. Iqbal, **M. S. Al Farisi**: "Trials on MEMS sensor utilization on 3D printed intravascular flow model", In _12th Asian-Pacific Conference on Biomechanics (AP-Biomech)_, pp. – (2023).
 0. F. A. Dinata, **M. S. Al Farisi**, M. Iqbal, N. K. Putra: "Development of a Flow Simulator for Evaluation of Hemodynamics Computational Simulation", In _2023 8th International Conference on Instrumentation, Control, and Automation (ICA)_, pp. – (2023).
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "In-tube-center packaging of flexible MEMS airflow-rate sensor and its sensitivity enhancement", In _2023 22th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 800–803 (2023).
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Calibration method for wearable sensor using airflow at mouth for quantitative monitoring of respiration and heartbeat", In _2023 22th Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 1872–1875 (2023).
