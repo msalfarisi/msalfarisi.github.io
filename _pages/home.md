@@ -23,7 +23,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
-    <td style="color:#6d6d6d;">2022/08/02</td>
+    <td style="color:#6d6d6d;">2023/08/02</td>
     <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00040653/">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 3: "Respiration sensor using micromachine technology" <a href="https://www.hiroshima-cu.ac.jp/uploads/2023/05/ed7a16171f89c1542c3718f5c4300a5e-20230524071711402.pdf">マイクロマシン技術を用いた呼吸センサ</a>.</td>
   </tr>
   <tr>
