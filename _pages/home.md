@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2022/08/02</td>
+    <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00040653/">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 3: "Respiration sensor using micromachine technology" <a href="https://www.hiroshima-cu.ac.jp/uploads/2023/05/ed7a16171f89c1542c3718f5c4300a5e-20230524071711402.pdf">マイクロマシン技術を用いた呼吸センサ</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/06/29</td>
     <td>Presented (oral) at the <a href="https://transducers2023.org/">22th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 25-29 June 2023 in Kyoto, Japan. Also participated in the Future Visions for Transducers session and represented as a panelist in the panel discussion under theme "Future Visions for Transducers Fabrication". Other 2 co-authored works were also presented (poster). </td>
   </tr>
