@@ -27,6 +27,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
     <td>Delivered an invited talk at the <a href="https://i4indonesia.org/fidi/">Indonesian Diaspora Scientific Forum / Forum Ilmiah Diaspora Indonesia (FIDI)</a>, 24-26 August 2023 in Tangerang Selatan, Indonesia.</td>
   </tr>
   <tr>
+    <td style="color:#6d6d6d;">2023/08/16</td>
+    <td>Acquired a public research grant as a co-investigator from <a href="https://www.jst.go.jp/a-step/outline/ikusei.html">Japan Science and Technology Agency (JST) Adaptable and Seamless Technology transfer Program through target driven R&D (A-STEP) Industry-Academia Collaboration (Nurturing Stage) 国立研究開発法人科学技術振興機構 研究成果展開事業研究成果最適展開支援プログラム（A-STEP）産学共同（育成型）</a> (PI: Dr. Miyoko Matsushima, Nagoya University).</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/08/02</td>
     <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/news/c00040653/">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 3: "Respiration sensor using micromachine technology" <a href="https://www.hiroshima-cu.ac.jp/uploads/2023/05/ed7a16171f89c1542c3718f5c4300a5e-20230524071711402.pdf">マイクロマシン技術を用いた呼吸センサ</a>.</td>
   </tr>
