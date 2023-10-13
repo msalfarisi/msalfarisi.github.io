@@ -13,6 +13,16 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](/publication/conference-int/) | [招待講演 Invited Talks](publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国内学会 Domestic Conferences
 
+0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Quantitative calibration method for wearable vital sign sensor　using airflow at mouth", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 6P2-D-4 (2023).
+  * In Japanese: 堀江 健太, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "口元気流によるウェアラブルバイタルサインセンサの定量的校正に関する研究", 第40回「センサ・マイクロマシンと応用システム」シンポジウム, p. 6P2-D-4 (2023).
+0. A. Miyawaki, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pressure and airflow simultaneous measurement system based on pitot tube for in-situ evaluation inside lung", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 6P4-M-2 (2023).
+  * In Japanese: 宮脇 葵, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "ピトー管構造を用いた肺内部でのその場圧力流量同時計測システムに関する研究", 第40回「センサ・マイクロマシンと応用システム」シンポジウム, p. 6P4-M-2 (2023).
+0. R. Nagayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Intubation tube with embedded airflow sensor for respiration monitoring during canine tartar removal", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 7P2-PS-33 (2023).
+  * In Japanese: 永山 蓮, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "歯石除去中の呼吸管理を可能とする流量センサ付き気管挿管チューブ", 第40回「センサ・マイクロマシンと応用システム」シンポジウム, p. 7P2-PS-33 (2023).
+0. Y. Yoshimura, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of physical-chemical sensor system for lung tissue function assessment", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 8P2-PS-26 (2023).
+  * In Japanese: 吉村 勇一郎, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺組織機能評価を目指した物理化学量センサシステムの開発", 第40回「センサ・マイクロマシンと応用システム」シンポジウム, p. 8P2-PS-26 (2023).
+0. S. Lee, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of balloon catheter airflow sensor for respiration measurement in bronchus region inside lung", In _the 14th Symp. Micro-Nano Science and Technology_, p. 8P2-PN-52 (2023).
+  * In Japanese: S. Lee, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺気管支でのその場計測を可能にするバルーンカテーテル型流量センサの開発", 第14回マイクロ・ナノ工学シンポジウム, p. 8P2-PN-52 (2023).
 0. T. Tsukada, Y. Hasegawa, **M. S. Al Farisi**, S. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development Of Medical Wireless MEMS Sensor System For Vital Sign Measurement", In _the 39th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 14P5-P-19 (2022).
   * In Japanese: 塚田 剛矢, 長谷川 義大, **M. S. Al Farisi**, 長谷川 信, 松島 充代子, 川部 勤, 式田 光宏, "バイタルサイン計測が可能な医療用ワイヤレス MEMS センサシステムの開発", 第39回「センサ・マイクロマシンと応用システム」シンポジウム, p. 14P5-P-19 (2022).
 0. Y. Wang, S. Kawashima, Y. Hasegawa, **M. S. Al Farisi**, M. Matsushima, T. Kawabe, M. Shikida: "Development of in-tube-center packaged thermal sensor utilizing film buckling", In _the 12th Symp. Micro-Nano Science and Technology_, p. 09P2-MN3-3 (2021).
