@@ -13,7 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 招待講演 Invited Talks
   
-0. **M. S. Al Farisi**: "Micro-electro Mechanical Systems for Biomedical Mechatronics," In _ Indonesian Diaspora Scientific Forum / Forum Ilmiah Diaspora Indonesia (FIDI)_, ID-009 (2023).
+0. **M. S. Al Farisi**: "Micro-electro Mechanical Systems for Biomedical Mechatronics," In _Indonesian Diaspora Scientific Forum / Forum Ilmiah Diaspora Indonesia (FIDI)_, ID-009 (2023).
 
 ## 特別講義 Guest Lectures
   
