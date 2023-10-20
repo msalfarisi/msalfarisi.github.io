@@ -23,12 +23,20 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/10/20</td>
+    <td><a href="/publication/">Our paper</a> on the facile packaging for flexible fiber accelerometer has been published in <a href="https://doi.org/10.1109/LSENS.2023.3326122">IEEE Sensors Letters</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/08/26</td>
     <td>Delivered an invited talk at the <a href="https://i4indonesia.org/fidi/">Indonesian Diaspora Scientific Forum / Forum Ilmiah Diaspora Indonesia (FIDI)</a>, 24-26 August 2023 in Tangerang Selatan, Indonesia.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/08/16</td>
     <td>Acquired a public research grant as a co-investigator from <a href="https://www.jst.go.jp/a-step/outline/ikusei.html">Japan Science and Technology Agency (JST) Adaptable and Seamless Technology transfer Program through target driven R&D (A-STEP) Industry-Academia Collaboration (Nurturing Stage) 国立研究開発法人科学技術振興機構 研究成果展開事業研究成果最適展開支援プログラム（A-STEP）産学共同（育成型）</a> (PI: Dr. Miyoko Matsushima, Nagoya University).</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2023/08/11</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="https://icaitb.id/">8th International Conference on Instrumentation, Control and Automation (ICA) 2023</a>, 9-11 August 2023 in Jakarta, Indonesia.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/08/02</td>
@@ -60,7 +68,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2022/11/14</td>
-    <td><a href="/publication/">Our work</a> was presented (poster) at the <a href="/publication/">39th Sensor Symposium on Sensors, Micromachines and Applied Systems 電気学会 第39回「センサ・マイクロマシンと応用システム」シンポジウム</a>, 14-17 November 2022 in Tokushima, Japan.</td>
+    <td><a href="/publication/">Our work</a> was presented (poster) at the <a href="https://sensorsymposium.org/">39th Sensor Symposium on Sensors, Micromachines and Applied Systems 電気学会 第39回「センサ・マイクロマシンと応用システム」シンポジウム</a>, 14-17 November 2022 in Tokushima, Japan.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2022/09/29</td>
