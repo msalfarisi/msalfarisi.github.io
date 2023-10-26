@@ -13,6 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 学術論文 Journal Articles
 
+0. R. Nagayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Tracheal Intubation Tube with Embedded Airflow Sensor for Respiration Monitoring During Canine Tartar Removal," _submitted_.
 0. A. Miyawaki, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pitot Tube Sensor Probe System for Simultaneous Airflow and Pressure Measurement of Expiration Inside Pulmonary Airway," _submitted_.
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Calibration Methodology Using Mouth Airflow for Wearable Sensor Toward Quantitative Monitoring of Respiration and Heartbeat," _submitted_.
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Shikida: "Facile Packaging for Fiber-Shaped Flexible MEMS Thermal Accelerometer," [_IEEE Sens. Lett._ **7** (11), _accepted_ (2023)](https://doi.org/10.1109/LSENS.2023.3326122). (Preprint: [TechRxiv:24312913](https://doi.org/10.36227/techrxiv.24312913))
