@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/11/02</td>
+    <td>Acquired a private research grant as a co-investigator from <a href="https://hirose-isf.or.jp/">Hirose Foundation 公益財団法人ヒロセ財団 研究助成</a> (PI: <a href="http://santayamada.wp.xdomain.jp/">Dr. Shunsuke Yamada, Tohoku University</a>).</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/10/20</td>
     <td><a href="/publication/">Our paper</a> on the facile packaging for flexible fiber accelerometer has been published in <a href="https://doi.org/10.1109/LSENS.2023.3326122">IEEE Sensors Letters</a>.</td>
   </tr>
@@ -91,7 +95,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
     <td><a href="/publication/">Our paper</a> on the relief supply after the Great East Japan Earthquake (2011) has been published in <a href="https://isss.jp.net/isss-site/wp-content/uploads/2022/06/06-2019-1.pdf">地域安全学会東日本大震災特別論文集 (Special Collection of the Great East Japan Earthquake, the Institute of Social Safety Science)</a>.</td>
   </tr>
   <tr>
-    <td style="color:#6d6d6d;">2021/06/01</td>
+    <td style="color:#6d6d6d;">2022/06/01</td>
     <td><a href="/publication/">Our work</a> was virtually presented (oral) at the <a href="https://apcot2022.casconf.cn/">10th Asia-Pacific Conference of Transducers and Micro-Nano Technology (APCOT 2022)</a>, 30 May-1 June 2022. The conference was originally scheduled to be hold in Shanghai, China, however, moved to virtual platform due to COVID-19 pandemic.</td>
   </tr>
   <tr>
