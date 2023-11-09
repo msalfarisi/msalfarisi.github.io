@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2023/11/9</td>
-    <td><a href="/publication/">Our works</a> (5) were presented (2 oral, 3 posters) at the <a href="https://sensorsymposium.org/">Future Technologies from KUMAMOTO 合同シンポジウム</a>, 6-9 November 2023 in Kumamoto, Japan. One presentation was honored by Encouragement Award 奨励賞.</td>
+    <td><a href="/publication/">Our works</a> were presented (2 oral, 3 posters) at the <a href="https://sensorsymposium.org/">Future Technologies from KUMAMOTO 合同シンポジウム</a>, 6-9 November 2023 in Kumamoto, Japan. One presentation was honored by Encouragement Award 奨励賞.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/11/02</td>
