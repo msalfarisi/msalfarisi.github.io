@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2023/11/9</td>
+    <td><a href="/publication/">Our works</a> (5) were presented (2 oral, 3 posters) at the <a href="https://sensorsymposium.org/">Future Technologies from KUMAMOTO 合同シンポジウム</a>, 6-9 November 2023 in Kumamoto, Japan. One presentation was honored by Encouragement Award 奨励賞.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/11/02</td>
     <td>Acquired a private research grant as a co-investigator from <a href="https://hirose-isf.or.jp/">Hirose Foundation 公益財団法人ヒロセ財団 研究助成</a> (PI: <a href="http://santayamada.wp.xdomain.jp/">Dr. Shunsuke Yamada, Tohoku University</a>).</td>
   </tr>
