@@ -102,20 +102,20 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "muhammadsaf"
+  linkedin         : "~msalfarisi"
   orcid            : "https://orcid.org/0000-0003-4870-9337"
-  pinterest        :
-  soundcloud       :
+  pinterest        : 
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://researchmap.jp/ms.alfarisi"
   tumblr           :
-  twitter          : "alfarisi_" # "replacethistwitterhandle"
+  twitter          : "msalfarisi_" # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  researchmap      : "https://researchmap.jp/ms.alfarisi"
+#  researchmap      : "https://researchmap.jp/ms.alfarisi"
   
 
 # Reading Files
