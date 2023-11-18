@@ -112,6 +112,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchmap }}"><i class="fas fa-fw fa-map"></i> researchmap</a></li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
