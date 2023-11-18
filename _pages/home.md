@@ -23,7 +23,15 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
-    <td style="color:#6d6d6d;">2023/11/9</td>
+    <td style="color:#6d6d6d;">2023/11/18</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="">12th Asian-Pacific Conference on Biomechanics (AP-BIOMECH 2023)</a>, 15-18 November 2023 in Kuala Lumpur, Malaysia.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2023/11/17</td>
+    <td>Presented (oral) at the <a href="https://imnc.jp/2023/">36th International Microprocesses and Nanotechnology Conference (MNC 2023)</a>, 14-17 November 2023 in Sapporo, Japan. <a href="/publication/">Other 2 co-authored works</a> were also presented (1 oral, 1 poster). </td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2023/11/09</td>
     <td><a href="/publication/">Our works</a> were presented (2 oral, 3 posters) at the <a href="https://sensorsymposium.org/">Future Technologies from KUMAMOTO 合同シンポジウム</a>, 6-9 November 2023 in Kumamoto, Japan. One presentation was honored by Encouragement Award 奨励賞.</td>
   </tr>
   <tr>
