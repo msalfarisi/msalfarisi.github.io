@@ -28,7 +28,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/11/17</td>
-    <td>Presented (oral) at the <a href="https://imnc.jp/2023/">36th International Microprocesses and Nanotechnology Conference (MNC 2023)</a>, 14-17 November 2023 in Sapporo, Japan. <a href="/publication/">Other 2 co-authored works</a> were also presented (1 oral, 1 poster). </td>
+    <td>Presented (oral) at the <a href="https://imnc.jp/2023/">36th International Microprocesses and Nanotechnology Conference (MNC 2023)</a>, 14-17 November 2023 in Sapporo, Japan. <a href="/publication/">Other 2 co-authored works</a> were also presented (1 oral, 1 poster). Chaired a session 17D-2 Microsystem Technology and MEMS II at the same conference. </td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/11/09</td>
