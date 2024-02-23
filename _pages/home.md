@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/02/21</td>
+    <td><a href="/publication/">Our paper</a> on the development of a sensor probe system based on Pitot tube mechanism has been published in <a href="https://doi.org/10.1002/tee.24039">IEEJ Transactions on Electrical and Electronic Engineering</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2023/11/18</td>
     <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="">12th Asian-Pacific Conference on Biomechanics (AP-BIOMECH 2023)</a>, 15-18 November 2023 in Kuala Lumpur, Malaysia.</td>
   </tr>
