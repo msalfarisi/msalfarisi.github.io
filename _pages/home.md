@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/02/29</td>
+    <td>Acquired a public research grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://nrid.nii.ac.jp/ja/nrid/1000050910486/">Grant-in-Aid for Early-Career Scientists (科研費「若手研究」) grant</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/02/21</td>
     <td><a href="/publication/">Our paper</a> on the development of a sensor probe system based on Pitot tube mechanism has been published in <a href="https://doi.org/10.1002/tee.24039">IEEJ Transactions on Electrical and Electronic Engineering</a>.</td>
   </tr>
