@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/03/21</td>
+    <td>Honored with Hiroshima City University FY2023 Faculty Award (Research) / 広島市立大学 2023年度教員表彰（分野: 研究）.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/03/03</td>
     <td><a href="/publication/">Our paper</a> on the wearable sensor calibration has been published in <a href="https://doi.org/10.1002/tee.24045">IEEJ Transactions on Electrical and Electronic Engineering</a>.</td>
   </tr>
@@ -300,7 +304,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2017/07/21</td>
-    <td><a href="http://www.science-day.com/program/?ID=e2017-499">Our booth in Science Day 2017</a> (Academic City: Sendai City, Miyagi Prefecture) on 16 July 2017, featuring the Disaster Mitigation Action Card Game , has been honored with the Japan Oil, Gas and Metals National Corporation (JOGMEC) Award.</td>
+    <td><a href="http://www.science-day.com/program/?ID=e2017-499">Our booth in Science Day 2017</a> (Academic City: Sendai City, Miyagi Prefecture) on 16 July 2017, featuring the Disaster Mitigation Action Card Game, has been honored with the Japan Oil, Gas and Metals National Corporation (JOGMEC) Award.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2017/07/10</td>
