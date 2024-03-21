@@ -13,8 +13,10 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [研究資金 Research Grants](/publication/grant/)
 ## 受賞 Awards
 
+0. Hiroshima City University FY2023 Faculty Award (Research) (21 March 2024)
+   広島市立大学 2023年度教員表彰（分野: 研究）
 0. Encouragement Award (A. Miyawaki), 40th Sensor Symposium on Sensors, Micromachines and Applied Systems (6 – 9 November 2023), Kumamoto, Japan.
-   奨励賞 (宮脇葵), 第40回「センサ・マイクロマシンと応用システム」シンポジウム
+   奨励賞 (宮脇葵), 第40回「センサ・マイクロマシンと応用システム」シンポジウム.
 0. Outstanding Technical Paper Award, 2018 International Conference on Electronics Packaging and iMAPS All Asia Conference (ICEP-IAAC) (17 – 21 April 2018), Kuwana, Japan.
 0. Japan Oil, Gas and Metals National Corporation (JOGMEC) Award, Academic City (Sendai City, Miyagi Prefecture) Science Day 2017 (16, 21 July 2017), Sendai, Japan.  
    JOGMEC賞, 学都「仙台・宮城」サイエンス・デイ2017.
