@@ -14,7 +14,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 国際学会 International Conferences
 
 
-0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Shikida: "Facile Packaging for Fiber-Shaped Flexible MEMS Thermal Accelerometer," In _11th IEEE International Symposium on Inertial Sensors & Systems (INERTIAL)_, p. A3L-A-3 (2024).
+0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Shikida: "Facile Packaging for Fiber-Shaped Flexible MEMS Thermal Accelerometer," In _11th IEEE Int. Symp. on Inertial Sensors & Systems (INERTIAL)_, p. A3L-A-3 (2024).
 0. N. K. Putra, F. A. Dinata, M. Iqbal, **M. S. Al Farisi**: "Trials on MEMS sensor utilization on 3D printed intravascular flow model", In _12th Asian-Pacific Conference on Biomechanics (AP-Biomech)_, p. 112 (2023).
 0. **M. S. Al Farisi**, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Processing for Time Response Enhancement of Flexible MEMS Thermal Sensors", In _36th Int. Microprocesses and Nanotechnology Conf. (MNC)_, p. 17D-1-4 (2023).
 0. S. H. Lee, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Embedding Airflow Sensing Function in Balloon Catheter for Respiration Measurement in Bronchus Region Inside Lung", In _36th Int. Microprocesses and Nanotechnology Conf. (MNC)_, p. 17D-1-5 (2023).
