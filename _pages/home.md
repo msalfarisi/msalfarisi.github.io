@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/03/26</td>
+    <td>Presented (oral) at the <a href="https://2024.ieee-inertial.org/">11th IEEE International Symposium on Inertial Sensors & Systems (IEEE INERTIAL 2024)</a>, 25-28 March 2024 in Hiroshima, Japan.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/03/21</td>
     <td>Honored with Hiroshima City University FY2023 Faculty Award (Research) / 広島市立大学 2023年度教員表彰（分野: 研究）.</td>
   </tr>
