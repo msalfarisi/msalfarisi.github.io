@@ -34,7 +34,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ## 職歴 Appointment
 
-* **Junior Associate Professor (Lecturer) 講師 / Apr. 2024 – present**  
+* **Lecturer (Junior Associate Professor) 講師 / Apr. 2024 – present**  
   at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, Japan  
   広島市立大学　大学院情報科学研究科　医用情報科学専攻
 * **Assistant Professor 助教 / Apr. 2021 – Mar. 2024**  
