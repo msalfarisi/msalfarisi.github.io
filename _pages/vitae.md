@@ -34,7 +34,10 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ## 職歴 Appointment
 
-* **Assistant Professor 助教 / Apr. 2021 – present**  
+* **Junior Associate Professor (Lecturer) 講師 / Apr. 2024 – present**  
+  at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, Japan  
+  広島市立大学　大学院情報科学研究科　医用情報科学専攻
+* **Assistant Professor 助教 / Apr. 2021 – Mar. 2024**  
   at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, Japan  
   広島市立大学　大学院情報科学研究科　医用情報科学専攻
 * **Research fellow 学振特別研究員 (DC2) / Apr. 2019 – Mar. 2021**  
@@ -74,6 +77,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 * **IEEE** [Transactions on Components, Packaging and Manufacturing Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503870)
 * **IEICE** [IEICE Electronics Express(ELEX)](https://www.ieice.org/publications/elex/)
 * **IOPscience** [Japanese Journal of Applied Physics](https://iopscience.iop.org/journal/1347-4065)
-* **MDPI** [Applied Sciences](https://www.mdpi.com/journal/applsci), [Crystals](https://www.mdpi.com/journal/crystals), [Electronics](https://www.mdpi.com/journal/electronics), [Materials](https://www.mdpi.com/journal/materials/), [Micromachines](https://www.mdpi.com/journal/micromachines), [Processes](https://www.mdpi.com/journal/processes), [Sensors](https://www.mdpi.com/journal/sensors), [Sustainability](https://www.mdpi.com/journal/sustainability), [Symmetry](https://www.mdpi.com/journal/symmetry)
+* **MDPI** [Applied Sciences](https://www.mdpi.com/journal/applsci), [Biomimetics](https://www.mdpi.com/journal/biomimetics), [Crystals](https://www.mdpi.com/journal/crystals), [Electronics](https://www.mdpi.com/journal/electronics), [Materials](https://www.mdpi.com/journal/materials/), [Micromachines](https://www.mdpi.com/journal/micromachines), [Processes](https://www.mdpi.com/journal/processes), [Sensors](https://www.mdpi.com/journal/sensors), [Sustainability](https://www.mdpi.com/journal/sustainability), [Symmetry](https://www.mdpi.com/journal/symmetry)
 * **Springer** [Journal of Zhejiang University Science A](https://www.springer.com/journal/11582), [Microsystem Technologies](https://www.springer.com/journal/542)
 * **Wiley** [IEEJ Transactions on Electrical and Electronic Engineering](https://onlinelibrary.wiley.com/journal/19314981)
+* **J-STAGE** [IEEJ Transactions on Sensors and Micromachines](https://www.jstage.jst.go.jp/browse/ieejsmas/)
