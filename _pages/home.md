@@ -10,9 +10,9 @@ redirect_from:
 
 ## Welcome ようこそ
 
-アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学 大学院情報科学研究科 医用情報科学専攻 助教です。
+アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学 大学院情報科学研究科 医用情報科学専攻 講師です。
 
-Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical systems)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
+Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associate Professor) at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical systems)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
 
@@ -22,6 +22,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Assistant Professor at 
 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
+  <tr>
+    <td style="color:#6d6d6d;">2024/04/01</td>
+    <td>Promoted to a Lecturer (Junior Associate Professor) at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, <a href="https://www.hiroshima-cu.ac.jp/">Hiroshima City University</a> (Japan). At the same time passed the qualification to supervise Ph.D. student.</td>
+  </tr>
   <tr>
     <td style="color:#6d6d6d;">2024/03/26</td>
     <td>Presented (oral) at the <a href="https://2024.ieee-inertial.org/">11th IEEE International Symposium on Inertial Sensors & Systems (IEEE INERTIAL 2024)</a>, 25-28 March 2024 in Hiroshima, Japan.</td>
