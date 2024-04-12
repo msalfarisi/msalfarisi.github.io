@@ -40,7 +40,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2024/02/29</td>
-    <td>Acquired a public research grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://nrid.nii.ac.jp/ja/nrid/1000050910486/">Grant-in-Aid for Early-Career Scientists (科研費「若手研究」) grant</a>.</td>
+    <td>Acquired a public research grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K21094/">Grant-in-Aid for Early-Career Scientists (科研費「若手研究」) grant 24K21094</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2024/02/21</td>
