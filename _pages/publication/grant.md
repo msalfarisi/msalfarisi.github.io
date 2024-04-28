@@ -13,6 +13,31 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/)
 ## 研究資金 Research Grants
 
+0. Japan Society for the Promotion of Science (JSPS) Kakenhi: Grant-in-Aid for Early-Career Scientists, April 2024 - March 2026 (PI)  
+Project title: [Biodegradable implantable flow sensor for on-site continuous monitoring of respiratory system](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K21094/)  
+Budget: JPY 4,680,000,-  
+日本学術振興会　科学研究費補助金　研究活動スタート支援（研究代表者）  
+課題名：[肺気道内定量的バイタルモニタリングのための生分解性埋込み型マルチモーダルセンサ](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K21094/)  
+研究期間：2024年4月〜2026年3月　　総額：4,680千円
+
+0. Hirose Foundation, December 2023 – November 2025 (Co-I)  
+Budget: JPY 2,000,000,-  
+公益財団法人　ヒロセ財団　アジア留学終了者研究助成（共同研究者）  
+課題名：生分解性電源を用いた使用後に体内に吸収されるセンシングプラットフォームの開発  
+研究期間：2023年12月〜2025年11月　　総額：2,000千円
+
+0. Japan Science and Technology Agency (JST) Adaptable and Seamless Technology transfer Program through target driven R&D (A-STEP) Industry-Academia Collaboration (Nurturing Stage), October 2023 – March 2026 (Co-I)  
+Budget: JPY 37,500,000,-  
+国立研究開発法人　科学技術振興機構(JST)　研究成果展開事業研究成果最適展開支援プログラム（A-STEP）　産学共同（育成型）（研究参加者）  
+課題名：家庭内肺健康度評価を可能にする呼吸モニタリングシステムの開発  
+研究期間：2023年10月〜2026年3月　　総額：37,500千円
+
+0. Satake Foundation, April 2023 – March 2024 (PI)  
+Budget: JPY 500,000,-  
+公益財団法人　サタケ技術振興財団　研究助成（研究代表者）  
+課題名：レーザ加工を用いてフレキシブル熱式マイクロセンサの応答性向上  
+研究期間：2023年4月〜2024年3月　　総額：500千円
+
 0. Hirose Foundation, January 2022 – December 2023 (PI)  
 Budget: JPY 4,500,000,-  
 公益財団法人　ヒロセ財団　アジア留学終了者研究助成（研究代表者）  
