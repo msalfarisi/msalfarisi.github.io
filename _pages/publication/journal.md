@@ -13,7 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [国際学会 International Conferences](/publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 学術論文 Journal Articles
 
-0. **M. S. Al Farisi**, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Ablation for Time Response Suppression of Flexible MEMS Thermal Sensors," _submitted_.
+0. **M. S. Al Farisi***, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Ablation for Time Response Suppression of Flexible MEMS Thermal Sensors," _submitted_.
 0. A. Hermawan, A. P. Yasin, A. Nursyahid, N. L. W. Septiani, **M. S. Al Farisi**, B. Yuliarto: "Molten salts-induced morphological tunability NiFeOx nanostructures for electrochemical sensing of dopamine," _submitted_.
 0. R. Nagayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Tracheal Intubation Tube with Embedded Airflow Sensor for Respiration Monitoring During Canine Tartar Removal," _submitted_.
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Investigation of Calibration Methodology Using Mouth Airflow for Wearable Sensor Toward Quantitative Monitoring of Respiration," [_IEEJ Trans. Electr. Electron. Eng._ **19** (5), pp. 800–806 (2024)](https://doi.org/10.1002/tee.24045). ([Read only](https://onlinelibrary.wiley.com/share/author/I5Z2VSPYXTJKJMCEHNVZ?target=10.1002/tee.24045)) (IF: 1.0)
