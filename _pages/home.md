@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/06/26</td>
+    <td>Presented (oral) at the <a href="https://www.apcot2024.org/">11th Asia-Pacific Conference of Transducers and Micro-Nano Technology (APCOT 2024)</a>, 23-26 June 2024 in Singapore. <a href="/publication/">Other 5 co-authored works</a> were also presented (1 oral, 4 posters).</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/04/01</td>
     <td>Promoted to a Lecturer (Junior Associate Professor) at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, <a href="https://www.hiroshima-cu.ac.jp/">Hiroshima City University</a> (Japan). At the same time passed the qualification to supervise Ph.D. student.</td>
   </tr>
