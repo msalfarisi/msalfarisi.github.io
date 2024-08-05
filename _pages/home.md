@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/07/24</td>
+    <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/service/content0014/#b02">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 2: "Respiration sensor using micromachine technology" <a href="https://www.hiroshima-cu.ac.jp/uploads/2024/05/babb497a6fb3aa3efc54a739b52492ba-20240522002918713.pdf">マイクロマシン技術を用いた呼吸センサ</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/06/26</td>
     <td>Presented (oral) at the <a href="https://www.apcot2024.org/">11th Asia-Pacific Conference of Transducers and Micro-Nano Technology (APCOT 2024)</a>, 23-26 June 2024 in Singapore. <a href="/publication/">Other 5 co-authored works</a> were also presented (1 oral, 4 posters).</td>
   </tr>
