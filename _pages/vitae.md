@@ -74,7 +74,7 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 * **ACS** [The Journal of Physical Chemistry](https://pubs.acs.org/journal/jpccck)
 * **Elsevier** [Sensors and Actuators A: Physical](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical)
-* **IEEE** [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [IEEE Sensors Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634) [IEEE Transactions on Components, Packaging and Manufacturing Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503870)
+* **IEEE** [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [IEEE Sensors Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782634), [IEEE Transactions on Components, Packaging and Manufacturing Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503870)
 * **IEICE** [IEICE Electronics Express(ELEX)](https://www.ieice.org/publications/elex/)
 * **IOPscience** [Japanese Journal of Applied Physics](https://iopscience.iop.org/journal/1347-4065)
 * **MDPI** [Applied Sciences](https://www.mdpi.com/journal/applsci), [Biomimetics](https://www.mdpi.com/journal/biomimetics), [Crystals](https://www.mdpi.com/journal/crystals), [Electronics](https://www.mdpi.com/journal/electronics), [Materials](https://www.mdpi.com/journal/materials/), [Micromachines](https://www.mdpi.com/journal/micromachines), [Processes](https://www.mdpi.com/journal/processes), [Sensors](https://www.mdpi.com/journal/sensors), [Sustainability](https://www.mdpi.com/journal/sustainability), [Symmetry](https://www.mdpi.com/journal/symmetry)
