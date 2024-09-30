@@ -14,10 +14,12 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 国際学会 International Conferences
 
 
+0. M. N. Mohamed Zukri, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida:  "Single-Step Laser Fabrication of 3D Free-Standing Origami MEMS Thermal Sensor," In _2024 IEEE Sensors_, _accepted_ (2024).
+0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida:  "Facile In-Tube-Center Packaging of Flexible Airflow Rate Microsensor for Simultaneous Respiration and Heartbeat Measurement," In _2024 IEEE Sensors_, _accepted_ (2024).
 0. A. Sueyoshi, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip Joint Adaptor Enabling Respiration Airflow Measurement in Tracheal Intubation Tube," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 272–273 (2024).
 0. A. Miyawaki, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Safety Enhancement Consideration of Pitot Tube Sensor Probe Towards Airflow Measurement of Exhalation Inside Pulmonary Airway," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 274–275 (2024).
 0. Y. Yoshimura, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Hybrid Integration of Airflow Sensor and CO2 Sensor for Respiration Measurement," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 375–376 (2024).
-0. **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Flexible MEMS Thermal Sensor Using Cost-Effective Metallization: Al", In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 377–378 (2024).
+0. **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Flexible MEMS Thermal Sensor Using Cost-Effective Metallization: Al," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 377–378 (2024).
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Investigation on Calibration Methodology for Wearable Piezoelectric Sensor Thread Using Airflow Sensor for Quantitative Respiration Measurement," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 438–439 (2024).
 0. R. Nagayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Integrating Flexible Airflow Sensor into Tracheal Intubation Tube for Respiration Monitoring During Canine Tartar Removal," In _11th Asia-Pacific Conf. Transducers Micro-Nano Technol. (APCOT 2024)_, pp. 448–449 (2024).
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Shikida: "Facile Packaging for Fiber-Shaped Flexible MEMS Thermal Accelerometer," In _11th IEEE Int. Symp. on Inertial Sensors & Systems (INERTIAL)_, p. A3L-A-3 (2024).
