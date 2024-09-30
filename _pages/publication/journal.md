@@ -15,9 +15,10 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
+0. K. Horie, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Proof of Concept Quantitative Monitoring of Respiration Using Low-Energy Wearable Piezoelectric Thread," _submitted_.
+0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Laser Micromachining 3D Free Standing Structure of MEMS Thermal Flow Sensor," _submitted_.
 0. **M. S. Al Farisi**\*, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Ablation for Time Response Suppression of Flexible MEMS Thermal Sensors," _submitted_.
-0. A. Hermawan\*, A. P. Yasin, A. Nursyahid, N. L. W. Septiani, **M. S. Al Farisi**, B. Yuliarto: "Molten salts-induced morphological tunability NiFeOx nanostructures for electrochemical sensing of dopamine," _submitted_.
-0. R. Nagayama\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Tracheal Intubation Tube with Embedded Airflow Sensor for Respiration Monitoring During Canine Tartar Removal," [_IEEJ Trans. Sens. Micromachines_ **144** (12), _in press_ (2024)](https://doi.org/10.1541/ieejsmas.144.xx).
+0. R. Nagayama, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Tracheal Intubation Tube with Embedded Airflow Sensor for Respiration Monitoring During Canine Tartar Removal," [_IEEJ Trans. Sens. Micromachines_ **144** (12), _in press_ (2024)](https://doi.org/10.1541/ieejsmas.144.xx).
   * In Japanese: 永山蓮, **M. S. Al Farisi**, 長谷川義大, 松島充代子, 川部勤, 式田光宏: "歯石除去中の呼吸管理を可能とする流量センサ付き気管挿管チューブ" 電気学会論文誌Ｅ（センサ・マイクロマシン部門誌） **144** (12), _in press_ (2024).
 0. K. Horie, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Investigation of Calibration Methodology Using Mouth Airflow for Wearable Sensor Toward Quantitative Monitoring of Respiration," [_IEEJ Trans. Electr. Electron. Eng._ **19** (5), pp. 800–806 (2024)](https://doi.org/10.1002/tee.24045). ([Read only](https://onlinelibrary.wiley.com/share/author/I5Z2VSPYXTJKJMCEHNVZ?target=10.1002/tee.24045)) (IF: 1.0)
 0. A. Miyawaki, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pitot Tube Sensor Probe System for Simultaneous Airflow and Pressure Measurement of Expiration Inside Pulmonary Airway," [_IEEJ Trans. Electr. Electron. Eng._ **19** (5), pp. 807–813 (2024)](https://doi.org/10.1002/tee.24039). ([Read only](https://onlinelibrary.wiley.com/share/author/IDD7AFFIBQIK5FZTPVVF?target=10.1002/tee.24039)) (IF: 1.0)
