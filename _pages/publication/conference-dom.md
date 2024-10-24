@@ -13,6 +13,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](/publication/conference-int/) | [招待講演 Invited Talks](publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国内学会 Domestic Conferences
 
+0. F. A. Dinata, H. F. Anshori, **M. S. Al Farisi**, M. Iqbal, N. K. Putra: "Development of fluid pressure measurement device in blood vessels with stenosis based on micro-electromechanical system (MEMS)", In _Meeting on Instrumentation Calibration and Metrology 2024_, _in press_ (2024).
+   * In Indonesian: F. A. Dinata, H. F. Anshori, **M. S. Al Farisi**, M. Iqbal, N. K. Putra: "Pengembangan perangkat pengukuran tekanan fluida dalam pembuluh dengan stenosis berbasis micro-electromechanical system (MEMS)", _Pertemuan dan Presentasi Ilmiah Kalibrasi Instrumentasi dan Metrologi_, _in press_ (2024).
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Quantitative calibration method for wearable vital sign sensor　using airflow at mouth", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 6P2-D-4 (2023).
   * In Japanese: 堀江 健太, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "口元気流によるウェアラブルバイタルサインセンサの定量的校正に関する研究", 第40回「センサ・マイクロマシンと応用システム」シンポジウム, p. 6P2-D-4 (2023).
 0. A. Miyawaki, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pressure and airflow simultaneous measurement system based on pitot tube for in-situ evaluation inside lung", In _the 40th Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 6P4-M-2 (2023).
