@@ -35,7 +35,7 @@ Budget: JPY 37,500,000,-
 0. Satake Foundation, April 2023 – March 2024 (PI)  
 Budget: JPY 500,000,-  
 公益財団法人　サタケ技術振興財団　研究助成（研究代表者）  
-課題名：レーザ加工を用いてフレキシブル熱式マイクロセンサの応答性向上  
+課題名：[レーザ加工を用いてフレキシブル熱式マイクロセンサの応答性向上](https://www.satake-zaidan.or.jp/upload/save/page/2817ea6e6130ed0c0ae9ebb14a5888b4.pdf)  
 研究期間：2023年4月〜2024年3月　　総額：500千円
 
 0. Hirose Foundation, January 2022 – December 2023 (PI)  
