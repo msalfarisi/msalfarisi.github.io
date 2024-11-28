@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/11/28</td>
+    <td><a href="/publication/">Our works</a> were presented (6 posters) at the <a href="https://sensorsymposium.org/">Future Technologies from SENDAI 合同シンポジウム</a>, 25-28 November 2024 in Sendai, Japan. One presentation was honored as a nominee for Excellent Poster Award 優秀ポスター発表賞 最終ノミネート論文.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/11/21</td>
     <td><a href="/publication/">Our paper</a> on the wearable sensor calibration has been published in <a href="https://doi.org/10.3390/electronics13234577">Electronics</a>.</td>
   </tr>
