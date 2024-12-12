@@ -16,7 +16,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 0. Japan Society for the Promotion of Science (JSPS) Kakenhi: Grant-in-Aid for Early-Career Scientists, April 2024 - March 2026 (PI)  
 Project title: [Biodegradable implantable flow sensor for on-site continuous monitoring of respiratory system](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K21094/)  
 Budget: JPY 4,680,000,-  
-日本学術振興会　科学研究費補助金　研究活動スタート支援（研究代表者）  
+日本学術振興会　科学研究費補助金　若手研究（研究代表者）  
 課題名：[肺気道内定量的バイタルモニタリングのための生分解性埋込み型マルチモーダルセンサ](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K21094/)  
 研究期間：2024年4月〜2026年3月　　総額：4,680千円
 
