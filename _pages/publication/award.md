@@ -13,6 +13,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [研究資金 Research Grants](/publication/grant/)
 ## 受賞 Awards
 
+0. Excellent Poster Award Finalist (K. Horie), 41st Sensor Symposium on Sensors, Micromachines and Applied Systems (25 – 28 November 2024), Sendai, Japan.  
+   優秀ポスター発表賞 ファイナリスト (堀江健太), 第41回「センサ・マイクロマシンと応用システム」シンポジウム.
 0. Hiroshima City University FY2023 Faculty Award (Research) (21 March 2024).  
    広島市立大学 2023年度教員表彰（分野: 研究）.
 0. Encouragement Award (A. Miyawaki), 40th Sensor Symposium on Sensors, Micromachines and Applied Systems (6 – 9 November 2023), Kumamoto, Japan.  
