@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2024/12/13</td>
-    <td><a href="/publication/">Our paper</a> on the sensor module for intravenous drug administration has been published in <a href="https://doi.org/10.1007/s10544-024-00730-1">Biomedical Microdevices</a>.</td>
+    <td><a href="/publication/">Our paper</a> on the sensor module for extravasation detection during intravenous drug administration has been published in <a href="https://doi.org/10.1007/s10544-024-00730-1">Biomedical Microdevices</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2024/12/01</td>
