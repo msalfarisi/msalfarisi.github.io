@@ -15,6 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
+0. K. Sato\*, M. Matsushima, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _submitted_.
 0. A. Miyawaki, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Catheter Probe System with Remotely Located Sensor for Simultaneous Airflow and Pressure Measurement of Exhalation Inside Lung Airway," _submitted_.
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Laser Micromachining 3D Free Standing Structure of MEMS Thermal Flow Sensor," _submitted_.
 0. **M. S. Al Farisi**\*, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Ablation for Time Response Suppression of Flexible MEMS Thermal Sensors," [_IEEE Sens. J._, _In press_ (2025)](https://doi.org/10.1109/JSEN.2025.3529837). (IF: 4.3)
