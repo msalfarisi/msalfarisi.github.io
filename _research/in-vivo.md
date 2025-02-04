@@ -2,11 +2,11 @@
 title: "In-vivo measurement system"
 excerpt: "Sensor system for in-vivo measurement<br/>
           体内その場計測技術<br/><br/>
-          <img src='/images/research-in-vivo.png' width='70%'>"
+          <img src='/images/research-in-vivo.png' width='60%'>"
 collection: research
 ---
 
-<img src='/images/research-in-vivo.png' width='100%'>
+<img src='/images/research-in-vivo.png' width='70%'>
 
 Explanation here
 
