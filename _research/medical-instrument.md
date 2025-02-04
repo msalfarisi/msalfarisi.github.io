@@ -6,7 +6,7 @@ excerpt: "Embedding sensors for smart medical instruments<br/>
 collection: research
 ---
 
-<img src='/images/research-medical device.png' width='100%'>
+<img src='/images/research-medical-device.png' width='100%'>
 
 Explanation here
 
