@@ -3,7 +3,7 @@ title: "Education for disaster mitigation"
 excerpt: "Improving disaster mitigation knowledge of general people<br/>
           子供からお年寄りまで一般人向け防災教育<br/><br/>
           <img src='/images/research-dmac.png' width='70%'>"
-collection: research
+collection: research (old)
 ---
 
 <img src='/images/research-dmac.png' width='100%'>
