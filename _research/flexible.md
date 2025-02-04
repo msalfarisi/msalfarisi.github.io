@@ -2,11 +2,11 @@
 title: "Flexible MEMS"
 excerpt: "Development of processing technologies for flexible MEMS<br/>
           フレキシブルMEMSの<br/><br/>
-          <img src='/images/research-flexible.png' width='70%'>"
+          <img src='/images/research-flexible.png' width='50%'>"
 collection: research
 ---
 
-<img src='/images/research-flexible.png' width='100%'>
+<img src='/images/research-flexible.png' width='70%'>
 
 Flexible sensors have emerged in the biomedical field due to their inherent capability for integration in human daily activity. Due to the absence of moving part, thermal sensing mechanism is suitable for flexible sensors. In addition, the implementation of MEMS technology brought the miniaturization as an advantage for thermal sensors in reducing the energy loss. Thermal sensing structures were fabricated using Au as the metallization on polyimide film substrates. Both materials are chemically stable and therefore can endure the standard micro-electro mechanical systems (MEMS) microfabrication process. Here we have developed flexible thermal sensors and implemented them for biomedical measurements.
 
