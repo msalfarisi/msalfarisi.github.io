@@ -1,8 +1,8 @@
 ---
 title: "Flexible MEMS"
 excerpt: "Development of processing technologies for flexible MEMS<br/>
-          フレキシブルMEMSの<br/><br/>
-          <img src='/images/research-flexible.png' width='50%'>"
+          フレキシブルMEMSの作製技術<br/><br/>
+          <img src='/images/research-flexible.png' width='60%'>"
 collection: research
 ---
 
