@@ -1,7 +1,7 @@
 ---
 title: "Wearable sensor system"
-excerpt: "Wearable sensor system<br/>
-          ウェアラブルセンサシステム<br/><br/>
+excerpt: "Wearable sensor system and signal processing<br/>
+          ウェアラブルセンサシステム及びその信号処理<br/><br/>
           <img src='/images/research-wearable.png' width='60%'>"
 collection: research
 ---
