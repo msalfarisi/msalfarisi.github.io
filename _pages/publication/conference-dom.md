@@ -13,6 +13,14 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](/publication/conference-int/) | [招待講演 Invited Talks](publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国内学会 Domestic Conferences
 
+0. A. Hirayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of MEMS Thermal Flow Sensor Integrated into Microcatheter for Respiration Measurement in Brochioles", In _IEEJ Annual Conference 2025_, p. 3-119 (2025).
+  * In Japanese: 平山 蒼, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺細気管支での呼吸計測が可能なマイクロカテーテル一体化型流量センサの開発", 令和7年電気学会全国大会, p. 3-119 (2025).
+0. J. Yoshida, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of a Balloon Catheter Type Sensor System for Quantitative Respiratory Measurements in the Lungs", In _IEEJ Annual Conference 2025_, p. 3-120 (2025).
+  * In Japanese: 吉田 潤, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺内部における定量的呼吸計測を可能とするバルーンカテーテル型センサシステムの開発", 令和7年電気学会全国大会, p. 3-120 (2025).
+0. R. Kariya, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of LIG Strain Sensor Toward Extravasation Detection", In _IEEJ Annual Conference 2025_, p. 3-121 (2025).
+  * In Japanese: 刈谷 麟太郎, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "血管外漏出検知を可能とするLIG製ダイアフラム式圧力センサの開発", 令和7年電気学会全国大会, p. 3-121 (2025).
+0. M. N. M. Zukri, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Fabrication of Diaphragm Structure using Fiber Laser Local Etching", In _IEEJ Annual Conference 2025_, p. 3-122 (2025).
+  * In Japanese: M. N. M. Zukri, **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "ファイバレーザ局所エッチングを用いたダイヤフラム構造の作製", 令和7年電気学会全国大会, p. 3-122 (2025).
 0. A. Sueyoshi, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of Endotracheal Tube Device with Respiration Measurement Function", In _the 41st Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 25P4-PS-39 (2024).
   * In Japanese: 末吉 彩夏, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "呼吸計測機能付き気管内チューブデバイスに関する研究", 第41回「センサ・マイクロマシンと応用システム」シンポジウム, p. 25P4-PS-39 (2024).
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Investigation of Piezoelectric Thread Wearable Sensor Quantitative Calibration Using Artificial Lung", In _the 41st Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 26A3-PS-16 (2024).
