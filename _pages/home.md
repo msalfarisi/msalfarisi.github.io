@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/02/11</td>
+    <td><a href="/publication/">Our paper</a> on the development of a sensor probe system for in-vivo respiration measurement has been published in <a href="https://doi.org/10.1109/JSEN.2025.3538080">IEEE Sensors Journal</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/01/20</td>
     <td><a href="/publication/">Our paper</a> on the laser ablation for time response enhancement of flexible thermal sensors has been published in <a href="https://doi.org/10.1109/JSEN.2025.3529837">IEEE Sensors Journal</a>.</td>
   </tr>
