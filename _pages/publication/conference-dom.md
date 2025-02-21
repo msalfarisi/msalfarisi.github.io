@@ -19,8 +19,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
   * In Japanese: 吉田 潤, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺内部における定量的呼吸計測を可能とするバルーンカテーテル型センサシステムの開発", 令和7年電気学会全国大会, p. 3-120 (2025).
 0. R. Kariya, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of LIG Strain Sensor Toward Extravasation Detection", In _IEEJ Annual Conference 2025_, p. 3-121 (2025).
   * In Japanese: 刈谷 麟太郎, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "血管外漏出検知を可能とするLIG製ダイアフラム式圧力センサの開発", 令和7年電気学会全国大会, p. 3-121 (2025).
-0. M. N. M. Zukri, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Fabrication of Diaphragm Structure using Fiber Laser Local Etching", In _IEEJ Annual Conference 2025_, p. 3-122 (2025).
-  * In Japanese: M. N. M. Zukri, **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "ファイバレーザ局所エッチングを用いたダイヤフラム構造の作製", 令和7年電気学会全国大会, p. 3-122 (2025).
+0. M. N. Mohamed Zukri, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Fabrication of Diaphragm Structure using Fiber Laser Local Etching", In _IEEJ Annual Conference 2025_, p. 3-122 (2025).
+  * In Japanese: M. N. Mohamed Zukri, **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "ファイバレーザ局所エッチングを用いたダイヤフラム構造の作製", 令和7年電気学会全国大会, p. 3-122 (2025).
 0. A. Sueyoshi, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of Endotracheal Tube Device with Respiration Measurement Function", In _the 41st Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 25P4-PS-39 (2024).
   * In Japanese: 末吉 彩夏, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "呼吸計測機能付き気管内チューブデバイスに関する研究", 第41回「センサ・マイクロマシンと応用システム」シンポジウム, p. 25P4-PS-39 (2024).
 0. K. Horie, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Investigation of Piezoelectric Thread Wearable Sensor Quantitative Calibration Using Artificial Lung", In _the 41st Sensor Symposium on Sensors, Micromachines and Applied Systems_, p. 26A3-PS-16 (2024).
