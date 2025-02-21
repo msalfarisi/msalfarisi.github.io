@@ -47,6 +47,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
     <td><a href="/publication/">Our paper</a> on the wearable sensor calibration has been published in <a href="https://doi.org/10.3390/electronics13234577">Electronics</a>.</td>
   </tr>
   <tr>
+    <td style="color:#6d6d6d;">2024/11/07</td>
+    <td><a href="/publication/">Our work</a> was presented (1 oral) at the <a href="https://www.instagram.com/bsn_sni/p/C_uNQRxTwgt/">Pertemuan dan Presentasi Ilmiah Kalibrasi, Instrumentasi dan Metrologi (Meeting on Calibration, Instrumentation and Metrology)</a>, 7 November 2024 in Semarang, Indonesia.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2024/10/23</td>
     <td>Presented (oral) in the invited pre-published journal paper track at the <a href="https://2024.ieee-sensorsconference.org/">IEEE SENSORS 2024</a>, 20-23 October 2024 in Kobe, Japan. <a href="/publication/">Other 1 co-authored work</a> was also presented (oral).</td>
   </tr>
