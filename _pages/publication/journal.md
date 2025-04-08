@@ -15,9 +15,6 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
-0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
-0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _submitted_.
-0. K. Sato\*, M. Matsushima, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _submitted_.
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Laser Micromachining 3D Free Standing Structure of MEMS Thermal Flow Sensor," [_IEEE Sens. J._, _in press_ (2025)](https://doi.org/10.1109/JSEN.2025.3559179).
 0. A. Miyawaki, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Catheter Probe System with Remotely Located Sensor for Simultaneous Airflow and Pressure Measurement of Exhalation Inside Lung Airway," [_IEEE Sens. J._ **25** (6), pp. 9495–9502 (2025)](https://doi.org/10.1109/JSEN.2025.3538080). (Preprint: [TechRxiv:173888260.00765147](https://doi.org/10.36227/techrxiv.173888260.00765147/v1)) (IF: 4.3)
 0. **M. S. Al Farisi**\*, S. Toyota, Y. Hasegawa, M. Shikida: "Laser Ablation for Time Response Suppression of Flexible MEMS Thermal Sensors," [_IEEE Sens. J._ **25** (5), pp. 8079–8084 (2025)](https://doi.org/10.1109/JSEN.2025.3529837). (Preprint: [TechRxiv:173738887.75461010](https://doi.org/10.36227/techrxiv.173738887.75461010/v1)) (IF: 4.3)
@@ -52,3 +49,9 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
   * In Japanese: 手塚寛, **M. S. Al Farisi**, 関亜美, 熊谷裕太, 新谷直己, 宮鍋慶介, 久利美和: "液状化実験を活用した効果的な防災教育の検討" 東北地域災害科学研究 **55** pp. 203–208 (2019).
 0. R. Kaneko\*, **M. S. Al Farisi**, S. Yamada, M. Kuri: “Evaluation of the Disaster Mitigation Action Card Game for International Students in Japan”, [_Tohoku J. Natural Disaster Sci._ **54**, pp. 279-284 (2018)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume54/54-49.pdf).
   * Journal title in Japanese: 東北地域災害科学研究.
+
+### 投稿中 In progress
+
+0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
+0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _submitted_.
+0. K. Sato\*, M. Matsushima, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _submitted_.
