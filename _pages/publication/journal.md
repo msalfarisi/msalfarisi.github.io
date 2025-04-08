@@ -50,7 +50,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 0. R. Kaneko\*, **M. S. Al Farisi**, S. Yamada, M. Kuri: “Evaluation of the Disaster Mitigation Action Card Game for International Students in Japan”, [_Tohoku J. Natural Disaster Sci._ **54**, pp. 279-284 (2018)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume54/54-49.pdf).
   * Journal title in Japanese: 東北地域災害科学研究.
 
-### 投稿中 In progress
+## 投稿中 Under Review
 
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
 0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _submitted_.
