@@ -41,7 +41,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 ## 他分野学術論文 Other Journal Articles  
 
-0. Y. Sato\*, A. Kobayashi, **M. S. Al Farisi**, T. Wanxin, K. Sugiyasu, M. Matsumoto: "Investigation on Relief Supplies for Home Evacuees after the Great East Japan Earthquake －Case of Iwaki City, Fukushima Prefecture", [Coll. Great East J. Earthquake, Inst. Soc. Safety Sci._ **8**, pp. 19–22 (2019)](https://isss.jp.net/isss-site/wp-content/uploads/2022/06/06-2019-1.pdf).
+0. Y. Sato\*, A. Kobayashi, **M. S. Al Farisi**, T. Wanxin, K. Sugiyasu, M. Matsumoto: "Investigation on Relief Supplies for Home Evacuees after the Great East Japan Earthquake －Case of Iwaki City, Fukushima Prefecture", [_Coll. Great East J. Earthquake, Inst. Soc. Safety Sci._ **8**, pp. 19–22 (2019)](https://isss.jp.net/isss-site/wp-content/uploads/2022/06/06-2019-1.pdf).
   * In Japanese: 佐藤悠司, 小林陽成, **M. S. Al Farisi**, 唐万新, 杉安和也, 松本行真: "東日本大震災における在宅避難者への物資支援に関する調査と考察－福島県いわき市を対象として－" 地域安全学会東日本大震災特別論文集 **8** pp. 19–22 (2019).
 0. T. Seki\*, **M. S. Al Farisi**, H. Tetsuka, S. Ishibashi, Y. Kumagai, N. Araya, M. Kuri: "Support activities aimed at dissemination of voluntary and sustainable education for disaster mitigation: an example of the Disaster Mitigation Action Card Game", [_Tohoku J. Natural Disaster Sci._ **55**, pp. 209–214 (2019)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume55/55-36.pdf).
   * In Japanese: 関亜美, **M. S. Al Farisi**, 手塚寛, 石橋信治, 熊谷裕太, 新谷直己, 久利美和: "自主的・持続的な防災教育活動の普及を目指した実施支援 －減災アクションカードゲームを例にー" 東北地域災害科学研究 **55** pp. 209–214 (2019).
