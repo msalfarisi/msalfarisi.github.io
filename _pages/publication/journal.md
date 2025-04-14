@@ -52,6 +52,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 ## 投稿中 Under Review
 
+0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _submitted_.
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
 0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _submitted_.
 0. K. Sato\*, M. Matsushima, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _submitted_.
