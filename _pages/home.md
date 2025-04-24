@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2024/04/22</td>
+    <td>Acquired a private research grant from <a href="https://www.furukawa-techfound.com/">Furukawa Foundation 財団法人古川技術振興財団 研究助成</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/04/16</td>
     <td><a href="/publication/">Our paper</a> on the laser fabrication of flexible MEMS thermal flow sensor has been published in <a href="https://doi.org/10.1109/JSEN.2025.3559179">IEEE Sensors Journal</a>.</td>
   </tr>
