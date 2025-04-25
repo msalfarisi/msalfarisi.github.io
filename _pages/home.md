@@ -24,7 +24,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
  <table style="width:100%">
   <tr>
     <td style="color:#6d6d6d;">2024/04/22</td>
-    <td>Acquired a private research grant from <a href="https://www.furukawa-techfound.com/">Furukawa Foundation 財団法人古川技術振興財団 研究助成</a>.</td>
+    <td>Acquired a private research grant from <a href="https://www.furukawa-techfound.com/">Furukawa Foundation 公益財団法人古川技術振興財団 研究助成</a>.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2025/04/16</td>
