@@ -54,7 +54,9 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 ## 投稿中 Under Review
 
-0. A. Hermawan, A. P. Yasin, E. F. M. Harahap, N. L. W. Septiani, A. Hardiansyah, Jayadi, M. Shahid, **M. S. Al Farisi**, B. Yuliarto: "Tailoring NiFeOx Nanostructures with Molten Salts Synthesis for
+0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," _submitted_.
+0. **M. S. Al Farisi**\*, K. Tsuji, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pneumatic Tactile Sensor Probe with Variable Sensitivity for Palpation during Catheterization," _submitted_.
+0. A. Hermawan\*, A. P. Yasin, E. F. M. Harahap, N. L. W. Septiani, A. Hardiansyah, Jayadi, M. Shahid, **M. S. Al Farisi**, B. Yuliarto: "Tailoring NiFeOx Nanostructures with Molten Salts Synthesis for
 Non-Enzymatic Electrochemical Sensing of Dopamine," _submitted_.
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _submitted_.
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
