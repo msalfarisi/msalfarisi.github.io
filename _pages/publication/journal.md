@@ -15,6 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
+0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _Sens._, _in press_ (2025).
 0. K. Sato, M. Matsushima\*, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _Jpn. J. Med. Technol._, _in press_ (2025).
   * In Japanese: 佐藤浩司, 松島充代子, 長谷川義大, **M. S. Al Farisi**, 式田光宏, 池田勝秀, 加藤千秋, 川部勤: "小型熱式流量センサを用いた末梢気道病変の検出を可能にする局所肺機能検査法開発のための基礎的検討" 医学検査, _in press_ (2025).
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Laser Micromachining 3D Free Standing Structure of MEMS Thermal Flow Sensor," [_IEEE Sens. J._, _in press_ (2025)](https://doi.org/10.1109/JSEN.2025.3559179). (Preprint: [TechRxiv:174494957.77800988](https://doi.org/10.36227/techrxiv.174494957.77800988/v1)) (IF: 4.3)
@@ -60,4 +61,3 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 Non-Enzymatic Electrochemical Sensing of Dopamine," _submitted_.
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _submitted_.
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
-0. N. F. A. Ibrahim, A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _submitted_.
