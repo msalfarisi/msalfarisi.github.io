@@ -15,7 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
-0. A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, N. F. A. Ibrahim, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _Sens._, _in press_ (2025).
+0. A. M. Noor\*, **M. S. Al Farisi**, M. Mazalan, N. F. A. Ibrahim, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," _Sens._, _in press_ (2025). (IF: 3.4)
 0. K. Sato, M. Matsushima\*, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _Jpn. J. Med. Technol._, _in press_ (2025).
   * In Japanese: 佐藤浩司, 松島充代子, 長谷川義大, **M. S. Al Farisi**, 式田光宏, 池田勝秀, 加藤千秋, 川部勤: "小型熱式流量センサを用いた末梢気道病変の検出を可能にする局所肺機能検査法開発のための基礎的検討" 医学検査, _in press_ (2025).
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Laser Micromachining 3D Free Standing Structure of MEMS Thermal Flow Sensor," [_IEEE Sens. J._, _in press_ (2025)](https://doi.org/10.1109/JSEN.2025.3559179). (Preprint: [TechRxiv:174494957.77800988](https://doi.org/10.36227/techrxiv.174494957.77800988/v1)) (IF: 4.3)
