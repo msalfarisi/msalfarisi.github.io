@@ -61,3 +61,4 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 Non-Enzymatic Electrochemical Sensing of Dopamine," _submitted_.
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _submitted_.
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
+0. S. Yamada, **M. S. Al Farisi**\*, M. Kumemura, A. Hermawan, T. Honda: "Biodegradable Tactile Sensors Using a Bioderived Ionic Liquid for Transient Ionics," _submitted_.
