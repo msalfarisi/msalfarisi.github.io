@@ -23,6 +23,14 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/07/03</td>
+    <td>Presented (1 oral and 1 poster) at the <a href="https://transducers2025.org/">23rd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 29 June - 3 July 2025 in Orlando, Florida, USA. Other 5 co-authored works were also presented (all posters). </td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2025/07/02</td>
+    <td><a href="/publication/">Our paper</a> on the pneumatic tactile sensor probe has been published in <a href="https://doi.org/10.1109/LSENS.2025.3585201">IEEE Sensors Letters</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/05/30</td>
     <td><a href="/publication/">Our paper</a> on the wearable sweat sodium sensor has been published in <a href="https://doi.org/10.3390/s25113467">Sensors</a>.</td>
   </tr>
@@ -140,7 +148,7 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/06/29</td>
-    <td>Presented (oral) at the <a href="https://transducers2023.org/">22th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 25-29 June 2023 in Kyoto, Japan. Also participated in the Future Visions for Transducers session and represented as a panelist in the panel discussion under theme "Future Visions for Transducers Fabrication". Other 2 co-authored works were also presented (poster). </td>
+    <td>Presented (oral) at the <a href="https://transducers2023.org/">22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 25-29 June 2023 in Kyoto, Japan. Also participated in the Future Visions for Transducers session and represented as a panelist in the panel discussion under theme "Future Visions for Transducers Fabrication". Other 2 co-authored works were also presented (poster). </td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2023/05/29</td>
