@@ -15,7 +15,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
-0. **M. S. Al Farisi**\*, K. Tsuji, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pneumatic Tactile Sensor Probe with Variable Sensitivity for Palpation during Catheterization," [_IEEE Sens. Lett._, _in press_ (2025)](https://doi.org/10.1109/LSENS.2025.3585201). (IF: 2.2)
+0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _IEEE Sens. J._, _in press_ (2025).
+0. **M. S. Al Farisi**\*, K. Tsuji, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Pneumatic Tactile Sensor Probe with Variable Sensitivity for Palpation during Catheterization," [_IEEE Sens. Lett._ **9** (8), _in press_ (2025)](https://doi.org/10.1109/LSENS.2025.3585201). (IF: 2.2)
 0. K. Sato, M. Matsushima\*, Y. Hasegawa, **M. S. Al Farisi**, M. Shikida, K. Ikeda, C. Kato, T. Kawabe: "Basic investigation of the development of localized pulmonary function test for detecting peripheral airway lesions using a miniaturized thermal flow sensor," _Jpn. J. Med. Technol._, _in press_ (2025).
   * In Japanese: 佐藤浩司, 松島充代子, 長谷川義大, **M. S. Al Farisi**, 式田光宏, 池田勝秀, 加藤千秋, 川部勤: "小型熱式流量センサを用いた末梢気道病変の検出を可能にする局所肺機能検査法開発のための基礎的検討" 医学検査, _in press_ (2025).
 0. A. M. Noor\*, **M. S. Al Farisi**\*, M. Mazalan, N. F. A. Ibrahim, A. A. Wahab, Z. Zakaria, N. I. Rusli, N. Sabani, A. A. Manaf: "Wearable Device for Continuous and Real-Time Monitoring of Human Sweat Sodium," [_Sens._ **25** (11), p. 3467 (2025)](https://doi.org/10.3390/s25113467). (IF: 3.4)
@@ -60,5 +61,4 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 0. A. Hermawan\*, A. P. Yasin, E. F. M. Harahap, N. L. W. Septiani, A. Hardiansyah, Jayadi, M. Shahid, **M. S. Al Farisi**, B. Yuliarto: "Tailoring NiFeOx Nanostructures with Molten Salts Synthesis for
 Non-Enzymatic Electrochemical Sensing of Dopamine," _submitted_.
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _submitted_.
-0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," _submitted_.
 0. S. Yamada\*, **M. S. Al Farisi**, M. Kumemura, A. Hermawan, T. Honda: "Biodegradable Tactile Sensors Using a Bioderived Ionic Liquid for Transient Ionics," _submitted_.
