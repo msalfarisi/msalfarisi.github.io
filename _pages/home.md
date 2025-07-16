@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Junior Associa
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/07/15</td>
+    <td><a href="/publication/">Our paper</a> on the tracheal intubation tube slip-joint adaptor has been published in <a href="https://doi.org/10.1109/JSEN.2025.3586776">IEEE Sensors Journal</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/07/03</td>
     <td>Presented (1 oral and 1 poster) at the <a href="https://transducers2025.org/">23rd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)</a>, 29 June - 3 July 2025 in Orlando, Florida, USA. Other 5 co-authored works were also presented (all posters). </td>
   </tr>
