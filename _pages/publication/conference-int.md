@@ -13,6 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国際学会 International Conferences
 
+0. F. A. Dinata, **M. S. Al Farisi**, N. K. Putra: "Designing In Situ Pressure Measurement System for In Vitro Vascular Model Experiment," In _2025 22nd Int. Conf. Flow Dynamics (ICFD)_, _accepted_ (2025).
 0. F. A. Dinata, H. F. Anshori, **M. S. Al Farisi**, M. Iqbal, N. K. Putra: "On-Site Fluid Pressure Measurement Device for Vascular Flow Evaluation," In _2025 9th Int. Conf. Instrumentation, Control, and Automation (ICA)_, _accepted_ (2025).
 0. **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Nano/Microsystems for Medical Assessment Inside Lung Airway," In _2025 2nd Int. Sem. Nanotechnology, Nanomaterials and Devices (ISNND)_, _accepted_ (2025). ([Invited](/publication/invited/))
 0. **M. S. Al Farisi**, T. Tsukada, Y. Hasegawa, M. Matsushima, S. Hasegawa, T. Kawabe, M. Shikida: "Palm-sized wireless MEMS flow sensor system attachable to medical mask for real-time respiration monitoring," In _2025 23rd Int. Conf. Solid-State Sensors Actuators and Microsystems (Transducers)_, pp. 582–585 (2025).
