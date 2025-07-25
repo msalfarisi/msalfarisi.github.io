@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/07/25</td>
+    <td><a href="/publication/">Our paper</a> on the localized pulmonary function test medical demonstration has been published in <a href="https://doi.org/10.14932/jamt.25-5">Japanese Journal of Medical Technology</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/07/15</td>
     <td><a href="/publication/">Our paper</a> on the tracheal intubation tube slip-joint adaptor has been published in <a href="https://doi.org/10.1109/JSEN.2025.3586776">IEEE Sensors Journal</a>.</td>
   </tr>
