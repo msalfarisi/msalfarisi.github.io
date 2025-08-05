@@ -31,6 +31,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
     <td><a href="/publication/">Our paper</a> on the localized pulmonary function test medical demonstration has been published in <a href="https://doi.org/10.14932/jamt.25-5">Japanese Journal of Medical Technology</a>.</td>
   </tr>
   <tr>
+    <td style="color:#6d6d6d;">2025/07/24</td>
+    <td>Conducted a 3-day open course hands-on reseach project for high school students <a href="https://www.hiroshima-cu.ac.jp/service/content0014/#a03">情報科学部公開講座「高校生による情報科学自由研究」</a> Theme 21: "Respiration sensor using micromachine technology" <a href="https://www.hiroshima-cu.ac.jp/uploads/2025/01/b03600725358aaa9dc4fcc5cddfb6801-20250523010133577.pdf">マイクロマシン技術を用いた呼吸センサ</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/07/15</td>
     <td><a href="/publication/">Our paper</a> on the tracheal intubation tube slip-joint adaptor has been published in <a href="https://doi.org/10.1109/JSEN.2025.3586776">IEEE Sensors Journal</a>.</td>
   </tr>
