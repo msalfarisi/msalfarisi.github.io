@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/08/25</td>
+    <td>Presented (invited) at the <a href="https://isnnd.weebly.com/">2nd International Seminar on Nanotechnology, Nanomaterials, and Devices (ISNND)</a>, 25-26 August 2025 in Serpong, Indonesia. </td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/07/27</td>
     <td><a href="/publication/">Our paper</a> on the nanomaterials for dopamine electrochemical sensing has been published in <a href="https://doi.org/10.1007/s10008-025-06395-x">Journal of Solid State Electrochemistry</a>.</td>
   </tr>
