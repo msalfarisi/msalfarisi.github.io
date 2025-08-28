@@ -13,6 +13,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 招待講演 Invited Talks
   
+0. **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Nano/Microsystems for Medical Assessment Inside Lung Airway," In _2025 2nd Int. Sem. Nanotechnology, Nanomaterials and Devices (ISNND)_, p. 23 (2025). ([Invited](/publication/invited/))
 0. **M. S. Al Farisi**, Y. Wang, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida:  "Facile In-Tube-Center Packaging of Flexible Airflow Rate Microsensor for Simultaneous Respiration and Heartbeat Measurement," In _2024 IEEE Sensors_, p. 7212 (2024). (Pre-published [journal paper](/publication/))
 0. **M. S. Al Farisi**: "Micro-electro Mechanical Systems for Biomedical Mechatronics," In _Indonesian Diaspora Scientific Forum / Forum Ilmiah Diaspora Indonesia (FIDI)_, ID-009 (2023).
 
