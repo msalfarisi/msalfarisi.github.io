@@ -15,7 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
-0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser Fabrication of Ti Stent and Facile MEMS Flow Sensor Integration for Implantable Respiration Monitoring," _Sens. Act. A Phys._, _in press_ (2025). (IF: 4.9)
+0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser fabrication of Ti stent and facile MEMS flow sensor integration for implantable respiration monitoring," _Sens. Act. A Phys._, _in press_ (2025). (IF: 4.9)
 0. S. Yamada\*, **M. S. Al Farisi**, M. Kumemura, A. Hermawan, T. Honda: "Biodegradable Tactile Sensors Using a Bioderived Ionic Liquid for Transient Ionics," _ACS Mater. Au_, _in press_ (2025). (IF: 6.5)
 0. A. Hermawan\*, A. P. Yasin, E. F. M. Harahap, N. L. W. Septiani, A. Hardiansyah, Jayadi, M. Shahid, **M. S. Al Farisi**, B. Yuliarto: "Tailoring NiFeOx Nanostructures with Molten Salts Synthesis for Non-Enzymatic Electrochemical Sensing of Dopamine," [_J. Solid State Electrochem._, _in press_ (2025)](https://doi.org/10.1007/s10008-025-06395-x). (IF: 2.6)
 0. A. Sueyoshi, **M. S. Al Farisi**\*, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Slip-Joint Adaptor Enabling Respiratory Monitoring in Tracheal Intubation Tube," [_IEEE Sens. J._ **25** (16), pp. 30507–30513 (2025)](https://doi.org/10.1109/JSEN.2025.3586776). (Preprint: [TechRxiv:175322637.78820599](https://doi.org/10.36227/techrxiv.175322637.78820599/v1)) (IF: 4.5)
