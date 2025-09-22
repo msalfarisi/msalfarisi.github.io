@@ -16,6 +16,15 @@ author_profile: true
 * **PCB design**: [KiCAD](https://kicad.org/)
 * **Video editing**: [Kdenlive](https://kdenlive.org/en/)
 
+## Other useful tools
+
+* **LaTeX** online editor: [Overleaf](https://www.overleaf.com/)
+* **LaTeX** style math editor: [TeXclip](https://texclip.marutank.net/)
+* **Calculation**: [WolframAlpha](https://www.wolframalpha.com/)
+* **Map** creation: [SimpleMappr](https://www.simplemappr.net/)
+* **Image converter** from graph to raw data: [WebPlotDigitizer](https://automeris.io/)
+* **Image vectorizer**: [Vectorizer](https://vectorizer.ai/)
+
 ## [Microfabrication know-how](https://sites.google.com/view/nmems/)
 
 ## Related:
