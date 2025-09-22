@@ -23,6 +23,14 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/09/11</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="https://sensors-nano.ieeemy.org/conference/">IEEE International Conference on Sensors & Nanotechnology (SENNANO) 2025</a>, 10-11 September 2025 in Putrajaya, Malaysia.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2025/08/29</td>
+    <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="https://icaitb.id/">9th International Conference on Instrumentation, Control and Automation (ICA) 2025</a>, 27-29 August 2025 in Bandung, Indonesia.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/08/25</td>
     <td>Presented (invited) at the <a href="https://isnnd.weebly.com/">2nd International Seminar on Nanotechnology, Nanomaterials, and Devices (ISNND)</a>, 25-26 August 2025 in Serpong, Indonesia. </td>
   </tr>
