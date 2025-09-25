@@ -61,3 +61,4 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 ## 投稿中 Under Review
 
 0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," _submitted_.
+0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Single-step laser patterning and thinning of biocompatible MEMS flow sensor," _submitted_.
