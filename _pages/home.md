@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/09/25</td>
+    <td><a href="/publication/">Our paper</a> on the biodegradable tactile sensor has been published in <a href="https://doi.org/10.1021/acsmaterialsau.5c00107">ACS Materials Au</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/09/11</td>
     <td><a href="/publication/">Our work</a> was presented (oral) at the <a href="https://sensors-nano.ieeemy.org/conference/">IEEE International Conference on Sensors & Nanotechnology (SENNANO) 2025</a>, 10-11 September 2025 in Putrajaya, Malaysia.</td>
   </tr>
