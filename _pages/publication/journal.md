@@ -62,3 +62,5 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," _submitted_.
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Single-step laser patterning and thinning of biocompatible MEMS flow sensor," _submitted_.
+0. A. M. Noor\*, **M. S. Al Farisi**\*, M. Mazalan, K. Y. Lim, N. R. A. V. Kutty, A. A. Wahab, A. A. Manaf: "Advancing Non-Invasive Blood Glucose Monitoring Through Dual-Wavelength Near-Infrared Spectroscopy," _submitted_.
+
