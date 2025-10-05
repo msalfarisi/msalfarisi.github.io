@@ -13,6 +13,18 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](/publication/conference-int/) | [招待講演 Invited Talks](publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/) | [研究資金 Research Grants](/publication/grant/)
 ## 国内学会 Domestic Conferences
 
+0. **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Diaphragm-Type Flexible MEMS Thermal Sensor Fabricated via Localized Laser Processing", In _the 16th Symp. Micro-Nano Science and Technology_, p. 11A3-PN-14 (2025).
+  * In Japanese: **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "局所的レーザ加工によるダイアフラム型フレキシブル MEMS 熱式センサの開発", 第16回マイクロ・ナノ工学シンポジウム, p. 11A3-PN-14 (2025).
+0. M. N. Mohamed Zukri, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Metal thin film cutting optimization by 2-D fiber laser processing condition mapping", In _the 42nd Sensor Symposium on Sensors, Micromachines and Applied Systems_, _accepted_ (2025).
+  * In Japanese: M. N. Mohamed Zukri, **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "二次元ファイバレーザ加工条件マッピングによる金属薄膜貫通プロセスの最適化", 第42回「センサ・マイクロマシンと応用システム」シンポジウム, _accepted_ (2025).
+0. A. Hirayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Integration of Steering Microcatheter and MEMS Flow Sensor for Respiratory Measurement in Pulmonary Bronchiole", In _the 42nd Sensor Symposium on Sensors, Micromachines and Applied Systems_, _accepted_ (2025).
+  * In Japanese: 平山 蒼, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺細気管支内での呼吸量計測に向けたステアリングマイクロカテーテルとMEMS流量センサの一体化", 第42回「センサ・マイクロマシンと応用システム」シンポジウム, _accepted_ (2025).
+0. R. Nakamura, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Eco-Friendly Water Dissolvable Thermal MEMS Sensor Toward Sustainable Society", In _the 42nd Sensor Symposium on Sensors, Micromachines and Applied Systems_, _accepted_ (2025).
+  * In Japanese: 中村 琉聖, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "持続性社会を目指した環境調和型加水分解性熱式MEMSセンサの開発", 第42回「センサ・マイクロマシンと応用システム」シンポジウム, _accepted_ (2025).
+0. J. Yoshida, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "High-Precision Respiratory Measurement Inside the Lungs Using Balloon Catheter", In _the 42nd Sensor Symposium on Sensors, Micromachines and Applied Systems_, _accepted_ (2025).
+  * In Japanese: 吉田 潤, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "バルーンカテーテルを利用した肺内部での経気管的高精度呼吸計測技術の開発", 第42回「センサ・マイクロマシンと応用システム」シンポジウム, _accepted_ (2025).
+0. A. Sueyoshi, **M. S. Al Farisi**, Y. Hasegawa, M. Shikida: "Flexible Thermal Sensor for Wall Shear Stress Measurement on Curved Surfaces", In _the 42nd Sensor Symposium on Sensors, Micromachines and Applied Systems_, _accepted_ (2025).
+  * In Japanese: 末吉 彩夏, **M. S. Al Farisi**, 長谷川 義大, 式田 光宏, "曲面上での壁面せん断応力測定を目的としたフレキシブル熱式センサの開発", 第42回「センサ・マイクロマシンと応用システム」シンポジウム, _accepted_ (2025).
 0. A. Hirayama, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of MEMS Thermal Flow Sensor Integrated into Microcatheter for Respiration Measurement in Brochioles", In _IEEJ Annual Conference 2025_, p. 3-119 (2025).
   * In Japanese: 平山 蒼, **M. S. Al Farisi**, 長谷川 義大, 松島 充代子, 川部 勤, 式田 光宏, "肺細気管支での呼吸計測が可能なマイクロカテーテル一体化型流量センサの開発", 令和7年電気学会全国大会, p. 3-119 (2025).
 0. J. Yoshida, **M. S. Al Farisi**, Y. Hasegawa, M. Matsushima, T. Kawabe, M. Shikida: "Development of a Balloon Catheter Type Sensor System for Quantitative Respiratory Measurements in the Lungs", In _IEEJ Annual Conference 2025_, p. 3-120 (2025).
