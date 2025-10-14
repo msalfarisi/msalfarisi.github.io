@@ -15,6 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
+0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," _IEEE Sens. J._, _accepted_ (2025). (IF: 4.5)
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser fabrication of Ti stent and facile MEMS flow sensor integration for implantable respiration monitoring," [_Sens. Act. A Phys._ **396**, p. 117083 (2025)](https://doi.org/10.1016/j.sna.2025.117083). (IF: 4.9)
 0. S. Yamada\*, **M. S. Al Farisi**, M. Kumemura, A. Hermawan, T. Honda: "Biodegradable Tactile Sensors Using a Bioderived Ionic Liquid for Transient Ionics," [_ACS Mater. Au_, _in press_ (2025)](https://doi.org/10.1021/acsmaterialsau.5c00107). (IF: 6.5)
 0. A. Hermawan\*, A. P. Yasin, E. F. M. Harahap, N. L. W. Septiani, A. Hardiansyah, Jayadi, M. Shahid, **M. S. Al Farisi**, B. Yuliarto: "Tailoring NiFeOx Nanostructures with Molten Salts Synthesis for Non-Enzymatic Electrochemical Sensing of Dopamine," [_J. Solid State Electrochem._, _in press_ (2025)](https://doi.org/10.1007/s10008-025-06395-x). (IF: 2.6)
@@ -60,7 +61,6 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 ## 投稿中 Under Review
 
-0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," _submitted_.
 0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Single-step laser patterning and thinning of biocompatible MEMS flow sensor," _submitted_.
 0. A. M. Noor\*, **M. S. Al Farisi**\*, M. Mazalan, K. Y. Lim, N. R. A. V. Kutty, A. A. Wahab, A. A. Manaf: "Advancing Non-Invasive Blood Glucose Monitoring Through Dual-Wavelength Near-Infrared Spectroscopy," _submitted_.
 
