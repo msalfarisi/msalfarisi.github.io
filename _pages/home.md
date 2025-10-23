@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/10/23</td>
+    <td><a href="/publication/">Our paper</a> on the laser ablation for time response enhancement of flexible thermal sensors has been published in <a href="https://doi.org/10.1109/JSEN.2025.3622312">IEEE Sensors Journal</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/09/29</td>
     <td><a href="/publication/">Our paper</a> on the stent integrated flow sensor has been published in <a href="https://doi.org/10.1016/j.sna.2025.117083">Sensors and Actuators A: Physical</a>.</td>
   </tr>
