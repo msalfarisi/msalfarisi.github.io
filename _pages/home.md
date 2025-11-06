@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/11/05</td>
+    <td>Delivered an <a href="/publication/">invited lecture</a> for students in Biomedical Engineering Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/10/23</td>
     <td><a href="/publication/">Our paper</a> on the laser ablation for time response enhancement of flexible thermal sensors has been published in <a href="https://doi.org/10.1109/JSEN.2025.3622312">IEEE Sensors Journal</a>.</td>
   </tr>
@@ -33,6 +37,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
   <tr>
     <td style="color:#6d6d6d;">2025/09/25</td>
     <td><a href="/publication/">Our paper</a> on the biodegradable tactile sensor has been published in <a href="https://doi.org/10.1021/acsmaterialsau.5c00107">ACS Materials Au</a>.</td>
+  </tr>
+  <tr>
+    <td style="color:#6d6d6d;">2025/09/16</td>
+    <td>Delivered an <a href="/publication/">invited lecture</a> for students in Engineering Physics Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
   </tr>
   <tr>
     <td style="color:#6d6d6d;">2025/09/11</td>
