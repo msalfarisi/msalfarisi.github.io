@@ -15,8 +15,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 0. Furukawa Foundation, April 2025 – March 2026 (PI)  
 Budget: JPY 1,000,000,-  
-公益財団法人　古川技術振興財団　研究助成（研究代表者）
-課題名：経気管支的に流量計測可能にするバルーンカテーテル型センサシステム 
+公益財団法人　古川技術振興財団　研究助成（研究代表者）  
+課題名：経気管支的に流量計測可能にするバルーンカテーテル型センサシステム  
 研究期間：2025年4月〜2026年3月　　総額：1,000千円
 
 0. Japan Society for the Promotion of Science (JSPS) Kakenhi: Grant-in-Aid for Early-Career Scientists, April 2024 - March 2026 (PI)  
