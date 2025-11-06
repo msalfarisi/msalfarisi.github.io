@@ -13,6 +13,12 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 [学術論文 Journal Articles](/publication/) | [国際学会 International Conferences](publication/conference-int/) | [国内学会 Domestic Conferences](/publication/conference-dom/) | [招待講演 Invited Talks](/publication/invited/) | [書籍 Books](/publication/book/) | [受賞 Awards](/publication/award/)
 ## 研究資金 Research Grants
 
+0. Furukawa Foundation, April 2025 – March 2026 (PI)  
+Budget: JPY 1,000,000,-  
+公益財団法人　古川技術振興財団　研究助成（研究代表者）
+課題名：経気管支的に流量計測可能にするバルーンカテーテル型センサシステム 
+研究期間：2025年4月〜2026年3月　　総額：1,000千円
+
 0. Japan Society for the Promotion of Science (JSPS) Kakenhi: Grant-in-Aid for Early-Career Scientists, April 2024 - March 2026 (PI)  
 Project title: [Biodegradable implantable flow sensor for on-site continuous monitoring of respiratory system](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24K21094/)  
 Budget: JPY 4,680,000,-  
