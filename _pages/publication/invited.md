@@ -19,6 +19,8 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 ## 特別講義 Guest Lectures
   
+0. **M. S. Al Farisi**: "Micro-electro mechanical systems (MEMS) and its biomedical applications," In _Biomedical Engineering Undergraduate Program_ (EB2101 Fundamentals of Biomedical Engineering), Institut Teknologi Bandung (2025).
+0. **M. S. Al Farisi**: "Micro-electro mechanical systems (MEMS) and its biomedical applications," In _Engineering Physics Undergraduate Program_ (TF4084 Freedom to Learn E), Institut Teknologi Bandung (2025).
 0. **M. S. Al Farisi**: "Future development of biomedical sensor -Micro-electro mechanical systems-," In _Biomedical Engineering Master Program_ (ENBE802102 Biomedical Sensor), University of Indonesia (2023).
 0. **M. S. Al Farisi**: "Introduction to MEMS and its biomedical applications," In _Biomedical Engineering Undergraduate Program_ (EB4012 Biosensor), Institut Teknologi Bandung (2022).
 0. **M. S. Al Farisi**: "Micro-electro mechanical systems (MEMS) for biomedical applications," In _Engineering Physics Undergraduate Program_ (TF4084 Freedom to Learn E, KU3024 Independent Study/Project A, KU3025 Independent Study/Project B), Institut Teknologi Bandung (2022).
