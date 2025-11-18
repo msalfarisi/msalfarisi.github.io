@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/11/13</td>
+    <td><a href="/publication/">Our works</a> were presented (4 posters, 2 orals) at the <a href="https://sensorsymposium.org/">Future Technologies from UTSUNOMIYA 合同シンポジウム</a>, 10-13 November 2025 in Utsunomiya, Japan. One presentation was honored as a nominee for Excellent Poster Award 優秀ポスター発表賞 最終ノミネート論文.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/11/05</td>
     <td>Delivered an <a href="/publication/">invited lecture</a> for students in Biomedical Engineering Undergraduate Program, Institut Teknologi Bandung, Indonesia.</td>
   </tr>
