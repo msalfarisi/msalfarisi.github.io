@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2025/12/11</td>
+    <td><a href="/publication/">Our paper</a> on the laser fabrication of flexible MEMS thermal flow sensor has been published in <a href="https://doi.org/10.1016/j.sna.2025.117377">Sensors and Actuators A: Physical</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/11/13</td>
     <td><a href="/publication/">Our works</a> were presented (4 posters, 2 orals) at the <a href="https://sensorsymposium.org/">Future Technologies from UTSUNOMIYA 合同シンポジウム</a>, 10-13 November 2025 in Utsunomiya, Japan. One presentation was honored as a nominee for Excellent Poster Award 優秀ポスター発表賞 最終ノミネート論文.</td>
   </tr>
