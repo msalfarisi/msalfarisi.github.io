@@ -15,7 +15,7 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 \* : Corresponding author  
 
-0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Single-step laser patterning and thinning of biocompatible MEMS flow sensor," _Sens. Act. A Phys._, _in press_ (2026). (Preprint: [arXiv:2512.08128](https://doi.org/10.48550/arXiv.2512.08128)) (IF: 4.9)
+0. M. N. Mohamed Zukri\*, **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Single-step laser patterning and thinning of biocompatible MEMS flow sensor," [_Sens. Act. A Phys._, _in press_ (2026)](https://doi.org/10.1016/j.sna.2025.117377). (Preprint: [arXiv:2512.08128](https://doi.org/10.48550/arXiv.2512.08128)) (IF: 4.9)
 0. **M. S. Al Farisi**\*, Y. Hasegawa, M. Shikida: "Response Time Suppression in Flexible MEMS Thermal Sensor by Backside Laser Ablation," [_IEEE Sens. J._ **25** (23), pp. 42581–42588 (2025)](https://doi.org/10.1109/JSEN.2025.3622312). (Preprint: [TechRxiv:176127379.93016845](https://doi.org/10.36227/techrxiv.176127379.93016845/v1)) (IF: 4.5)
 0. **M. S. Al Farisi**\*, T. Kawata, Y. Hasegawa, M. N. Mohamed Zukri, M. Matsushima, T. Kawabe, M. Shikida: "Laser fabrication of Ti stent and facile MEMS flow sensor integration for implantable respiration monitoring," [_Sens. Act. A Phys._ **396**, p. 117083 (2025)](https://doi.org/10.1016/j.sna.2025.117083). (Preprint: [arXiv:2510.19228](https://doi.org/10.48550/arXiv.2510.19228)) (IF: 4.9)
 0. S. Yamada\*, **M. S. Al Farisi**, M. Kumemura, A. Hermawan, T. Honda: "Biodegradable Tactile Sensors Using a Bioderived Ionic Liquid for Transient Ionics," [_ACS Mater. Au_ **5** (6), pp. 1029–1036 (2025)](https://doi.org/10.1021/acsmaterialsau.5c00107). (IF: 6.5)
