@@ -64,5 +64,5 @@ You can also find statistics regarding my publications on my [Google Scholar](ht
 
 0. F. A. Dinata, **M. S. Al Farisi**\*, H. F. Anshori, Y. Hasegawa, M. Shikida, N. K. Putra\*: "Catheter sensor probe enabling simultaneous measurements of cardiovascular pressure and flow velocity: experimental model validation," _submitted_.
 0. S. Yamada\*, **M. S. Al Farisi**, A. Hermawan, T. Honda: "Moisture-Resistant Bioderived Deep Eutectic Solvent via Molecular-Level Sealing," _submitted_.
-0. M. S. Nasir\*, A. Kugimiya, **M. S. Al Farisi**\*: "Geometric strategies for passive preconcentration of pyrene and benz[α]anthracene on microfluidic paper-based analytical devices," _submitted_.
+0. M. S. Nasir\*, A. Kugimiya, **M. S. Al Farisi**\*: "Geometric strategies for passive preconcentration of pyrene and benz[α]anthracene on microfluidic paper-based analytical devices," _submitted_. (Preprint: [SSRN:5942460](https://dx.doi.org/10.2139/ssrn.5942460))
 
