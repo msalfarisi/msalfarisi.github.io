@@ -23,6 +23,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
   <tr>
+    <td style="color:#6d6d6d;">2026/02/27</td>
+    <td>Acquired a public research grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-/">Grant-in-Aid for Scientific Research (B) (科研費「基盤研究(B)」)</a>.</td>
+  </tr>
+  <tr>
     <td style="color:#6d6d6d;">2025/12/11</td>
     <td><a href="/publication/">Our paper</a> on the laser fabrication of flexible MEMS thermal flow sensor has been published in <a href="https://doi.org/10.1016/j.sna.2025.117377">Sensors and Actuators A: Physical</a>.</td>
   </tr>
