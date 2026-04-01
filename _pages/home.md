@@ -10,9 +10,9 @@ redirect_from:
 
 ## Welcome ようこそ
 
-アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！広島市立大学 大学院情報科学研究科 医用情報科学専攻 講師です。
+アル・ファリシィ　ムハンマド・サルマンのホームページへようこそ！九州工業大学 大学院生命体工学研究科 准教授です。
 
-Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate Professor) at Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, in Japan. We are studying [MEMS (micro-electro mechanical systems)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
+Welcome to the homepage of Muhammad Salman Al Farisi, an Associate Professor at Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, in Japan. We are studying [MEMS (micro-electro mechanical systems)](/research), from materials to device and systems, particularly for biomedical applications. We are widely recruiting students and posdocs, occasionally with available funding. Please drop a [contact](/#contact-連絡先) for inquiries.
 
 > When a man dies, his deeds come to an end except for three things: ceaseless charity, a knowledge which is beneficial, or a virtuous descendant who prays for him.  -- *Muhammad bin Abdullah*
 
@@ -22,6 +22,10 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 
 <div style="overflow-y: scroll; height:400px;">
  <table style="width:100%">
+  <tr>
+    <td style="color:#6d6d6d;">2026/04/01</td>
+    <td>Joined the Graduate School of Life Science and Systems Engineering, <a href="https://www.kyutech.ac.jp/">Kyushu Institute of Technology</a> (Japan) as an Associate Professor.</td>
+  </tr>
   <tr>
     <td style="color:#6d6d6d;">2026/02/27</td>
     <td>Acquired a public research grant from <a href="https://www.jsps.go.jp/">Japan Society for Promotion of Science (JSPS)</a> Kakenhi: <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-/">Grant-in-Aid for Scientific Research (B) / 科研費「基盤研究(B)」</a>.</td>
@@ -507,15 +511,13 @@ Welcome to the homepage of Muhammad Salman Al Farisi, a Lecturer (Jr Associate P
 
 ## Access アクセス
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44285.46315767713!2d132.4418257839965!3d34.413118969793345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355a9840c559d511%3A0x508d3762a4078a25!2z44CSNzMxLTMxNjYgSGlyb3NoaW1hLCBBc2FtaW5hbWkgV2FyZCwgxYx6dWthaGlnYXNoaSwgMy1jaMWNbWXiiJI04oiSMSDmg4XloLHlh6bnkIbjgrvjg7Pjgr_jg7w!5e0!3m2!1sen!2sjp!4v1617319363178!5m2!1sen!2sjp" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.02715691955!2d130.70746007662868!3d33.88895442633322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3543cbdc3bc8af57%3A0xfe9332a60adf3b81!2sKyushu%20Institute%20Of%20Technology%20Graduate%20School%20Of%20Life%20Science%20And%20Systems%20Engineering!5e0!3m2!1sen!2sjp!4v1775034840666!5m2!1sen!2sjp" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><br>
 
-Hiroshima City University<br>
-3-4-1 Ozuka-Higashi, Asaminami-ku, Hiroshima, 731-3194 Japan<br>
-Faculty of Information Sciences Bld. - Room 743
+Kyushu Institute of Technology<br>
+2-4 Hibikino, Wakamatsu-ku, Kitakyushu, Fukuoka, 808-0196 Japan<br>
 
 広島市立大学<br>
-〒731-3194　広島市安佐南区大塚東3丁目4-1<br>
-情報科学部棟　743号室
+〒808-0196　福岡県北九州市若松区ひびきの2-4<br>
 
 ## Contact 連絡先
 
