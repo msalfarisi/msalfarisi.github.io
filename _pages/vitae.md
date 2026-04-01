@@ -34,7 +34,10 @@ See [Curriculum Vitae](http://bit.ly/cv-muhammadsaf) for further details.
 
 ## 職歴 Appointment
 
-* **Lecturer (Junior Associate Professor) 講師 / Apr. 2024 – present**  
+* **Associate Professor 准教授 / Apr. 2026 – Present**  
+  at the Graduate School of Life Science and Systems Engineering, Kyushu Institute of Technology, Japan  
+  九州工業大学　大学院生命体工学研究科
+* **Lecturer (Junior Associate Professor) 講師 / Apr. 2024 – Mar. 2026**  
   at the Department of Biomedical Information Sciences, Graduate School of Information Sciences, Hiroshima City University, Japan  
   広島市立大学　大学院情報科学研究科　医用情報科学専攻
 * **Assistant Professor 助教 / Apr. 2021 – Mar. 2024**  
