@@ -516,14 +516,12 @@ Welcome to the homepage of Muhammad Salman Al Farisi, an Associate Professor at 
 Kyushu Institute of Technology<br>
 2-4 Hibikino, Wakamatsu-ku, Kitakyushu, Fukuoka, 808-0196 Japan<br>
 
-広島市立大学<br>
+九州工業大学<br>
 〒808-0196　福岡県北九州市若松区ひびきの2-4<br>
 
 ## Contact 連絡先
 
-alfarisi(at)hiroshima-cu.ac.jp  
-*or*  
-salman_fareez(at)yahoo.com  
+alfarisi-m788(at)m.kyutech.ac.jp  
 *Change "(at)" to "@"*
 
 **Phone 電話番号**: (+81) 082-830-1748 (ext. 4743)
